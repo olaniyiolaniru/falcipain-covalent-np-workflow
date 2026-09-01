@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the paper and the software."
+title: "Reactivity-weighted covalent natural-product screening workflow"
+doi: "10.5281/zenodo.22132514"
+abstract: "Reproducible in silico workflow for prioritizing covalent natural-product inhibitors: Michael-acceptor filtering, dual covalent docking, MM-GBSA, and a multi-descriptor DFT reactivity analysis, demonstrated against falcipain-2 and falcipain-3."
+authors:
+  - family-names: "Olaniru"
+    given-names: "Olaniyi Victor"
+    affiliation: "Department of Chemical Sciences, Lead City University, Ibadan, Nigeria"
+  - family-names: "Ajiboye"
+    given-names: "Clement Odunayo"
+    affiliation: "Department of Chemistry, University of Ibadan, Ibadan, Nigeria"
+version: "1.1.1"
+license: MIT
+date-released: "2026-09-01"
+keywords:
+  - covalent inhibitors
+  - natural products
+  - falcipain
+  - density functional theory
+  - molecular docking
+  - RDKit

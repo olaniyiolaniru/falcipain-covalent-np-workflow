@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.maegz
+*.mae
+*.log
+.DS_Store

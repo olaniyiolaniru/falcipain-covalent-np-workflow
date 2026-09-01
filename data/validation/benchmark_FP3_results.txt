@@ -1,0 +1,11 @@
+FP-3 retrospective enrichment benchmark
+---------------------------------------
+Actives: 22 ChEMBL falcipain-3 inhibitors (IC50/Ki/Kd <= 10 uM; 3 covalent)
+Decoys:  350 property-matched decoys
+Docking: LigPrep -> Glide HTVS -> SP funnel into the falcipain-3 grid
+Coverage: 16/22 actives and 115/350 decoys produced docked poses
+
+Docked ligands (n=131): ROC-AUC 0.576 (95% CI 0.443-0.711); EF1% 0.00; EF5% 0.00
+Full set, non-docking ligands assigned the worst score (n=372):
+                        ROC-AUC 0.717 (95% CI 0.609-0.818); EF1% 16.91; EF5% 5.64
+EF differences between the two treatments reflect that actives docked more often than decoys.

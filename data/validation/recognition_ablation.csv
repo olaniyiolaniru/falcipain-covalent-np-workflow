@@ -1,0 +1,17 @@
+compound,consensus_rank_all3,consensus_rank_no_recognition,covdock_alone_rank,PAINS
+SANC00370,1,3,4,catechol
+SANC00867,2,1,1,none
+SANC01049,3,4,3,none
+SANC01067,4,2,5,none
+SANC00964,5,6,8,none
+SANC00853,6,7,2,catechol
+SANC00412,7,5,6,none
+SANC00711,8,8,12,none
+SANC00893,9,10,15,none
+SANC00251,10,12,9,quinone
+SANC00716,11,9,11,quinone
+SANC00548,12,11,7,none
+SANC00247,13,13,10,quinone
+SANC00248,14,15,16,quinone
+SANC01026,15,16,13,quinone
+SANC00724,16,14,14,quinone

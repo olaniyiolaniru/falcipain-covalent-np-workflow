@@ -1,0 +1,5 @@
+analysis,active_set,n_actives,n_decoys,roc_auc,note
+boxsize_control,all_actives,256,5016,0.533,"full FP-2 benchmark (reported)"
+boxsize_control,size_admissible_le20A,185,5016,0.538,"actives with 3D max dimension <= 20 A (docking box edge) retained"
+boxsize_control,covalent_size_admissible_le20A,77,5016,0.545,"covalent-class actives, size-admissible only"
+geometry_summary,actives_measured,249,,,"7/256 SMILES failed 3D embedding; median max-dimension 18.0 A, max 26.7 A; 71 actives > 20 A"

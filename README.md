@@ -2,7 +2,7 @@
 
 Analysis code and data for **"Structure-Based Prioritization and Electronic
 Tuning of Cinnamate-Bearing Natural Products at Falcipain-2 and Falcipain-3"**
-(*ACS Omega*), release **1.2.0**.
+(*ACS Omega*), release **1.2.1**.
 
 ## What is here
 

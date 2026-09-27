@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite the article and this release."
 title: "Structure-Based Prioritization and Electronic Tuning of Cinnamate-Bearing Natural Products at Falcipain-2 and Falcipain-3"
-version: "1.2.0"
+version: "1.2.1"
 license: MIT
 repository-code: "https://github.com/olaniyiolaniru/falcipain-covalent-np-workflow"
 authors:

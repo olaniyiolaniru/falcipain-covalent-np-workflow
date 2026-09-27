@@ -1,0 +1,58 @@
+{
+  "design": "one variable at a time: the precision term holds the decoy set fixed by comparing the two protocols on the compounds both scored, and the decoy-pool term holds the precision fixed by comparing the funnel over the sampled and the full decoy pool",
+  "xp_sampled_decoys": {
+    "n": 1135,
+    "actives": 263,
+    "roc_auc": 0.5483,
+    "roc_ci": [
+      0.5054,
+      0.5901
+    ]
+  },
+  "funnel_sampled_decoys": {
+    "n": 1062,
+    "actives": 229,
+    "roc_auc": 0.5485,
+    "roc_ci": [
+      0.5061,
+      0.5918
+    ]
+  },
+  "funnel_full_pool": {
+    "n": 6929,
+    "actives": 229,
+    "roc_auc": 0.5585,
+    "roc_ci": [
+      0.5211,
+      0.5945
+    ]
+  },
+  "xp_common": {
+    "n": 1061,
+    "actives": 229,
+    "roc_auc": 0.5426,
+    "roc_ci": [
+      0.5009,
+      0.5862
+    ]
+  },
+  "funnel_common": {
+    "n": 1061,
+    "actives": 229,
+    "roc_auc": 0.5482,
+    "roc_ci": [
+      0.5065,
+      0.5909
+    ]
+  },
+  "compounds_scored_by_both": 1061,
+  "precision_effect": {
+    "definition": "Glide XP minus HTVS/SP funnel, over the compounds both scored",
+    "delta_roc_auc": -0.0056,
+    "spearman_rho": 0.443
+  },
+  "decoy_pool_effect": {
+    "definition": "full decoy pool minus sampled decoys, both under the HTVS/SP funnel",
+    "delta_roc_auc": 0.01
+  }
+}

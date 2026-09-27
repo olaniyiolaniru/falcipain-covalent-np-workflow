@@ -1,0 +1,128 @@
+{
+  "experiment": "the same benchmark funnel run on two FP-2 receptors whose catalytic dyad differs by the position of one proton, restricted to the compounds that both receptors scored",
+  "standard_file": "scores_FP2_standard.csv",
+  "alternative_file": "scores_FP2_ion_pair.csv",
+  "scored_by_standard": 6929,
+  "scored_by_alternative": 5272,
+  "scored_by_both": 5077,
+  "standardized": {
+    "all_actives": {
+      "n": 5077,
+      "actives": 227,
+      "prevalence": 0.04471144376600355,
+      "roc_auc": 0.5523002861165357,
+      "pr_auc": 0.0553152319022084,
+      "ef1": 1.7541677463937115,
+      "ef5": 1.320805438967706,
+      "bedroc20": 0.10191860814446373,
+      "roc_ci": [
+        0.5147999455016122,
+        0.5919360552250329
+      ],
+      "ef1_ci": [
+        0.4385419365984279,
+        3.508335492787423
+      ],
+      "ef5_ci": [
+        0.7924832633806236,
+        2.0252350064171494
+      ]
+    },
+    "covalent_only": {
+      "n": 4949,
+      "actives": 99,
+      "prevalence": 0.020004041220448576,
+      "roc_auc": 0.5680245756534417,
+      "pr_auc": 0.02883107508253481,
+      "ef1": 2.04040404040404,
+      "ef5": 2.0238825501983397,
+      "bedroc20": 0.11659568088325198,
+      "roc_ci": [
+        0.5058627512235759,
+        0.6257544517338332
+      ],
+      "ef1_ci": [
+        0.0,
+        5.101010101010101
+      ],
+      "ef5_ci": [
+        1.0119412750991699,
+        3.440600335337177
+      ]
+    }
+  },
+  "alternative": {
+    "all_actives": {
+      "n": 5077,
+      "actives": 227,
+      "prevalence": 0.04471144376600355,
+      "roc_auc": 0.5419882828466325,
+      "pr_auc": 0.05624497865778448,
+      "ef1": 2.631251619590567,
+      "ef5": 1.4088591348988864,
+      "bedroc20": 0.10191061013038331,
+      "roc_ci": [
+        0.501477814614651,
+        0.5790553612788955
+      ],
+      "ef1_ci": [
+        0.8770838731968558,
+        4.823961302582707
+      ],
+      "ef5_ci": [
+        0.7924832633806236,
+        2.0252350064171494
+      ]
+    },
+    "covalent_only": {
+      "n": 4949,
+      "actives": 99,
+      "prevalence": 0.020004041220448576,
+      "roc_auc": 0.5371363115693013,
+      "pr_auc": 0.023042157195755034,
+      "ef1": 1.02020202020202,
+      "ef5": 1.2143295301190038,
+      "bedroc20": 0.06390675377332541,
+      "roc_ci": [
+        0.47901905654482974,
+        0.5923773820681038
+      ],
+      "ef1_ci": [
+        0.0,
+        3.0606060606060606
+      ],
+      "ef5_ci": [
+        0.4047765100396679,
+        2.2262708052181734
+      ]
+    }
+  },
+  "difference": {
+    "all_actives": {
+      "roc_auc": 0.0103,
+      "roc_auc_ci": [
+        -0.0369,
+        0.0584
+      ],
+      "roc_auc_interval_excludes_zero": false,
+      "pr_auc": -0.0009,
+      "ef1": -0.8771,
+      "ef5": -0.0881,
+      "bedroc20": 0.0,
+      "pairing": "compounds resampled jointly across the two receptors, so the interval is on the difference itself"
+    },
+    "covalent_only": {
+      "roc_auc": 0.0309,
+      "roc_auc_ci": [
+        -0.042,
+        0.101
+      ],
+      "roc_auc_interval_excludes_zero": false,
+      "pr_auc": 0.0058,
+      "ef1": 1.0202,
+      "ef5": 0.8096,
+      "bedroc20": 0.0527,
+      "pairing": "compounds resampled jointly across the two receptors, so the interval is on the difference itself"
+    }
+  }
+}

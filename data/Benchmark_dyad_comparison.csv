@@ -1,0 +1,5 @@
+receptor,subset,n,actives,roc_auc,roc_ci_low,roc_ci_high,pr_auc,ef1,ef5,bedroc20
+standardized,all_actives,5077,227,0.5523,0.5148,0.5919,0.0553,1.7542,1.3208,0.1019
+standardized,covalent_only,4949,99,0.568,0.5059,0.6258,0.0288,2.0404,2.0239,0.1166
+alternative,all_actives,5077,227,0.542,0.5015,0.5791,0.0562,2.6313,1.4089,0.1019
+alternative,covalent_only,4949,99,0.5371,0.479,0.5924,0.023,1.0202,1.2143,0.0639

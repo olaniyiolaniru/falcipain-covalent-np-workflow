@@ -1,0 +1,25 @@
+{
+  "admetlab_compounds": [
+    "SANC00724",
+    "SANC00867",
+    "SANC00964"
+  ],
+  "admetlab_coverage": "ADMETlab predictions were obtained for 3 of the 17 compounds carried through the property stage",
+  "qikprop_coverage": "QikProp predictions were obtained for all 17 compounds carried through the property stage",
+  "shared_endpoint": "apparent Caco-2 permeability",
+  "caco2_rank_agreement_spearman": 1.0,
+  "compounds_same_order_of_magnitude": 3,
+  "compounds_compared": 3,
+  "liability_endpoints": [
+    "hERG_blocker_prob",
+    "DILI_prob",
+    "Ames_prob",
+    "Genotoxicity_prob",
+    "Carcinogenicity_prob",
+    "H_HT_prob",
+    "CYP3A4_inh",
+    "Aggregator_prob",
+    "Reactive_prob"
+  ],
+  "reporting_rule": "ADMETlab outputs are reported as model-predicted liability flags on the platform scale; QikProp outputs are reported as ranges over every prepared-state record"
+}

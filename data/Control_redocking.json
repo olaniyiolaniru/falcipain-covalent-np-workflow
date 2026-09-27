@@ -1,0 +1,373 @@
+{
+  "3BWK_K11017": {
+    "control": "3BWK_K11017",
+    "reaction": "Michael addition at Cys51 of falcipain-3, CovDock enrichment mode",
+    "reference_complex": "3BWK_prep.maegz",
+    "reference_sha256": "429db76fac40d9577b89d12b06d877d0601a5a12726e0f26dd6f5b6ec413841b",
+    "docked_complex": "3BWK_enrichment-out.maegz",
+    "docked_sha256": "971eafc56274aa8083ee72275d1ec74c7196b3cec9ee9e0749bdfc2ecbcc71c4",
+    "protein_CA_count": 242,
+    "protein_CA_rmsd_A": 4.95726892302621e-15,
+    "docked_score": -7.78640056818963,
+    "reference_chain": "A",
+    "method": "chain-A Calpha superposition of the two receptors; element and exact bond-order MCS with ring constraints; all symmetry mappings enumerated; no ligand-only fit",
+    "attachment_atom_index": 18,
+    "reference_heavy_atoms": 37,
+    "docked_heavy_atoms": 37,
+    "common_atoms": 37,
+    "mcs_cancelled": false,
+    "ligand_receptor_frame_rmsd_A": 2.507258145432542,
+    "mapping_zero_based": [
+      [
+        0,
+        28
+      ],
+      [
+        1,
+        29
+      ],
+      [
+        2,
+        30
+      ],
+      [
+        3,
+        31
+      ],
+      [
+        8,
+        32
+      ],
+      [
+        7,
+        33
+      ],
+      [
+        6,
+        34
+      ],
+      [
+        5,
+        35
+      ],
+      [
+        4,
+        36
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        10,
+        5
+      ],
+      [
+        11,
+        6
+      ],
+      [
+        12,
+        7
+      ],
+      [
+        13,
+        8
+      ],
+      [
+        14,
+        17
+      ],
+      [
+        15,
+        18
+      ],
+      [
+        16,
+        19
+      ],
+      [
+        17,
+        21
+      ],
+      [
+        18,
+        20
+      ],
+      [
+        19,
+        22
+      ],
+      [
+        20,
+        23
+      ],
+      [
+        21,
+        24
+      ],
+      [
+        22,
+        25
+      ],
+      [
+        23,
+        26
+      ],
+      [
+        24,
+        27
+      ],
+      [
+        25,
+        9
+      ],
+      [
+        26,
+        10
+      ],
+      [
+        27,
+        11
+      ],
+      [
+        28,
+        12
+      ],
+      [
+        29,
+        13
+      ],
+      [
+        30,
+        14
+      ],
+      [
+        31,
+        15
+      ],
+      [
+        32,
+        16
+      ],
+      [
+        33,
+        3
+      ],
+      [
+        34,
+        1
+      ],
+      [
+        35,
+        0
+      ],
+      [
+        36,
+        2
+      ]
+    ],
+    "reaction_centre_rmsd_A_within_4_bonds": 1.9891434183461978,
+    "reaction_centre_atoms_within_4_bonds": 16,
+    "reaction_centre_rmsd_A_within_6_bonds": 2.868867300869803,
+    "reaction_centre_atoms_within_6_bonds": 27,
+    "median_atom_deviation_A": 0.8775609665430663,
+    "max_atom_deviation_A": 7.216104192706749
+  },
+  "2OZ2_K11777": {
+    "control": "2OZ2_K11777",
+    "reaction": "Michael addition at Cys25 of cruzain",
+    "reference_complex": "2OZ2_prep.maegz",
+    "reference_sha256": "91037909ec443755291d9a00b3f01b7be4242542af98e207ee693280cc54a30d",
+    "docked_complex": "covdock_K777_control-out.maegz",
+    "docked_sha256": "7d1533433b982ffdbc29122fd3c78b6d053af781b51411f853d32bd55500f1d3",
+    "protein_CA_count": 215,
+    "protein_CA_rmsd_A": 0.016831714196074946,
+    "docked_score": -9.11411044376479,
+    "reference_chain": "A",
+    "method": "chain-A Calpha superposition of the two receptors; element and exact bond-order MCS with ring constraints; all symmetry mappings enumerated; no ligand-only fit",
+    "attachment_atom_index": 31,
+    "reference_heavy_atoms": 41,
+    "docked_heavy_atoms": 41,
+    "common_atoms": 41,
+    "mcs_cancelled": false,
+    "ligand_receptor_frame_rmsd_A": 1.259663258649352,
+    "mapping_zero_based": [
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        10,
+        10
+      ],
+      [
+        11,
+        11
+      ],
+      [
+        12,
+        12
+      ],
+      [
+        13,
+        17
+      ],
+      [
+        14,
+        16
+      ],
+      [
+        15,
+        15
+      ],
+      [
+        16,
+        14
+      ],
+      [
+        17,
+        13
+      ],
+      [
+        18,
+        18
+      ],
+      [
+        19,
+        19
+      ],
+      [
+        20,
+        20
+      ],
+      [
+        21,
+        21
+      ],
+      [
+        22,
+        22
+      ],
+      [
+        23,
+        23
+      ],
+      [
+        24,
+        24
+      ],
+      [
+        25,
+        29
+      ],
+      [
+        26,
+        28
+      ],
+      [
+        27,
+        27
+      ],
+      [
+        28,
+        26
+      ],
+      [
+        29,
+        25
+      ],
+      [
+        30,
+        30
+      ],
+      [
+        31,
+        31
+      ],
+      [
+        32,
+        32
+      ],
+      [
+        33,
+        34
+      ],
+      [
+        34,
+        33
+      ],
+      [
+        35,
+        35
+      ],
+      [
+        36,
+        36
+      ],
+      [
+        37,
+        37
+      ],
+      [
+        38,
+        38
+      ],
+      [
+        39,
+        39
+      ],
+      [
+        40,
+        40
+      ]
+    ],
+    "reaction_centre_rmsd_A_within_4_bonds": 0.7625423184304769,
+    "reaction_centre_atoms_within_4_bonds": 16,
+    "reaction_centre_rmsd_A_within_6_bonds": 1.1684289744393317,
+    "reaction_centre_atoms_within_6_bonds": 27,
+    "median_atom_deviation_A": 0.5325510216544128,
+    "max_atom_deviation_A": 3.2511408932223644
+  },
+  "E64": {
+    "control": "E64",
+    "excluded": true,
+    "reason": "E64 forms its adduct by epoxide opening, not by Michael addition, so it cannot test a Michael-addition reaction definition and is not used as a covalent-docking control."
+  }
+}

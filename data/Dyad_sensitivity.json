@@ -1,0 +1,146 @@
+{
+  "standardized": {
+    "source": "matched_standard/FP2_matched_verified_pv.maegz",
+    "poses_returned": 12,
+    "receptor_atoms": 3666,
+    "receptor_heavy_atoms": 1877,
+    "receptor_residues": 240,
+    "receptor_formal_charge": -11,
+    "dyad": {
+      "res42": {
+        "resname": "CYS",
+        "atoms": 11,
+        "formal_charge": 0,
+        "key_atoms": [
+          [
+            "HG",
+            "H",
+            0.155
+          ],
+          [
+            "N",
+            "N",
+            -0.5
+          ],
+          [
+            "SG",
+            "S",
+            -0.335
+          ]
+        ]
+      },
+      "res174": {
+        "resname": "HIE",
+        "atoms": 17,
+        "formal_charge": 0,
+        "key_atoms": [
+          [
+            "HE2",
+            "H",
+            0.326
+          ],
+          [
+            "N",
+            "N",
+            -0.5
+          ],
+          [
+            "ND1",
+            "N",
+            -0.564
+          ],
+          [
+            "NE2",
+            "N",
+            -0.291
+          ]
+        ]
+      }
+    },
+    "OH_DockingScore": -6.28569490821589,
+    "Cl_DockingScore": -7.95608278000059,
+    "Cl_minus_OH_DockingScore": -1.6703878717846994,
+    "OH_GlideScore": -8.20679490821589,
+    "Cl_GlideScore": -7.98468278000059,
+    "Cl_minus_OH_GlideScore": 0.22211212821530069,
+    "OH_selected_state": "Parent_SANC00867-2",
+    "Cl_selected_state": "AnalogueA-1"
+  },
+  "alternative": {
+    "source": "matched_alternative/FP2_matched_verified_pv.maegz",
+    "poses_returned": 12,
+    "receptor_atoms": 3666,
+    "receptor_heavy_atoms": 1877,
+    "receptor_residues": 240,
+    "receptor_formal_charge": -11,
+    "dyad": {
+      "res42": {
+        "resname": "CYS",
+        "atoms": 10,
+        "formal_charge": -1,
+        "key_atoms": [
+          [
+            "N",
+            "N",
+            -0.5
+          ],
+          [
+            "SG",
+            "S",
+            -0.9
+          ]
+        ]
+      },
+      "res174": {
+        "resname": "HIP",
+        "atoms": 18,
+        "formal_charge": 1,
+        "key_atoms": [
+          [
+            "HD1",
+            "H",
+            0.46
+          ],
+          [
+            "HE2",
+            "H",
+            0.46
+          ],
+          [
+            "N",
+            "N",
+            -0.5
+          ],
+          [
+            "ND1",
+            "N",
+            -0.54
+          ],
+          [
+            "NE2",
+            "N",
+            -0.54
+          ]
+        ]
+      }
+    },
+    "OH_DockingScore": -8.00930101756638,
+    "Cl_DockingScore": -5.78475522170042,
+    "Cl_minus_OH_DockingScore": 2.224545795865959,
+    "OH_GlideScore": -8.03790101756638,
+    "Cl_GlideScore": -5.81335522170042,
+    "Cl_minus_OH_GlideScore": 2.22454579586596,
+    "OH_selected_state": "Parent_SANC00867-1",
+    "Cl_selected_state": "AnalogueA-1"
+  },
+  "comparison": {
+    "heavy_atoms_compared": 1877,
+    "max_heavy_atom_displacement_A": 0.0,
+    "heavy_atom_rmsd_A": 0.0,
+    "shift_DockingScore": 3.8949,
+    "shift_GlideScore": 2.0024,
+    "OH_score_shift": -1.7236,
+    "variable_changed": "position of one catalytic-dyad proton: Cys42 S-gamma hydrogen in the standardized receptor, His174 N-delta-1 hydrogen in the alternative receptor",
+    "held_fixed": "prepared chain A, grid centre and box, force field, docking precision, prepared ligand states, selection rule"
+  }
+}

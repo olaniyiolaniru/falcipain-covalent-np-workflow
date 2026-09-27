@@ -1,0 +1,4 @@
+compound,qikprop_records,QPPCaco_min_nm_s,QPPCaco_max_nm_s,ADMETlab_caco2_log_cm_s,ADMETlab_caco2_nm_s_equivalent,same_order_of_magnitude,QikProp_oral_absorption_min,QikProp_oral_absorption_max,QikProp_RuleOfFive
+SANC00867,2,2.047,6.562,-6.32,4.79,True,0.0,6.743,3
+SANC00964,1,4.395,4.395,-5.83,14.79,True,0.0,0.0,3
+SANC00724,1,814.609,814.609,-4.82,151.36,True,100.0,100.0,0

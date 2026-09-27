@@ -1,0 +1,1013 @@
+compound,name,formula,ChEMBL_id,PubChem_id,CAS_no
+SANC00101,Epicatechin,C15H14O6,CHEMBL583912,72276,490-46-0
+SANC00102,Beta-Sitosterol,C29H50O,CHEMBL221542,222284,83-46-5
+SANC00103,Epigallocatechin,C15H14O7,CHEMBL130415,10425234,970-74-1
+SANC00104,Cardamonin,C16H14O4,CHEMBL378104,641785,19309-14-9
+SANC00105,Pinocembrin,C15H12O4,CHEMBL399910,238782,480-39-7
+SANC00106,Kaempferol,C15H10O6,CHEMBL150,5280863,520-18-3
+SANC00107,Quercetrin-3-O-rhamnoside,C21H20O11,>  <ZINC_id>  (7),5359430,522-12-3
+SANC00108,7-angelylhastanecine,C13H21NO3,>  <ZINC_id>  (8),>  <DrugBank_id>  (8),136173-31-4
+SANC00109,9-angelylhastanecine,C13H21NO3,>  <ZINC_id>  (9),>  <DrugBank_id>  (9),173010-19-0
+SANC00110,7-angelylplatynecine,C13H21NO3,>  <ZINC_id>  (10),>  <DrugBank_id>  (10),94054-32-7
+SANC00111,9-angelylplatynecine,C13H21NO3,>  <ZINC_id>  (11),>  <DrugBank_id>  (11),94132-25-9
+SANC00112,9-angelylplatynecine-4-oxide,C13H21NO4,>  <ZINC_id>  (12),>  <DrugBank_id>  (12),94054-33-8
+SANC00113,7[alpha]-angelyl-1-methylene-8[alpha]-pyrrolizidine,C13H19NO2,>  <ZINC_id>  (13),>  <DrugBank_id>  (13),59518-70-6
+SANC00114,7[alpha]-angelyl-1-methylene-8[alpha]-pyrrolizidine-4-oxide,C13H19NO3,>  <ZINC_id>  (14),>  <DrugBank_id>  (14),151922-22-4
+SANC00115,7[beta]-angelyl-1-methylene-8[alpha]-pyrrolizidine,C13H19NO2,>  <ZINC_id>  (15),>  <DrugBank_id>  (15),195209-18-8
+SANC00116,Sarracin,C18H27NO5,None,5281746,2492-09-3
+SANC00117,Neosarracine,C18H27NO5,None,5468383,136173-26-7
+SANC00118,Retrorsine,C18H25NO6,>  <ZINC_id>  (18),>  <DrugBank_id>  (18),480-54-6
+SANC00119,14-bromo-discorhabdin C,C18H12Br3N3O2,>  <ZINC_id>  (19),>  <DrugBank_id>  (19),182928-53-6
+SANC00120,14-bromo-3-dihydro-discorhabdin C,C18H14Br3N3O2,>  <ZINC_id>  (20),>  <DrugBank_id>  (20),182928-55-8
+SANC00121,3-dihydro-discorhabdin C,C18H15Br2N3O2,>  <ZINC_id>  (21),>  <DrugBank_id>  (21),159308-88-0
+SANC00122,"7,8-dehydro-3-dihydrodiscorhabdin C",C18H13Br2N3O2,>  <ZINC_id>  (22),>  <DrugBank_id>  (22),721395-08-0
+SANC00123,"14-bromo-7,8-dehydro-3-dihydro-discorhabdin C",C18H12Br3N3O2,>  <ZINC_id>  (23),>  <DrugBank_id>  (23),721395-37-5
+SANC00124,Discorhabdin V,C18H17BrN3O2,>  <ZINC_id>  (24),>  <DrugBank_id>  (24),721395-09-1
+SANC00125,14-bromo-1-hydroxy-discorhabdin V,C18H16Br2N3O3,>  <ZINC_id>  (25),>  <DrugBank_id>  (25),721395-38-6
+SANC00126,1-Bromo-4-debromo-2-hydroxy-discorhabdin V,C18H18N3O3Br,>  <ZINC_id>  (26),>  <DrugBank_id>  (26),>  <references>  (26)
+SANC00127,"2,4-Debromo-3-dihydro-discorhabdin C",C18H18N3O2,>  <ZINC_id>  (27),>  <DrugBank_id>  (27),>  <references>  (27)
+SANC00128,Makaluvamine C,C11H12N3O,>  <ZINC_id>  (28),>  <DrugBank_id>  (28),146555-80-8
+SANC00129,Damirone B,C11H10N2O2,>  <ZINC_id>  (29),>  <DrugBank_id>  (29),138683-67-7
+SANC00130,Makaluvic acid A,C9H10N2O3,>  <ZINC_id>  (30),>  <DrugBank_id>  (30),184023-18-5
+SANC00131,"11H-8,13a-Methanopyrrolo[4',3',2':4,5]quino[7,8-d][1,3]benzothiazepine-6,11(2H)-dione, 3,5,7,8-tetrahydro-, (8R,13aR)-",C18H13N3O2S,>  <ZINC_id>  (31),>  <DrugBank_id>  (31),1082581-79-0
+SANC00132,Discorhabdin N,C20H17N4SO4,>  <ZINC_id>  (32),>  <DrugBank_id>  (32),721395-10-4
+SANC00133,1-Amino discorhabdin D,C18H15N4SO2,>  <ZINC_id>  (33),>  <DrugBank_id>  (33),721395-40-0
+SANC00134,1-Methoxy discorhabdin D,C19H16N3SO3,>  <ZINC_id>  (34),>  <DrugBank_id>  (34),721395-39-7
+SANC00135,1-Alanyl discorhabdin D,C21H19N4SO4,>  <ZINC_id>  (35),>  <DrugBank_id>  (35),>  <references>  (35)
+SANC00136,Tsitsikammamine A,C18H13N3O2,>  <ZINC_id>  (36),>  <DrugBank_id>  (36),183114-86-5
+SANC00137,Tsitsikammamine B,C19H15N3O2,>  <ZINC_id>  (37),>  <DrugBank_id>  (37),183114-88-7
+SANC00138,Tsitsikammamine A N-oxime,C18H14N3O3,>  <ZINC_id>  (38),>  <DrugBank_id>  (38),719289-04-0
+SANC00139,Tsitsikammamine B N-oxime,C19H16N3O3,>  <ZINC_id>  (39),>  <DrugBank_id>  (39),719289-06-2
+SANC00140,Discorhabdin A,C18H14BrN3O2S,>  <ZINC_id>  (40),>  <DrugBank_id>  (40),112515-41-0
+SANC00141,Discorhabdin D,C18H14N3O2S,CHEMBL516335,>  <DrugBank_id>  (41),115384-95-7
+SANC00142,"2-acetamido-3-acetoxy-5,13-tetradecadiene",C18H31NO3,>  <ZINC_id>  (42),>  <DrugBank_id>  (42),181523-09-1
+SANC00143,2-acetamido-3-acetoxy-5-tetradecene,C18H33NO3,>  <ZINC_id>  (43),>  <DrugBank_id>  (43),181523-11-5
+SANC00144,"1-acetamido-2-acetoxy-4,12-tridecadiene",C17H29NO3,>  <ZINC_id>  (44),>  <DrugBank_id>  (44),181523-13-7
+SANC00145,1-Acetamido-2-acetoxy-4E-tridecene,C17H31NO3,>  <ZINC_id>  (45),>  <DrugBank_id>  (45),181523-15-9
+SANC00146,"5[alpha]-Pregna-1,20-dien-3-one",C21H30O,>  <ZINC_id>  (46),>  <DrugBank_id>  (46),65754-62-3
+SANC00147,"16[beta]-Hydroxy-5[alpha]-pregna-1,20-clien-3-one 16-acetate",C23H32O3,>  <ZINC_id>  (47),>  <DrugBank_id>  (47),168004-85-1
+SANC00148,"3[alpha],16[beta]-Dihydroxy-5[alpha]-pregna-1,20-diene 3,16-diacetate",C25H36O4,>  <ZINC_id>  (48),>  <DrugBank_id>  (48),168004-86-2
+SANC00149,Tsitsixenicin A,C24H34O5,>  <ZINC_id>  (49),>  <DrugBank_id>  (49),168113-67-5
+SANC00150,Tsitsixenicin B,C24H34O6,>  <ZINC_id>  (50),>  <DrugBank_id>  (50),168113-66-4
+SANC00151,Tsitsixenicin C,C24H32O7,>  <ZINC_id>  (51),>  <DrugBank_id>  (51),168075-13-6
+SANC00152,Tsitsixenicin D,C24H32O6,>  <ZINC_id>  (52),>  <DrugBank_id>  (52),168075-14-7
+SANC00153,"Cholest-5-ene-3[beta],7[beta],19-triol 19-acetate",C29H48O4,>  <ZINC_id>  (53),>  <DrugBank_id>  (53),1403938-68-0
+SANC00154,"Cholest-5,24-diene-3[beta], 7[beta], 19-triol 19-acetate",C29H46O4,>  <ZINC_id>  (54),>  <DrugBank_id>  (54),>  <references>  (54)
+SANC00155,"9-deacetoxy-14,15-deepoxyxeniculin",C24H34O5,>  <ZINC_id>  (55),>  <DrugBank_id>  (55),168113-67-5
+SANC00156,zahavin A,C26H36O7,>  <ZINC_id>  (56),>  <DrugBank_id>  (56),172335-15-8
+SANC00157,"7,8-epoxyzahavin A",C26H36O8,>  <ZINC_id>  (57),>  <DrugBank_id>  (57),195259-81-5
+SANC00158,Xeniolide C,C22H30O4,>  <ZINC_id>  (58),>  <DrugBank_id>  (58),195259-82-6
+SANC00159,Rietone,C24H32O6,>  <ZINC_id>  (59),>  <DrugBank_id>  (59),163597-23-7
+SANC00160,8'-acetoxyrietone,C26H34O7,>  <ZINC_id>  (60),>  <DrugBank_id>  (60),163498-09-7
+SANC00161,8'-desoxyrietone,C24H32O5,>  <ZINC_id>  (61),>  <DrugBank_id>  (61),163498-10-0
+SANC00162,(E)-Siphonarienfuranone,C20H34O3,>  <ZINC_id>  (62),>  <DrugBank_id>  (62),128008-16-2
+SANC00163,(Z)-Siphonarienfuranone,C20H34O3,>  <ZINC_id>  (63),>  <DrugBank_id>  (63),128008-16-2
+SANC00164,Capensinone,C19H34O2,>  <ZINC_id>  (64),>  <DrugBank_id>  (64),225926-24-9
+SANC00165,Capensifuranone,C17H30O2,>  <ZINC_id>  (65),>  <DrugBank_id>  (65),225926-25-0
+SANC00166,Tetramethyl undecenoic acid,C15H28O2,>  <ZINC_id>  (66),>  <DrugBank_id>  (66),225798-15-2
+SANC00167,"Pregna-5,20-dien-3[beta]-ol",C21H32O,>  <ZINC_id>  (67),>  <DrugBank_id>  (67),21321-88-0
+SANC00168,"Pregna-5,20-diene-3[alpha],7[alpha]-diol 3[alpha]-acetate",C23H34O3,>  <ZINC_id>  (68),>  <DrugBank_id>  (68),190451-04-8
+SANC00169,"Pregna-5,20-diene-3[beta],7[alpha]-diol 7[alpha]-acetate",C23H34O3,>  <ZINC_id>  (69),>  <DrugBank_id>  (69),190451-05-9
+SANC00170,"Pregna-5,20-diene-3[alpha],7[alpha],11[alpha]-triol 3[alpha]-acetate",C23H34O4,>  <ZINC_id>  (70),>  <DrugBank_id>  (70),190451-06-0
+SANC00171,"Pregna-5,20-diene-3[alpha],7[alpha],11[alpha]-triol 3[alpha],7[alpha]-diacetate",C25H36O5,>  <ZINC_id>  (71),>  <DrugBank_id>  (71),190451-07-1
+SANC00172,"Pregna-5, 20-diene-3[alpha], 7[alpha], 19-triol 3[alpha], 19-diacetate",C25H36O5,>  <ZINC_id>  (72),>  <DrugBank_id>  (72),190451-08-2
+SANC00173,"Pregna-5-20-diene-3[alpha], 7[alpha], 11[alpha], 19-tetrol 3[alpha], 7[alpha], 19-triacetate",C27H38O7,>  <ZINC_id>  (73),>  <DrugBank_id>  (73),190451-09-3
+SANC00174,D-Friedoolean-14-en-oic acid,C32H50O4,CHEMBL439422,161616,28937-85-1
+SANC00175,Lupeol,C30H50O,CHEMBL289191,259846,545-47-1
+SANC00176,Diosphenol 2,C10H16O2,>  <ZINC_id>  (76),79023,490-03-9
+SANC00177,Spongiostatin 4,C61H93ClO20,>  <ZINC_id>  (77),6479882,153745-94-9
+SANC00178,Cephalostatin 1,C54H74N2O10,CHEMBL269081,10328411,112088-56-9
+SANC00179,Sisserone A,C28H44O8,>  <ZINC_id>  (79),>  <DrugBank_id>  (79),274913-20-1
+SANC00180,(18R)-Variabilin,C25H34O4,CHEMBL463244,>  <DrugBank_id>  (80),181781-60-2
+SANC00181,Nakafuran 8,C15H20O,>  <ZINC_id>  (81),>  <DrugBank_id>  (81),76844-25-2
+SANC00182,Tsitsikammafuran,C15H18O,>  <ZINC_id>  (82),642120,321310-28-5
+SANC00183,Latrunculin A,C22H31NO5S,CHEMBL404116,445420,76343-93-6
+SANC00184,Latrunculin B,C20H29NO5S,CHEMBL411879,>  <DrugBank_id>  (84),76343-94-7
+SANC00185,Hamiltonin A,C21H31ClO3,>  <ZINC_id>  (85),>  <DrugBank_id>  (85),166774-50-1
+SANC00186,Hamiltonin B,C21H33ClO3,>  <ZINC_id>  (86),>  <DrugBank_id>  (86),166774-51-2
+SANC00187,Hamiltonin C,C21H31ClO3,>  <ZINC_id>  (87),>  <DrugBank_id>  (87),166774-52-3
+SANC00188,Hamiltonin D,C21H29ClO4,>  <ZINC_id>  (88),>  <DrugBank_id>  (88),166774-53-4
+SANC00189,Hamiltonin E,C25H38O3,>  <ZINC_id>  (89),>  <DrugBank_id>  (89),166797-74-6
+SANC00190,Millecrone A,C15H24O,>  <ZINC_id>  (90),>  <DrugBank_id>  (90),154512-19-3
+SANC00191,Millecrone B,C15H22O,>  <ZINC_id>  (91),>  <DrugBank_id>  (91),154632-50-5
+SANC00192,Millecrol A,C15H26O,>  <ZINC_id>  (92),10421115,154512-21-7
+SANC00193,Millecrol B,C15H26O,>  <ZINC_id>  (93),10376279,154524-44-4
+SANC00194,Algoafuran,C17H22O3,>  <ZINC_id>  (94),>  <DrugBank_id>  (94),369380-50-7
+SANC00195,Cubebenone,C15H22O,>  <ZINC_id>  (95),>  <DrugBank_id>  (95),369380-51-8
+SANC00196,Algoane,C17H27Br2ClO4,>  <ZINC_id>  (96),10648778,251455-23-9
+SANC00197,Ibhayinol,C15H24BrClO2,>  <ZINC_id>  (97),>  <DrugBank_id>  (97),251455-24-0
+SANC00198,1-Deacetoxyalgoane,C15H25Br2ClO2,>  <ZINC_id>  (98),10550705,251450-53-0
+SANC00199,1-Deacetoxy-8-deoxyalgoane,C15H25Br2ClO,>  <ZINC_id>  (99),10598018,251450-54-1
+SANC00200,Vernangulide A,C21H24O8,>  <ZINC_id>  (100),>  <DrugBank_id>  (100),1159580-30-9
+SANC00201,Vernangulide B,C21H24O8,>  <ZINC_id>  (101),>  <DrugBank_id>  (101),119269-53-3
+SANC00202,"(-)-4,6-Dibromo-3,7-dimethyl-2E,7-octadienal",C10H14Br2O,>  <ZINC_id>  (102),>  <DrugBank_id>  (102),935747-26-5
+SANC00203,"2,4,6-Octatrienal, 4,8-dichloro-3,7-dimethyl-, (2E,4Z,6E)-",C10H12Cl2O,>  <ZINC_id>  (103),>  <DrugBank_id>  (103),935747-27-6
+SANC00204,"(-)-8-Bromo-6,7-dichloro-3,7-dimethyl-2E,4E-octadienal",C10H13BrCl2O,>  <ZINC_id>  (104),>  <DrugBank_id>  (104),935747-28-7
+SANC00205,"(-)-4-Bromo-8-chloro-3,7-dimethyl-2E,6E-octadienal",C10H14BrClO,>  <ZINC_id>  (105),>  <DrugBank_id>  (105),935747-29-8
+SANC00206,Plocoralide B,C10H14Br2Cl2,>  <ZINC_id>  (106),>  <DrugBank_id>  (106),861959-26-4
+SANC00207,"1,4,8-Tribromo-3,7-dichloro-3,7-dimethyl-1E,5E-octadiene",C10H13Br3Cl2,>  <ZINC_id>  (107),>  <DrugBank_id>  (107),935694-36-3
+SANC00208,"2,7-Octadienal, 4,6-dibromo-3,7-dimethyl-, O-[(2,3,4,5,6-pentafluorophenyl)methyl]oxime, (2E)-",C17H16Br2F5NO,>  <ZINC_id>  (108),>  <DrugBank_id>  (108),935694-32-9
+SANC00209,"2,4,6-Octatrienal, 4,8-dichloro-3,7-dimethyl-, O-[(2,3,4,5,6-pentafluorophenyl)methyl]oxime, (2E,4Z,6E)-",C17H14Cl2F5NO,>  <ZINC_id>  (109),>  <DrugBank_id>  (109),935694-33-0
+SANC00210,"2,4-Octadienal, 8-bromo-6,7-dichloro-3,7-dimethyl-, O-[(2,3,4,5,6-pentafluorophenyl)methyl]oxime, (2E,4E)-",C17H15BrCl2F5NO,>  <ZINC_id>  (110),>  <DrugBank_id>  (110),935694-34-1
+SANC00211,"2,6-Octadienal, 4-bromo-8-chloro-3,7-dimethyl-, O-[(2,3,4,5,6-pentafluorophenyl)methyl]oxime, (2E,6E)-",C17H16BrClF5NO,>  <ZINC_id>  (111),>  <DrugBank_id>  (111),935694-35-2
+SANC00212,Violacene,C10H13BrCl4,>  <ZINC_id>  (112),>  <DrugBank_id>  (112),54279-01-5
+SANC00213,Spongiostatin 5,C59H89ClO19,>  <ZINC_id>  (113),9833430,153698-80-7
+SANC00214,"1,5-Octadiene, 8-bromo-1,3,4,7-tetrachloro-3,7-dimethyl-, (1E,3R,4S,5E)-rel-",C10H13BrCl4,>  <ZINC_id>  (114),>  <DrugBank_id>  (114),861403-70-5
+SANC00215,"1,5-Octadiene, 4,8-dibromo-1,3,7-trichloro-3,7-dimethyl-, (1E,3R,4S,5E)-rel-",C10H13Br2Cl3,>  <ZINC_id>  (115),>  <DrugBank_id>  (115),861403-71-6
+SANC00216,Plocoralide A,C10H14Br2Cl2,>  <ZINC_id>  (116),>  <DrugBank_id>  (116),861959-25-3
+SANC00217,Plocoralide C,C10H13Br2Cl3,>  <ZINC_id>  (117),>  <DrugBank_id>  (117),861959-27-5
+SANC00218,Discorhabdine H,C25H23N6O4S2,>  <ZINC_id>  (118),>  <DrugBank_id>  (118),721395-11-5
+SANC00219,"14[beta]-hydroxybufa-3,5,20,22-tetraenolide",C24H30O3,>  <ZINC_id>  (119),11014,545-51-7
+SANC00220,Urginin,C42H62O17,CHEMBL2375662,202218,8002-35-5
+SANC00221,(R)-Scillascillin,C17H12O6,>  <ZINC_id>  (121),>  <DrugBank_id>  (121),52706-07-7
+SANC00222,"(R)-3',5,7-trihydroxy-4'-methoxyspiro[2H-1-benzopyran-3 (4H),7'-bicyclo[4.2.0]-octa[1,3,5]-trien]-4-one",C17H14O6,>  <ZINC_id>  (122),>  <DrugBank_id>  (122),130995-32-3
+SANC00223,"(R)-3',5-dihydroxy-4',7-dimethoxyspiro [2H-1-benzopyran- 3(4H),7'-bicyclo[4.2.0]-octa[1,3,5]-trien]-4-one",C18H16O6,>  <ZINC_id>  (123),>  <DrugBank_id>  (123),131019-75-5
+SANC00224,6[alpha]-Hydroxy-4(14)-eudesmen-1-one,C15H24O2,>  <ZINC_id>  (124),>  <DrugBank_id>  (124),488136-87-4
+SANC00225,"(R)-5,6-Dihydroxy-7- methoxy-3-(4'-hydroxybenzyl)chroman-4-one",C17H16O6,>  <ZINC_id>  (125),>  <DrugBank_id>  (125),849727-90-8
+SANC00226,Nephthoside,C32H48O6,CHEMBL462761,10530208,172998-31-1
+SANC00227,Sindurol,C31H44O9,>  <ZINC_id>  (127),>  <DrugBank_id>  (127),172998-30-0
+SANC00228,"6[beta],7[alpha]-Diacetoxylabda-8,13-dien-15-ol",C24H38O5,CHEMBL401598,>  <DrugBank_id>  (128),273212-70-7
+SANC00229,Autumnariniol,C15H12O5,>  <ZINC_id>  (129),>  <DrugBank_id>  (129),32595-79-2
+SANC00230,"2[alpha],6[beta],7[alpha]-Triacetoxylabda-8,13-dien-15-ol",C26H40O7,CHEMBL254986,>  <DrugBank_id>  (130),273212-72-9
+SANC00231,Autumnariol,C14H10O4,>  <ZINC_id>  (131),>  <DrugBank_id>  (131),32595-80-5
+SANC00232,"6[beta],7[alpha],15-triacetoxylabda-8,13E-diene",C26H40O6,CHEMBL267935,>  <DrugBank_id>  (132),1015763-01-5
+SANC00233,"3[alpha],11-dihydroxy-9,11-seco-cholest-4,7-dien-6,9-dione",C27H42O4,CHEMBL401943,>  <DrugBank_id>  (133),1015763-02-6
+SANC00234,"Cholest-7-en-3,5,7-triol",C27H46O3,>  <ZINC_id>  (134),>  <DrugBank_id>  (134),15401-33-9
+SANC00235,Sodwanone A,C30H44O6,CHEMBL513880,>  <DrugBank_id>  (135),150050-12-7
+SANC00236,Aplysulphurin-1,C22H28O5,>  <ZINC_id>  (136),>  <DrugBank_id>  (136),91236-90-7
+SANC00237,"9,11-dihydrogracilin A",C23H36O5,>  <ZINC_id>  (137),>  <DrugBank_id>  (137),106231-25-8
+SANC00238,Damirone C,C10H8N2O2,CHEMBL469984,10465081,157669-64-2
+SANC00239,Makaluvamine I,C10H9N3O,>  <ZINC_id>  (139),>  <DrugBank_id>  (139),138087-43-1
+SANC00240,Makaluvamine M,C18H15N3O2,>  <ZINC_id>  (140),>  <DrugBank_id>  (140),174232-41-8
+SANC00241,(E)-Eucomin,C17H14O5,CHEMBL476776,12309803,17934-08-6
+SANC00242,Eucomol,C17H16O6,>  <ZINC_id>  (142),>  <DrugBank_id>  (142),17934-12-2
+SANC00243,4'-O-methyl-punctatin,C18H16O6,>  <ZINC_id>  (143),>  <DrugBank_id>  (143),27434-98-6
+SANC00244,Eucomnalin,C17H14O6,>  <ZINC_id>  (144),>  <DrugBank_id>  (144),27435-01-4
+SANC00245,"3,9-Dihydro-autumnalin",C17H16O6,>  <ZINC_id>  (145),>  <DrugBank_id>  (145),27435-03-6
+SANC00246,Fucoxanthin,C42H58O6,>  <ZINC_id>  (146),5281239,3351-86-8
+SANC00247,Sargaquinoic acid,C27H36O4,>  <ZINC_id>  (147),9802458,70363-87-0
+SANC00248,Sargaquinal,C27H36O3,>  <ZINC_id>  (148),>  <DrugBank_id>  (148),70363-88-1
+SANC00249,N-1-[beta]-D-ribofuranosyldamirone C,C15H16N2O6,>  <ZINC_id>  (149),>  <DrugBank_id>  (149),823802-85-3
+SANC00250,Sargahydroquinoic acid,C27H38O4,>  <ZINC_id>  (150),>  <DrugBank_id>  (150),110360-00-4
+SANC00251,N-1-[beta]-D-ribofuranosyl makaluvamine I,C15H17N3O5,>  <ZINC_id>  (151),>  <DrugBank_id>  (151),823802-86-4
+SANC00252,"1,3,7-Octatriene, 5,6-dichloro-2-(dichloromethyl)-6-methyl-, [R*,S*-(E)]-(-)- (9CI)",C10H12Cl4,>  <ZINC_id>  (152),>  <DrugBank_id>  (152),57804-28-1
+SANC00253,"5,7-dihydroxy-8-methoxy-3-(4'-hydroxybenzylidene)-4-chromanone",C17H14O6,>  <ZINC_id>  (153),>  <DrugBank_id>  (153),27181-63-1
+SANC00254,"1,3,7-Octatriene, 1,5,6-trichloro-2-(dichloromethyl)-6-methyl-, (1Z,3E,5S,6R)-",C10H11Cl5,>  <ZINC_id>  (154),>  <DrugBank_id>  (154),380416-15-9
+SANC00255,"3,7-Octadienal, 5,6-dichloro-2-(chloromethylene)-6-methyl-, (2E,3E,5S,6R)-",C10H11Cl3O,>  <ZINC_id>  (155),>  <DrugBank_id>  (155),380416-19-3
+SANC00256,Makaluvic acid C,C8H8N2O3,CHEMBL507654,11401113,6578-13-8
+SANC00257,20-hydroxy-20-epi-tingenone,C28H36O4,>  <ZINC_id>  (157),>  <DrugBank_id>  (157),154346-86-8
+SANC00258,4'-Demethyl-eucomin,C16H12O5,>  <ZINC_id>  (158),>  <DrugBank_id>  (158),27181-64-2
+SANC00259,"(1Z,3E,5S*,6S*)-1-bromo-5,6-dichloro-2,6-dimethyl-octa-1,3,7- triene",C10H13BrCl2,>  <ZINC_id>  (159),>  <DrugBank_id>  (159),1162677-87-3
+SANC00260,"3,9-Dihydropunctatin",C17H16O6,>  <ZINC_id>  (160),>  <DrugBank_id>  (160),27245-79-0
+SANC00261,11[alpha]-Hydroxy-[beta]-amyrin,C30H50O2,>  <ZINC_id>  (161),>  <DrugBank_id>  (161),5282-14-4
+SANC00262,Dilemmaone A,C14H15NO2,>  <ZINC_id>  (162),10489585,205990-55-2
+SANC00263,Naringenin,C15H12O5,>  <ZINC_id>  (163),>  <DrugBank_id>  (163),480-41-1
+SANC00264,Tingenone,C28H36O3,>  <ZINC_id>  (164),>  <DrugBank_id>  (164),50802-21-6
+SANC00265,Tingenine B,C28H36O4,>  <ZINC_id>  (165),>  <DrugBank_id>  (165),50656-68-3
+SANC00266,Dilemmaone B,C13H13NO2,>  <ZINC_id>  (166),10488858,205990-56-3
+SANC00267,Dilemmaone C,C14H15NO3,>  <ZINC_id>  (167),10490575,205990-57-4
+SANC00268,"4'-O-Methyl-3,9-dihydropunctatin",C18H18O6,>  <ZINC_id>  (168),>  <DrugBank_id>  (168),27245-80-3
+SANC00269,N-1-[beta]-ribofuranosylmakaluvic acid C,C13H16N2O7,>  <ZINC_id>  (169),>  <DrugBank_id>  (169),851539-18-9
+SANC00270,"1,3,7-Octatriene, 8-bromo-1,5,6-trichloro-2-(dichloromethyl)-6-methyl-, (1Z,3E,5R,6S,7E)",C10H10BrCl5,>  <ZINC_id>  (170),>  <DrugBank_id>  (170),1309658-69-2
+SANC00271,"1,3,7-Octatriene, 8-bromo-1,5,6-trichloro-2-(dichloromethyl)-6-methyl-, (1Z,3E,5R,6R,7E)",C10H10BrCl5,>  <ZINC_id>  (171),>  <DrugBank_id>  (171),1309658-70-5
+SANC00272,"1,3,7-Octatriene, 1,8-dibromo-5,6-dichloro-2,6-dimethyl-, (1Z,3E,5R,6R,7E)",C10H12Br2Cl2,>  <ZINC_id>  (172),>  <DrugBank_id>  (172),1309658-71-6
+SANC00273,"1,3,7-Octatriene, 1,8-dibromo-5,6-dichloro-2,6-dimethyl-, (1Z,3E,5R,6S,7E)",C10H12Br2Cl2,>  <ZINC_id>  (173),>  <DrugBank_id>  (173),1309658-72-7
+SANC00274,"1,3,7-Octatriene, 8-bromo-1,5,6-trichloro-2-(dichloromethyl)-6-methyl-, (1Z,3E,5R,6S,7Z)",C10H10BrCl5,>  <ZINC_id>  (174),>  <DrugBank_id>  (174),1310070-62-2
+SANC00275,"1-Octene, 3,4,6,7-tetrachloro-3,7-dimethyl-, (3R,4S)",C10H16Cl4,>  <ZINC_id>  (175),>  <DrugBank_id>  (175),1310070-64-4
+SANC00276,"1,3,7-Octatriene, 1,5,6-trichloro-2-(dichloromethyl)-6-methyl-, [R*,S*-(Z,E)]",C10H11Cl5,>  <ZINC_id>  (176),>  <DrugBank_id>  (176),93752-46-6
+SANC00277,"1,3,7-Octatriene, 1-bromo-5,6-dichloro-2,6-dimethyl-, (1Z,3E,5R,6S)",C10H13BrCl2,>  <ZINC_id>  (177),>  <DrugBank_id>  (177),1162677-88-4
+SANC00279,Digitoxigenin-glucoside,C29H44O9,>  <ZINC_id>  (178),>  <DrugBank_id>  (178),17059-16-4
+SANC00280,Discorhabdine G,C18H14BrN3O2,>  <ZINC_id>  (179),>  <DrugBank_id>  (179),172961-01-2
+SANC00281,12-deoxyphorbol-13-isobutyrate-20-acetate,C26H36O7,CHEMBL486418,3035003,25090-71-5
+SANC00282,12-deoxyphorbol-13-(2-methylbutyrate)-20-acetate,C27H38O7,CHEMBL520853,198036,25090-73-7
+SANC00283,12-deoxyphorbol-13-isobutyrate-16-angelate-20-acetate,C31H42O9,>  <ZINC_id>  (182),>  <DrugBank_id>  (182),1255339-15-1
+SANC00284,Bergenin,C14H16O9,>  <ZINC_id>  (183),>  <DrugBank_id>  (183),477-90-7
+SANC00285,12-deoxyphorbol-13-(2-methylbutyrate)-16-angelate-20-acetate,C32H44O9,>  <ZINC_id>  (184),>  <DrugBank_id>  (184),1255705-74-8
+SANC00286,Catechin,C15H14O6,>  <ZINC_id>  (185),>  <DrugBank_id>  (185),154-23-4
+SANC00287,Clionamine A,C28H45NO3,>  <ZINC_id>  (186),>  <DrugBank_id>  (186),1042138-27-1
+SANC00288,Clionamine B,C27H45NO3,>  <ZINC_id>  (187),>  <DrugBank_id>  (187),1042138-28-2
+SANC00289,Clionamine C,C28H45NO3,>  <ZINC_id>  (188),>  <DrugBank_id>  (188),1042138-29-3
+SANC00290,Clionamine D,C24H35NO4,>  <ZINC_id>  (189),>  <DrugBank_id>  (189),1042138-30-6
+SANC00291,Marrubiin,C20H28O4,CHEMBL1999372,73401,465-92-9
+SANC00292,Mandelalide A,C33H52O11,>  <ZINC_id>  (191),>  <DrugBank_id>  (191),1384352-14-0
+SANC00293,Mandelalide B,C37H58O13,>  <ZINC_id>  (192),>  <DrugBank_id>  (192),1384352-15-1
+SANC00294,Mandelalide C,C30H46O10,>  <ZINC_id>  (193),>  <DrugBank_id>  (193),1384352-16-2
+SANC00295,Mandelalide D,C34H52O11,>  <ZINC_id>  (194),>  <DrugBank_id>  (194),1384352-17-3
+SANC00296,Paclitaxel,C47H51NO14,CHEMBL428647,36314,33069-62-4
+SANC00297,Muzigadial,C15H20O3,>  <ZINC_id>  (196),442346,66550-09-2
+SANC00298,"11[beta],13-Dihydrovernolide",C19H24O7,>  <ZINC_id>  (197),>  <DrugBank_id>  (197),105229-54-7
+SANC00299,Vernodalin,C19H20O7,CHEMBL251225,179375,21871-10-3
+SANC00300,Vernolide,C19H22O7,>  <ZINC_id>  (199),5381813,27428-86-0
+SANC00302,"3,6-Dibromoindole",C8H5Br2N,>  <ZINC_id>  (200),>  <DrugBank_id>  (200),74076-56-5
+SANC00303,6-bromo-3-chloroindole,C8H5BrClN,>  <ZINC_id>  (201),>  <DrugBank_id>  (201),57916-08-2
+SANC00304,6-bromo-2-oxindole,C8H6BrNO,>  <ZINC_id>  (202),>  <DrugBank_id>  (202),99365-40-9
+SANC00305,"ent-3[beta]-Hydroxy-19-nor-beyer15-ene-2,12-dione",C19H26O3,>  <ZINC_id>  (203),>  <DrugBank_id>  (203),140670-97-9
+SANC00306,"3""-bromorubrolide F",C18H13BrO4,CHEMBL2152501,>  <DrugBank_id>  (204),1403355-35-0
+SANC00307,3'-bromorubrolide E,C17H11BrO4,>  <ZINC_id>  (205),>  <DrugBank_id>  (205),1403355-51-0
+SANC00308,Steenkrotin A,C20H26O4,>  <ZINC_id>  (206),>  <DrugBank_id>  (206),1067547-81-2
+SANC00309,3'- bromorubrolide F,C18H13BrO4,>  <ZINC_id>  (207),>  <DrugBank_id>  (207),1403355-52-1
+SANC00310,Tazettine,C18H21NO5,>  <ZINC_id>  (208),271607,507-79-9
+SANC00311,Crinine,C16H17NO3,CHEMBL1221864,398937,510-67-8
+SANC00312,"3',3""-dibromorubrolide E",C17H10Br2O4,>  <ZINC_id>  (210),>  <DrugBank_id>  (210),1403355-55-4
+SANC00313,Rubrolide E,C17H12O4,>  <ZINC_id>  (211),>  <DrugBank_id>  (211),136762-97-5
+SANC00314,Steenkrotin B,C20H28O7,>  <ZINC_id>  (212),>  <DrugBank_id>  (212),1067547-85-6
+SANC00315,Rubrolide F,C18H14O4,>  <ZINC_id>  (213),>  <DrugBank_id>  (213),136762-98-6
+SANC00316,6-Hydroxycrinamine,C17H19NO5,>  <ZINC_id>  (214),3083624,545-66-4
+SANC00317,Quercetin,C15H10O7,>  <ZINC_id>  (215),>  <DrugBank_id>  (215),117-39-5
+SANC00318,Crinamine,C17H19NO4,>  <ZINC_id>  (216),73620,639-41-8
+SANC00319,Epivittatine,C16H17NO3,>  <ZINC_id>  (217),>  <DrugBank_id>  (217),25375-48-8
+SANC00320,Eriodictyol,C15H12O6,>  <ZINC_id>  (218),>  <DrugBank_id>  (218),552-58-9
+SANC00321,3-O-Acetylhamayne,C18H19NO5,>  <ZINC_id>  (219),443671,93376-07-9
+SANC00322,Hamayne,C16H17NO4,CHEMBL511614,443670,61948-11-6
+SANC00323,7-O-Methyleucomol,C18H18O6,>  <ZINC_id>  (221),>  <DrugBank_id>  (221),17934-15-5
+SANC00324,Crinamidine,C17H19NO5,>  <ZINC_id>  (222),399204,6793-66-4
+SANC00325,Epibuphanisine,C17H19NO3,>  <ZINC_id>  (223),625225,6835-79-6
+SANC00326,Ethoxyprecriwelline,C20H25NO5,>  <ZINC_id>  (224),>  <DrugBank_id>  (224),250282-46-3
+SANC00327,N-Demethyl-8[alpha]-ethoxypretazettine,C19H23NO5,>  <ZINC_id>  (225),>  <DrugBank_id>  (225),727416-49-1
+SANC00328,N-Demethyl-8[beta]-ethoxypretazettine,C19H23NO5,>  <ZINC_id>  (226),>  <DrugBank_id>  (226),727416-50-4
+SANC00329,Lycorine,C16H17NO4,CHEMBL400092,72378,476-28-8
+SANC00330,Powelline,C17H19NO4,>  <ZINC_id>  (228),443669,7363-25-9
+SANC00331,Undulatine,C18H21NO5,>  <ZINC_id>  (229),271606,6882-09-3
+SANC00332,"2,6- dimethyl-1-oxo-4-indanecarboxylic acid",C12H12O3,>  <ZINC_id>  (230),>  <DrugBank_id>  (230),1067197-70-9
+SANC00333,Papyramine,C18H23NO4,>  <ZINC_id>  (231),443727,81149-33-9
+SANC00334,Cherylline,C17H19NO3,>  <ZINC_id>  (232),618047,23367-61-5
+SANC00335,Tamarixetin,C16H12O7,>  <ZINC_id>  (233),>  <DrugBank_id>  (233),603-61-2
+SANC00336,"4'-Demethyl-5-O-methyl-3,9-dihydroeucomin",C17H16O5,>  <ZINC_id>  (234),>  <DrugBank_id>  (234),27245-81-4
+SANC00337,"1,3,6,8-tetrahydroxy-2,5-dimethoxyxanthone",C15H12O8,>  <ZINC_id>  (235),>  <DrugBank_id>  (235),1140921-15-8
+SANC00338,Buphanamine,C17H19NO4,CHEMBL1173111,222152,6793-24-4
+SANC00339,Buphanidrine,C18H21NO4,CHEMBL2009061,407581,1162-10-3
+SANC00340,"1,6,8-trihydroxy-2,3,4,7-tetramethoxyxanthone",C17H16O9,>  <ZINC_id>  (238),>  <DrugBank_id>  (238),1140921-16-9
+SANC00341,Vernodalol,C20H24O8,>  <ZINC_id>  (239),442318,65388-17-2
+SANC00342,Kraussianone 1,C25H22O6,>  <ZINC_id>  (240),>  <DrugBank_id>  (240),497858-65-8
+SANC00343,Niloticane,C20H30O3,>  <ZINC_id>  (241),>  <DrugBank_id>  (241),1291096-13-3
+SANC00344,Kraussianone 2,C25H24O6,>  <ZINC_id>  (242),>  <DrugBank_id>  (242),497858-66-9
+SANC00345,Distichamine,C18H19NO5,>  <ZINC_id>  (243),>  <DrugBank_id>  (243),1356-75-8
+SANC00346,Kraussianone 3,C25H26O7,>  <ZINC_id>  (244),>  <DrugBank_id>  (244),497858-67-0
+SANC00347,Kraussianone 4,C25H22O7,>  <ZINC_id>  (245),>  <DrugBank_id>  (245),497858-68-1
+SANC00348,Kraussianone 5,C25H24O7,>  <ZINC_id>  (246),>  <DrugBank_id>  (246),497858-69-2
+SANC00349,"9a[beta]-hydroxy- 4a[alpha]H-3,5[alpha],8[beta]a- trimethyl-4,4a,8a,9-tetrahydronaphtho-([2,3b]-dihydrofuran-2-one)-8-one",C14H16O4,>  <ZINC_id>  (247),>  <DrugBank_id>  (247),1187534-32-2
+SANC00350,Eucomin,C17H14O5,>  <ZINC_id>  (248),>  <DrugBank_id>  (248),27589-19-1
+SANC00351,"5,7-dihydroxy-3-(3'-hydroxy-4'-methoxybenzyl)-4-chromanone",C17H16O6,>  <ZINC_id>  (249),>  <DrugBank_id>  (249),96910-99-5
+SANC00352,Kraussianone 6,C25H24O7,>  <ZINC_id>  (250),>  <DrugBank_id>  (250),761456-86-4
+SANC00353,"4a[alpha]H-3,5[alpha],8[beta]a- trimethyl-4,4a,8a,9-tetrahydronaphtho-([2,3b]-dihydrofuran-2-one)-8-one",C14H16O3,>  <ZINC_id>  (251),>  <DrugBank_id>  (251),1187534-33-3
+SANC00354,"4a[alpha]H-3,5[alpha],8[beta]a- trimethyl-4,4a,8a-trihydronaphtho-([2,3b]-dihydrofuran-2- one)-8-one",C14H16O3,>  <ZINC_id>  (252),>  <DrugBank_id>  (252),1187534-34-4
+SANC00355,Kraussianone 7,C25H24O7,>  <ZINC_id>  (253),>  <DrugBank_id>  (253),761456-87-5
+SANC00356,"7-O-methyl-3,9-dihydropunctatin",C18H18O6,>  <ZINC_id>  (254),>  <DrugBank_id>  (254),359764-99-1
+SANC00357,"4'-Demethyl-3,9-dihydroeucomin",C16H14O5,>  <ZINC_id>  (255),>  <DrugBank_id>  (255),849727-88-4
+SANC00358,"3,9-dihydroeucomin",C17H16O5,>  <ZINC_id>  (256),>  <DrugBank_id>  (256),887375-68-0
+SANC00359,"5,6-dimethoxy-7-hydroxy-3-(4'-hydroxybenzyl)-4-chromanone",C18H18O6,>  <ZINC_id>  (257),>  <DrugBank_id>  (257),887375-70-4
+SANC00360,"8-O-demethyl-7-O-methyl-3,9-dihydropunctatin",C17H16O6,>  <ZINC_id>  (258),>  <DrugBank_id>  (258),887375-71-5
+SANC00361,4'-O-demethyleucomol,C16H14O6,>  <ZINC_id>  (259),>  <DrugBank_id>  (259),887375-72-6
+SANC00362,"7-O-methyl-3,9-dihydroeucomin",C18H18O5,>  <ZINC_id>  (260),>  <DrugBank_id>  (260),61350-56-9
+SANC00363,ent-3[beta]-Hydroxy-beyer-15-ene-2-one,C20H30O2,>  <ZINC_id>  (261),>  <DrugBank_id>  (261),140850-37-9
+SANC00364,"7[alpha]-Acetoxy-6[beta],12-dihydroxy-abieta-8,12-diene-11,14-dione",C22H30O6,>  <ZINC_id>  (262),2751798,57932-74-8
+SANC00365,"7[alpha]-Formyloxy-6[beta],12-dihydroxy-abieta-8,12-diene-11,14-dione",C21H28O6,>  <ZINC_id>  (263),462176,65714-77-4
+SANC00366,Buphanisine,C17H19NO3,>  <ZINC_id>  (264),625225,468-22-4
+SANC00367,Parviflorone D,C27H30O5,>  <ZINC_id>  (265),>  <DrugBank_id>  (265),66656-57-3
+SANC00368,4'-hydroxyphenyl ethyl vanillate,C16H16O5,>  <ZINC_id>  (266),>  <DrugBank_id>  (266),1539303-03-1
+SANC00369,Parviflorone F,C27H30O6,>  <ZINC_id>  (267),>  <DrugBank_id>  (267),66656-58-4
+SANC00370,Acteoside,C29H36O15,CHEMBL444478,5281800,61276-17-3
+SANC00371,"11-Hydroxy-19-(3-methylbuten-3-oyloxy)-abieta-5,7,9(11),13-tetraene-12-one",C25H32O4,>  <ZINC_id>  (269),>  <DrugBank_id>  (269),66656-54-0
+SANC00372,"11-Hydroxy-19-(4-hydroxybenzoyloxy)-abieta-5,7,9(11),13-tetraene-12-one",C27H30O5,>  <ZINC_id>  (270),>  <DrugBank_id>  (270),66656-56-2
+SANC00373,"11-Hydroxy-19-(3,4-dihydroxybenzoyloxy)-abieta-5,7,9(11),13-tetraene-12-one",C27H30O6,>  <ZINC_id>  (271),>  <DrugBank_id>  (271),66700-66-1
+SANC00374,Bulbocapnine,C19H19NO4,>  <ZINC_id>  (272),9276,298-45-3
+SANC00375,Dicentrine,C20H21NO4,CHEMBL464748,101300,517-66-8
+SANC00376,Lauroscholtzine,C20H23NO4,CHEMBL464099,16573,2169-44-0
+SANC00377,Glaziovine,C18H19NO3,>  <ZINC_id>  (275),73426,6808-72-6
+SANC00378,Pronuciferine,C19H21NO3,>  <ZINC_id>  (276),628376,2128-60-1
+SANC00379,Salutaridine,C19H21NO4,CHEMBL404097,>  <DrugBank_id>  (277),1936-18-1
+SANC00380,Cycleanine,C38H42N2O6,>  <ZINC_id>  (278),121313,518-94-5
+SANC00381,Cissacapine,C38H38N2O6,>  <ZINC_id>  (279),>  <DrugBank_id>  (279),847020-31-9
+SANC00382,Crotsparine,C17H17NO3,>  <ZINC_id>  (280),>  <DrugBank_id>  (280),18373-79-0
+SANC00383,Insularine,C38H40N2O6,>  <ZINC_id>  (281),10348927,549-07-5
+SANC00384,12-O-Methylcurine,C37H40N2O6,>  <ZINC_id>  (282),10393930,59685-16-4
+SANC00385,Reticuline,C19H23NO4,CHEMBL235212,439653,485-19-8
+SANC00386,Insulanoline,C37H38N2O6,>  <ZINC_id>  (284),>  <DrugBank_id>  (284),478-62-6
+SANC00387,Hispanolone,C20H30O3,CHEMBL2000054,5458747,18676-07-8
+SANC00388,Saundersioside E,C46H64O15,>  <ZINC_id>  (286),>  <DrugBank_id>  (286),153005-22-2
+SANC00389,"3[beta]P,16[beta]P,17[alpha]-trihydroxycholest-5-en-22-one 16-O-[beta]-d-xylopyranosyl-(1[to]3)-(2-O-acetyl-[alpha]-l-arabinopyranoside)",C39H62O13,>  <ZINC_id>  (287),>  <DrugBank_id>  (287),145075-80-5
+SANC00390,"3[beta],16[beta],17[alpha]-trihydroxycholest-5-en-22-one 16-O-(2-O-4-methoxybenzoyl-[beta]P-d-xylopyranosyl)-(1[to]3)-(2-O-acetyl-[alpha]-l-arabinopyranoside)",C47H68O15,>  <ZINC_id>  (288),>  <DrugBank_id>  (288),145075-81-6
+SANC00391,"3[beta],16[beta],17[alpha]-trihydroxy-cholest-5-en-22-one 16-O-(2-O-3,4-dimethoxybenzoyl-[beta]-d-xylopyranosyl)-(1[to]3)-(2-O-acetyl-[alpha]-l-arabinopyranoside)",C48H70O16,>  <ZINC_id>  (289),>  <DrugBank_id>  (289),145075-82-7
+SANC00392,(22S)-3[beta]-[([beta]-D-glucopyranosyl)oxy]-22-hydroxycholest-5-en-16[beta]-yl 3-O-acetyl-[alpha]-L-rhamnopyranoside,C41H68O13,>  <ZINC_id>  (290),>  <DrugBank_id>  (290),263570-68-9
+SANC00393,"(22S)-3[beta]-[([beta]-D-glucopyranosyl)oxy]-22-hydroxycholesta-5,24-dien-16[beta]-yl 3-O-acetyl-[alpha]-L-rhamnopyranoside",C41H66O13,>  <ZINC_id>  (291),>  <DrugBank_id>  (291),263570-69-0
+SANC00394,"(22S)-1[beta]-[([beta]-D-glucopyranosyl)- oxy]-3[beta],22-dihydroxycholesta-5,24-dien-16[beta]-yl [beta]-D-glucopy- ranoside",C39H64O14,>  <ZINC_id>  (292),>  <DrugBank_id>  (292),263570-70-3
+SANC00395,"(22S)-1[beta]-[(O-[beta]-D-glucopyranosyl-(1[to]6)-[beta]-D-glucopyranosyl)oxy]-3[beta],22-dihydroxycholesta-5,24-dien-16[beta]-yl [beta]-D-glucopyranoside",C45H74O19,>  <ZINC_id>  (293),>  <DrugBank_id>  (293),263570-72-5
+SANC00396,"(22S)-1[beta]-[(O-[beta]-D-glucopyranosyl-(1[to]6)-[beta]-D-glucopyranosyl)oxy]-3[beta],22-dihydroxycholest-5-en-16[beta]-yl [beta]-D-glucopyranoside",C45H76O19,>  <ZINC_id>  (294),>  <DrugBank_id>  (294),263570-73-6
+SANC00397,Saundersioside C,C45H70O18,>  <ZINC_id>  (295),>  <DrugBank_id>  (295),153005-20-0
+SANC00398,Saundersioside D,C39H60O13,>  <ZINC_id>  (296),>  <DrugBank_id>  (296),173967-24-3
+SANC00399,Saundersioside B,C48H68O16,>  <ZINC_id>  (297),>  <DrugBank_id>  (297),174867-68-6
+SANC00400,(25R)-3[beta]-Hydroxyspirost-5-en-1[beta]-yl O-[alpha]-l-rhamnopyranosyl-(1[to]2)-O-[[beta]-D-xylopyranosyl-(1[to]3)]-[alpha]-L-arabinopyranoside,C43H68O16,>  <ZINC_id>  (298),>  <DrugBank_id>  (298),790300-60-6
+SANC00401,"(24S,25S)-3[beta],24-dihydroxyspirost-5-en-1[beta]-yl O-[alpha]-L-rhamnopyranosyl-(1[to]2)-O-[[beta]-D-xylopyranosyl-(1[to]3)]-[alpha]-L-arabinopyranoside",C43H68O17,>  <ZINC_id>  (299),>  <DrugBank_id>  (299),790300-61-7
+SANC00402,"(22S)-16[beta]-[(O-[beta]-D-apiofuranosyl-(1[to]4)-6-O-acetyl-[beta]-D-glucopyranosyl)oxy]-3[beta],22-dihydroxy-5[alpha]-cholestan-16[beta]-yl [alpha]-L-rhamnopyranoside",C46H78O18,>  <ZINC_id>  (300),>  <DrugBank_id>  (300),790300-62-8
+SANC00403,"(22S)-16[beta]-[([beta]-D-glucopyranosyl)oxy]-3[beta],22-dihydroxy-5[alpha]-cholestan-1[beta]-yl [beta]-D-glucopyranoside",C39H68O14,>  <ZINC_id>  (301),>  <DrugBank_id>  (301),790300-63-9
+SANC00404,"(22S)-16[beta]-[([beta]-D-glucopyranosyl)oxy]-3[beta],22-dihydroxy-5[alpha]-cholestan-1[beta]-yl 6-O-(3,4,5-trimethoxybenzoyl)-[beta]-D-glucopyranoside",C49H78O18,>  <ZINC_id>  (302),>  <DrugBank_id>  (302),790300-64-0
+SANC00405,"(22S)-16[beta]-[([beta]-D-glucopyranosyl)oxy]-3[beta],22-dihydroxy-5[alpha]-cholest-24-en-1[beta]-yl 6-O-(3,4,5-trimethoxybenzoyl)-[beta]-D-glucopyranoside",C49H76O18,>  <ZINC_id>  (303),>  <DrugBank_id>  (303),790300-65-1
+SANC00406,"(22S)-16[beta]-[([alpha]-L-rhamnopyranosyl)oxy]-3[beta],22-dihydroxycholest-5-en-1[beta]-yl [alpha]-L-rhamnopyranoside",C39H66O12,>  <ZINC_id>  (304),>  <DrugBank_id>  (304),790300-66-2
+SANC00407,(25R)-3[beta]-hydroxy-5[alpha]-spirostan-1[beta]-yl [beta]-D-glucopyranoside,C33H54O9,>  <ZINC_id>  (305),>  <DrugBank_id>  (305),790661-46-0
+SANC00408,"24S,25S)-3[beta],24-dihydroxyspirost-5-en-1[beta]-yl O-[alpha]- L-rhamnospyranosyl-(1[to]2)-[alpha]-L-arabinopyranoside",C38H60O13,>  <ZINC_id>  (306),>  <DrugBank_id>  (306),790661-47-1
+SANC00409,Aloin A,C21H22O9,CHEMBL123026,313325,1415-73-2
+SANC00410,Aloin B,C21H22O9,>  <ZINC_id>  (308),>  <DrugBank_id>  (308),28371-16-6
+SANC00411,Aloeresin,C19H22O9,>  <ZINC_id>  (309),>  <DrugBank_id>  (309),30861-27-9
+SANC00412,"4H-1-Benzopyran-4-one, 7-hydroxy-8-[6-O-[(2E)-3-(4-hydroxyphenyl)-1-oxo-2-propen-1-yl]-[beta]-D-glucopyranosyl]-5-methyl-2-(2-oxopropyl)-",C28H28O11,>  <ZINC_id>  (310),>  <DrugBank_id>  (310),313944-92-2
+SANC00413,Bromotopsentin,C20H13BrN4O2,CHEMBL436760,183528,112515-44-3
+SANC00414,Spongotine A,C20H15BrN4O,>  <ZINC_id>  (312),>  <DrugBank_id>  (312),116747-40-1
+SANC00415,Bromodeoxytopsentin,C20H13BrN4O,CHEMBL198814,400452,180633-55-0
+SANC00416,"Cis-3,4-dihydrohamacanthin b",C20H16Br2N4O,CHEMBL541209,10624851,264624-39-7
+SANC00417,Halitulin,C35H40N4O4,>  <ZINC_id>  (315),>  <DrugBank_id>  (315),221367-90-4
+SANC00418,Sodwanone N,C30H52O6,>  <ZINC_id>  (316),>  <DrugBank_id>  (316),233607-68-6
+SANC00419,Sodwanone O,C30H48O5,>  <ZINC_id>  (317),>  <DrugBank_id>  (317),233607-69-7
+SANC00420,Sodwanone P,C30H50O5,>  <ZINC_id>  (318),>  <DrugBank_id>  (318),233607-70-0
+SANC00421,Sodwanone R,C30H46O4,>  <ZINC_id>  (319),>  <DrugBank_id>  (319),233607-72-2
+SANC00422,Sodwanone Q,C30H48O3,>  <ZINC_id>  (320),>  <DrugBank_id>  (320),233607-71-1
+SANC00423,Bengamide A,C31H56N2O8,CHEMBL256279,10077016,104947-68-4
+SANC00424,Bengamide B,C32H58N2O8,CHEMBL446079,6444128,104947-69-5
+SANC00425,Cyclo(L-trans-(4-hydroxyprolinyl)-L-phenylalanine),C14H16N2O3,>  <ZINC_id>  (323),10467786,118477-06-8
+SANC00426,"Non-6-enonic acid, 6,7,8,9-tetradeoxy-8-methyl-2-O-methyl-, [gamma]-lactone (9CI)",C11H18O5,CHEMBL464101,>  <DrugBank_id>  (324),157544-69-9
+SANC00427,"L-arabino-Hexitol, 1,5-dideoxy-6-C-[2-(5-oxazolylmethyl)-4-oxazolyl]-, 6-heneicosanoate, (6R)- (9CI)",C34H58N2O7,>  <ZINC_id>  (325),>  <DrugBank_id>  (325),157536-06-6
+SANC00428,"Pyrrolo[1,2-a]pyrazine-1,4-dione, hexahydro-3-[(4-hydroxyphenyl)methyl]-, (3S,8aS)",C14H16N2O3,CHEMBL359788,119404,4549-02-4
+SANC00429,Solasonine,C45H73NO16,>  <ZINC_id>  (327),73410,19121-58-5
+SANC00430,Eucannabinolide,C22H28O8,>  <ZINC_id>  (328),6436818,38458-58-1
+SANC00431,Tatridin A,C15H20O4,>  <ZINC_id>  (329),14466152,41653-75-2
+SANC00432,Deacetyl-[beta]-cyclopyrethrosin,C15H20O4,>  <ZINC_id>  (330),>  <DrugBank_id>  (330),83790-58-3
+SANC00433,13-methoxy-15-oxozoapatlin,C21H28O4,CHEMBL465475,>  <DrugBank_id>  (331),173962-79-3
+SANC00434,Diospyrin,C22H14O6,CHEMBL242550,308140,28164-57-0
+SANC00435,Isodiospyrin,C22H14O6,CHEMBL1992900,99298,20175-84-2
+SANC00436,Mamegakinone,C22H14O6,>  <ZINC_id>  (334),167673,17734-93-9
+SANC00437,7-methyljuglone,C11H8O3,CHEMBL430853,26905,14787-38-3
+SANC00438,Neodiospyrin,C22H14O6,>  <ZINC_id>  (336),5320076,33916-25-5
+SANC00439,Shinanolone,C11H12O3,>  <ZINC_id>  (337),>  <DrugBank_id>  (337),34987-22-9
+SANC00440,(+)-trans-ozic acid,C20H30O2,>  <ZINC_id>  (338),>  <DrugBank_id>  (338),83945-57-7
+SANC00441,"1-Naphthalenemethanol, decahydro-3-hydroxy-1,4a-dimethyl-6-methylene-5-[(2E)-3-methyl-2,4-pentadien-1-yl]-, (1R,3R,4aR,5S,8aR)",C20H32O2,CHEMBL220528,16109841,926896-22-2
+SANC00442,"1-Naphthalenecarboxylic acid, decahydro-3-hydroxy-1,4a-dimethyl-6-methylene-5-[(2E)-3-methyl-2,4-pentadien-1-yl]-, (1R,3R,4aR,5S,8aR)",C20H30O3,CHEMBL434755,16109843,926896-23-3
+SANC00443,Carnosol,C20H26O4,CHEMBL218693,442009,5957-80-2
+SANC00444,Rosmadial,C20H24O5,CHEMBL494864,>  <DrugBank_id>  (342),85514-31-4
+SANC00445,Carnosic acid,C20H28O4,CHEMBL484853,65126,3650-09-7
+SANC00446,Cephalostatin 18,C55H76N2O11,CHEMBL504202,10533864,211050-18-9
+SANC00447,Cephalostatin 19,C55H76N2O11,CHEMBL445707,10748407,211050-19-0
+SANC00448,Cephalostatin 5,C54H72N2O10,>  <ZINC_id>  (346),>  <DrugBank_id>  (346),121071-11-2
+SANC00449,Cephalostatin 6,C53H70N2O10,>  <ZINC_id>  (347),>  <DrugBank_id>  (347),121038-34-4
+SANC00450,Lissocline disulfoxide,C26H38N2O6S4,>  <ZINC_id>  (348),>  <DrugBank_id>  (348),195303-92-5
+SANC00451,Varacin,C10H13NO2S5,CHEMBL151233,179269,134029-48-4
+SANC00452,"N,N-dimethyl-5-(methylthio)varacin",C13H19NO2S6,CHEMBL222470,10319580,159645-82-6
+SANC00453,"3,4-dimethoxy-6-(2'-N,N- dimethylaminoethyl)-5-(methylthio)bemtrithian",C13H19NO2S4,>  <ZINC_id>  (351),>  <DrugBank_id>  (351),159645-84-8
+SANC00454,"Pregn-5-en-20-one, 3-[(O-6-deoxy-3-O-methyl-[beta]-D-glucopyranosyl-(1[to]4)-O-2,6-dideoxy-3-O-methyl-[beta]-D-ribo-hexopyranosyl-(1[to]4)-2,6-dideoxy-3-O-methyl-[beta]-D-ribo-hexopyranosyl)oxy]-14-hydroxy-12-[[(2E)-2-methyl-1-oxo-2-buten-1-yl]oxy]-, (3[b",C47H74O15,>  <ZINC_id>  (352),>  <DrugBank_id>  (352),384329-61-7
+SANC00455,"Pregn-5-en-20-one, 3-[(O-2,6-dideoxy-3-O-methyl-[beta]-D-ribo-hexopyranosyl-(1[to]4)-O-6-deoxy-3-O-methyl-[beta]-D-glucopyranosyl-(1[to]4)-O-2,6-dideoxy-3-O-methyl-[beta]-D-ribo-hexopyranosyl-(1[to]4)-2,6-dideoxy-3-O-methyl-[beta]-D-ribo-hexopyranosyl)oxy",C54H86O18,>  <ZINC_id>  (353),>  <DrugBank_id>  (353),957217-38-8
+SANC00456,"Pregn-5-en-20-one, 3,14-dihydroxy-12-[[(2E)-2-methyl-1-oxo-2-buten-1-yl]oxy]-, (3[beta],12[beta],14[beta])-",C26H38O5,>  <ZINC_id>  (354),>  <DrugBank_id>  (354),742058-65-7
+SANC00457,Digipurpurogenin II,C21H32O4,>  <ZINC_id>  (355),>  <DrugBank_id>  (355),4644-99-9
+SANC00458,Cymarose,C7H14O4,>  <ZINC_id>  (356),>  <DrugBank_id>  (356),89253-99-6
+SANC00459,"Pregn-5-en-20-one, 3-[(2,6-dideoxy-3-O-methyl-[beta]-D-ribo-hexopyranosyl)oxy]-14-hydroxy-12-[[(2E)-2-methyl-1-oxo-2-buten-1-yl]oxy]-, (3[beta],12[beta],14[beta])-",C33H50O8,>  <ZINC_id>  (357),>  <DrugBank_id>  (357),957217-39-9
+SANC00460,Isodigipurpurogenin II,C21H32O4,>  <ZINC_id>  (358),>  <DrugBank_id>  (358),4373-53-9
+SANC00461,Lilacinobiose,C14H26O8,>  <ZINC_id>  (359),>  <DrugBank_id>  (359),23457-83-2
+SANC00462,Methyl [beta]-D-cymaropyranoside,C8H16O4,>  <ZINC_id>  (360),>  <DrugBank_id>  (360),67968-33-6
+SANC00463,Dresibioside,C15H28O8,>  <ZINC_id>  (361),>  <DrugBank_id>  (361),130855-19-5
+SANC00464,"3,6-Dimethoxyapigenin",C17H14O7,>  <ZINC_id>  (362),>  <DrugBank_id>  (362),22697-65-0
+SANC00465,12[beta]-hydroxyscillirosidin,C26H34O8,>  <ZINC_id>  (363),637392,154233-95-1
+SANC00466,"6[beta]-acetoxy-3[beta],8[beta],14[beta]-trihydroxy-12-oxobufa-4,20,22-trienolide",C26H32O8,>  <ZINC_id>  (364),>  <DrugBank_id>  (364),824948-53-0
+SANC00467,"3,4-dihydroxybenzoic acid",C7H6O4,CHEMBL37537,72,99-50-3
+SANC00468,4-hydroxy-3-methoxybenzoic acid,C8H8O4,CHEMBL120568,8468,121-34-6
+SANC00469,Trans-3-(4'-hydroxyphenyl)-2-propenoic acid,C9H8O3,CHEMBL66879,637542,501-98-4
+SANC00470,Drimiopsin E,C15H12O6,>  <ZINC_id>  (368),>  <DrugBank_id>  (368),771578-79-1
+SANC00471,Drimiopsin A,C16H14O7,>  <ZINC_id>  (369),>  <DrugBank_id>  (369),773850-88-7
+SANC00472,Drimiopsin B,C17H16O7,>  <ZINC_id>  (370),>  <DrugBank_id>  (370),773850-89-8
+SANC00473,Drimiopsin C,C15H12O6,>  <ZINC_id>  (371),>  <DrugBank_id>  (371),773850-90-1
+SANC00474,Drimiopsin D,C16H14O7,>  <ZINC_id>  (372),>  <DrugBank_id>  (372),773850-91-2
+SANC00475,Drimiopsin F,C16H14O6,>  <ZINC_id>  (373),>  <DrugBank_id>  (373),773850-92-3
+SANC00476,"(+)1[beta],6[alpha]-dihydroxy-4(15)-eudesmene",C15H26O2,>  <ZINC_id>  (374),>  <DrugBank_id>  (374),70389-88-7
+SANC00477,"3,5-dihydroxy-7-methoxy-3-(4'-hydroxy-3'-methoxybenzyl)chroman-4-one",C18H18O7,>  <ZINC_id>  (375),>  <DrugBank_id>  (375),849727-93-1
+SANC00478,Cephalostatin 2,C54H74N2O11,CID: 5352052,>  <DrugBank_id>  (376),116199-48-5
+SANC00479,Cephalostatin 3,C55H76N2O11,>  <ZINC_id>  (377),>  <DrugBank_id>  (377),116199-49-6
+SANC00480,Cephalostatin 4,C54H74N2O12,CHEMBL404389,>  <DrugBank_id>  (378),116229-58-4
+SANC00481,Cephalostatin 7,C54H76N2O11,>  <ZINC_id>  (379),9919359,138605-82-0
+SANC00482,Cephalostatin 8,C55H78N2O10,CHEMBL255256,>  <DrugBank_id>  (380),138605-83-1
+SANC00483,Cephalostatin 9,C54H76N2O11,CHEMBL256077,>  <DrugBank_id>  (381),138628-96-3
+SANC00484,Cephalostatin 10,C55H76N2O12,CHEMBL421638,10373697,153698-87-4
+SANC00485,Cephalostatin 11,C55H76N2O12,>  <ZINC_id>  (383),10373698,153698-88-5
+SANC00486,Cephalostatin 12,C54H76N2O12,CHEMBL403143,>  <DrugBank_id>  (384),158371-96-1
+SANC00487,Cephalostatin 13,C54H76N2O13,CHEMBL256953,>  <DrugBank_id>  (385),158371-97-2
+SANC00488,Cephalostatin 14,C54H72N2O12,>  <ZINC_id>  (386),>  <DrugBank_id>  (386),159602-64-9
+SANC00489,Cephalostatin 15,C55H74N2O12,>  <ZINC_id>  (387),>  <DrugBank_id>  (387),159602-65-0
+SANC00490,Cephalostatin 16,C54H74N2O10,>  <ZINC_id>  (388),>  <DrugBank_id>  (388),170591-43-2
+SANC00491,Cephalostatin 17,C54H74N2O10,>  <ZINC_id>  (389),>  <DrugBank_id>  (389),170591-44-3
+SANC00492,"Methanone, phenyl[2,4,6-trihydroxy-3-(3-methyl-2-buten-1-yl)phenyl]",C18H18O4,>  <ZINC_id>  (390),>  <DrugBank_id>  (390),93796-20-4
+SANC00493,Saundersioside A,C46H72O19,>  <ZINC_id>  (391),>  <DrugBank_id>  (391),151392-07-3
+SANC00494,"[beta]-D-Glucopyranoside, (3[beta],5[beta],16[beta],22R,23S)-16,23-epoxy-22-hydroxycholest-24-en-3-yl O-6-deoxy-[alpha]-L-mannopyranosyl-(1[to]2)-O-[beta]-D-glucopyranosyl-(1[to]2)- (9CI)",C45H74O17,>  <ZINC_id>  (392),>  <DrugBank_id>  (392),168843-94-5
+SANC00495,"(22S)-3[beta],22-Dihydroxy-1[beta]-[([alpha]-L-rhamnopyranosyl)oxy]cholest-5,24-dien-16[beta]-yl [beta]-D-glucopyranoside",C39H64O13,>  <ZINC_id>  (393),>  <DrugBank_id>  (393),263570-71-4
+SANC00496,"3[beta]-[([beta]-D-glucopyranosyl)oxy]-17[alpha]-hydroxy-16[beta]-[(O-(2-O-3,4-dimethoxybenzoyl-[beta]-D-xylopyranosyl)-(1[to]2)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest-5-en-22-one",C54H80O21,>  <ZINC_id>  (394),>  <DrugBank_id>  (394),263570-74-7
+SANC00497,3[beta]-[([beta]-D-glucopyranosyl)oxy]-17[alpha]-hydroxy-16[beta]-[(O-[beta]-D-xylopyranosyl-(1[to]2)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest-5-en-22-one,C45H72O18,>  <ZINC_id>  (395),>  <DrugBank_id>  (395),263570-75-8
+SANC00498,"(22S,23R)-16[beta],23-epoxy-18,23-dihydroxy-22-(2-methyl-1-propenyl)-24-norchol-5-en-3[beta]-yl O-[alpha]-L-rhamnopyranosyl-(1[to]2)-[beta]-D-glucopyranoside",C39H62O13,>  <ZINC_id>  (396),>  <DrugBank_id>  (396),263570-77-0
+SANC00499,16[beta]-[([alpha]-L-arabinopyranosyl)oxy]-3[beta]-[([beta]-D-glucopyranosyl)oxy]-17[alpha]-hydroxycholest-5-en-22-one,C38H62O13,>  <ZINC_id>  (397),>  <DrugBank_id>  (397),365461-51-4
+SANC00500,"3[beta],17[alpha]-dihydroxy-16[beta]-[(O-[beta]-D-glucopyranosyl-(1[to]4)-O-(2-O-3,4-dimethoxybenzoyl-[beta]-D-xylopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest-5-en-22-one",C54H80O21,>  <ZINC_id>  (398),>  <DrugBank_id>  (398),319924-37-3
+SANC00501,"3[beta],17[alpha]-dihydroxy-16[beta]-[(O-[beta]-D-glucopyranosyl-(1[to]4)-O-(2-O-3,4,5-trimethoxybenzoyl-[beta]-D-xylopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest-5-en-22-one",C55H82O22,>  <ZINC_id>  (399),>  <DrugBank_id>  (399),319924-38-4
+SANC00502,"3[beta]-[([beta]-D-glucopyranosyl)oxy)]-17[alpha]-hydroxy-16[beta]-[(O-(2-O-3,4,5-trimethoxybenzoyl-[beta]-D-xylopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest-5-en-22-one",C55H82O22,>  <ZINC_id>  (400),>  <DrugBank_id>  (400),474125-90-1
+SANC00503,"3[beta]-[(O-[beta]-D-Glucopyranosyl-(1[to]6)-[beta]-D-glucopyranosyl)oxy)]-17[alpha]-hydroxy-16[beta]-[(O-(2-O-3,4-dimethoxybenzoyl-[beta]-D-xylopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest-5-en-22-one",C60H90O26,>  <ZINC_id>  (401),>  <DrugBank_id>  (401),474125-92-3
+SANC00504,"3[beta]-[(O-[beta]-D-glucopyranosyl-(1[to]6)-[beta]-D-glucopyranosyl)oxy)]-17[alpha]-hydroxy-16[beta]-[(O-(2-O-3,4,5-trimethoxybenzoyl-[beta]-D-xylopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest-5-en-22-one",C61H92O27,>  <ZINC_id>  (402),>  <DrugBank_id>  (402),474125-93-4
+SANC00505,"3[beta]-[(O-[beta]-D-glucopyranosyl-(1[to]4)-O-[beta]-D-glucopyranosyl-(1[to]6)-[beta]-D-glucopyranosyl)oxy)]-17[alpha]-hydroxy-16[beta]-[(O-(2-O-3,4,5-trimethoxybenzoyl-[beta]-D-xylopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest...",C67H102O32,>  <ZINC_id>  (403),>  <DrugBank_id>  (403),474125-96-7
+SANC00506,3[beta]-[(O-[beta]-D-glucopyranosyl-(1[to]4)-O-[beta]-D-glucopyranosyl-(1[to]6)-[beta]-D-glucopyranosyl)oxy)]-17[alpha]-hydroxy-16[beta]-[(O-(2-O-4-hydroxy-3-methoxybenzoyl-[beta]-D-xylopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]chol...,C65H98O31,>  <ZINC_id>  (404),>  <DrugBank_id>  (404),474125-97-8
+SANC00507,"3[beta]-[(O-[beta]-D-glucopyranosyl-(1[to]4)-O-[beta]-D-glucopyranosyl-(1[to]6)-[beta]-D-glucopyranosyl)oxy)]-17[alpha]-hydroxy-16[beta]-[(O-(3-O-3,4-dimethoxybenzoyl-[beta]-D-xylopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest-5...",C66H100O31,>  <ZINC_id>  (405),>  <DrugBank_id>  (405),474125-98-9
+SANC00508,3[beta]-[(O-[beta]-D-glucopyranosyl-(1[to]4)-O-[beta]-D-glucopyranosyl-(1[to]6)-[beta]-D-glucopyranosyl)oxy)]-17[alpha]-hydroxy-16[beta]-[(O-[beta]-D-xylopyranosyl-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest-5-en-22-one,C57H92O28,>  <ZINC_id>  (406),>  <DrugBank_id>  (406),474125-94-5
+SANC00509,"(22S)-cholest-5-ene-3[beta],11[alpha],16[beta],22-tetrol 16-O-(2,3-di-O-acetyl-[alpha]-L-rhamnopyranoside)",C37H60O10,>  <ZINC_id>  (407),>  <DrugBank_id>  (407),249924-38-7
+SANC00510,"(22S)-cholest-5-ene-3[beta],11[alpha],16[beta],22-tetrol 16-O-{2-O-acetyl-3-O-(3,4,5-trimethoxybenzoyl)-[alpha]-L-rhamnopyranoside}",C45H68O13,>  <ZINC_id>  (408),>  <DrugBank_id>  (408),249924-39-8
+SANC00511,"(22S)-cholest-5-ene-3[beta],11[alpha],16[beta],22-tetrol 16-O-{2-O-acetyl-3-O-(p-methoxybenzoyl)-[alpha]-L-rhamnopyranoside}",C43H64O11,>  <ZINC_id>  (409),>  <DrugBank_id>  (409),249924-40-1
+SANC00512,"(22S)-cholesta-5,24-diene-3[beta],11[alpha],16[beta],22-tetrol 16-O-(2,3-di-O-acetyl-[alpha]-L-rhamnopyranoside)",C37H58O10,>  <ZINC_id>  (410),>  <DrugBank_id>  (410),249924-41-2
+SANC00513,"5,7-dihydroxy-(4'-hydroxy-3'-methoxybenzyl)-4-chromanone",C17H16O6,>  <ZINC_id>  (411),>  <DrugBank_id>  (411),849727-89-5
+SANC00515,1-epideacetylbowdensine,C19H23NO6,>  <ZINC_id>  (412),>  <DrugBank_id>  (412),265992-99-2
+SANC00516,Betulin,C30H50O2,>  <ZINC_id>  (413),>  <DrugBank_id>  (413),473-98-3
+SANC00517,Octahydroeuclein,C22H22O6,>  <ZINC_id>  (414),>  <DrugBank_id>  (414),816429-73-9
+SANC00518,20(29)-lupene-3[beta]-isoferulate,C40H58O4,>  <ZINC_id>  (415),>  <DrugBank_id>  (415),816429-13-7
+SANC00519,"(E)-3,2',4'-Trihydroxy-3'-methoxychalcone",C16H14O5,>  <ZINC_id>  (416),>  <DrugBank_id>  (416),1196896-74-8
+SANC00520,"(2S)-5,7,2'-Trihydroxyflavanone",C15H12O5,>  <ZINC_id>  (417),>  <DrugBank_id>  (417),111199-94-1
+SANC00521,"(E)-3,2',4'-Trihydroxychalcone",C15H12O4,>  <ZINC_id>  (418),>  <DrugBank_id>  (418),34000-37-8
+SANC00522,"(E)-2',4'-Dihydroxychalcone",C15H12O3,>  <ZINC_id>  (419),>  <DrugBank_id>  (419),25515-43-9
+SANC00523,Punctatin,C17H14O6,>  <ZINC_id>  (420),>  <DrugBank_id>  (420),34818-82-1
+SANC00524,"1',2-binaphthalen-4-one-2',3-dimethyl-1,8'-epoxy-1,4',5,5',8,8'-hexahydroxy-8-O-[beta]-glucopyranosyl-5'-O-[beta]-xylopyranosyl(1[to]6)-[beta]-glucopyranoside",C39H44O21,>  <ZINC_id>  (421),>  <DrugBank_id>  (421),208656-00-2
+SANC00525,Eucosterol,C29H44O5,>  <ZINC_id>  (422),>  <DrugBank_id>  (422),57092-34-9
+SANC00526,"1',2-binaphthalen-4-one-2',3-dimethyl-1,8'-epoxy-1,4',5,5',8,8'-hexahydroxy-5',8-di-O-[beta]-xylopyranosyl(1[to]6)-[beta]-glucopyranoside",C44H52O25,>  <ZINC_id>  (423),>  <DrugBank_id>  (423),208656-02-4
+SANC00527,(Z)-Eucomin,C17H14O5,>  <ZINC_id>  (424),>  <DrugBank_id>  (424),61350-54-7
+SANC00528,"(23S)-17[alpha],23-epoxy-3[beta],28,29-trihydroxy-27-norlanost-8-en-24-one",C29H46O5,>  <ZINC_id>  (425),>  <DrugBank_id>  (425),78161-22-5
+SANC00529,Poleevansin,C17H14O7,>  <ZINC_id>  (426),>  <DrugBank_id>  (426),849727-87-3
+SANC00530,Microfolian,C26H30O6,>  <ZINC_id>  (427),>  <DrugBank_id>  (427),462112-94-3
+SANC00531,Microfolione,C21H22O5,>  <ZINC_id>  (428),>  <DrugBank_id>  (428),462112-95-4
+SANC00532,Microfolicoumarin,C16H18O4,>  <ZINC_id>  (429),>  <DrugBank_id>  (429),462112-96-5
+SANC00533,flaccidoxide,C22H34O4,>  <ZINC_id>  (430),>  <DrugBank_id>  (430),77965-78-7
+SANC00534,"(1Z,3E,7E,11S,12S,14S)-11,12-Epoxy cembra-1,3,7-trien-14-ol",C20H32O2,>  <ZINC_id>  (431),>  <DrugBank_id>  (431),88924-81-6
+SANC00535,Flaccidoxide-13-acetate,C24H36O5,>  <ZINC_id>  (432),>  <DrugBank_id>  (432),303966-02-1
+SANC00536,"(-)-(1R*,4R*,10R*)-4-Methoxycembra-2E,7E,11Z-trien-20,10-olide",C21H32O3,>  <ZINC_id>  (433),>  <DrugBank_id>  (433),1346224-10-9
+SANC00537,"(-)-(1S*,4R*,10R*)-1-Hydroxy-4-methoxycembra-2E,7E,11Z-trien-20,10-olide",C21H32O4,>  <ZINC_id>  (434),>  <DrugBank_id>  (434),1346224-11-0
+SANC00538,"(-)-(1S*,4S*,10R*)-1,4-Dihydroxycembra-2E,7E,11Z-trien-20,10-olide (3)",C20H30O4,>  <ZINC_id>  (435),>  <DrugBank_id>  (435),1346224-12-1
+SANC00539,"(+)-(10R*)-Cembra-1E,3E,7E,11Z,16-pentaen-20,10-olide",C20H26O2,>  <ZINC_id>  (436),>  <DrugBank_id>  (436),1346224-14-3
+SANC00540,"(+)-(10R*)-Cembra-1Z,3Z,7E,11Z,15-pentaen-20,10-olide",C20H26O2,>  <ZINC_id>  (437),>  <DrugBank_id>  (437),1346224-15-4
+SANC00541,"(+)-(5R*,10R*)-5-Methoxycembra-1E,3E,7E,11Z,15-pentaen-20,10-olide",C21H30O3,>  <ZINC_id>  (438),>  <DrugBank_id>  (438),1346224-16-5
+SANC00542,"(+)-(1S*,4S*,7R*,10R*)-1,4,7-Trihydroxycembra-2E,8(19),11Z-trien-20,10-olide",C20H30O5,>  <ZINC_id>  (439),>  <DrugBank_id>  (439),1346224-18-7
+SANC00543,Clathculin A,C21H38N2,>  <ZINC_id>  (440),>  <DrugBank_id>  (440),300811-99-8
+SANC00544,Clathculin B,C21H40N2,>  <ZINC_id>  (441),>  <DrugBank_id>  (441),300812-19-5
+SANC00545,Sutherlandioside A,C36H60O10,>  <ZINC_id>  (442),>  <DrugBank_id>  (442),1055329-46-8
+SANC00546,Sutherlandioside B,C36H60O10,>  <ZINC_id>  (443),>  <DrugBank_id>  (443),1055329-47-9
+SANC00547,Sutherlandioside C,C36H58O10,>  <ZINC_id>  (444),>  <DrugBank_id>  (444),1055329-48-0
+SANC00548,Sutherlandioside D,C36H58O9,>  <ZINC_id>  (445),>  <DrugBank_id>  (445),1055329-49-1
+SANC00550,"1[alpha],9[beta]-Difuranoyloxy-2-oxodihydro-[beta]-agarofuran",C25H28O8,>  <ZINC_id>  (446),>  <DrugBank_id>  (446),1231761-69-5
+SANC00551,"1[alpha],9[beta]-Difuranoyloxy- 2-oxo-3-enedihydro-[beta]-agarofuran",C25H26O8,>  <ZINC_id>  (447),>  <DrugBank_id>  (447),1231761-70-8
+SANC00552,"1[alpha],9[beta]-Difuranoyloxydihydro-[beta]-agarofuran",C25H30O7,>  <ZINC_id>  (448),>  <DrugBank_id>  (448),1231761-71-9
+SANC00553,Octandronic acid,C30H48O3,>  <ZINC_id>  (449),>  <DrugBank_id>  (449),50656-72-9
+SANC00554,20-Epikoetjapic acid,C30H46O4,>  <ZINC_id>  (450),>  <DrugBank_id>  (450),270907-28-3
+SANC00555,"12,13-Dihydroxychina-8,11,13-trien-7-one",C20H28O3,>  <ZINC_id>  (451),>  <DrugBank_id>  (451),878808-87-8
+SANC00556,"6,12,13-Trihydroxychina-5,8,11,13-tetraen-7-one",C20H26O4,>  <ZINC_id>  (452),>  <DrugBank_id>  (452),878808-89-0
+SANC00557,Haliclorensin,C13H28N2,>  <ZINC_id>  (453),>  <DrugBank_id>  (453),202747-72-6
+SANC00558,"Mesquitol-(4[alpha][to]5)-3,3',4',7,8-pentahydroxyflavonone",C30H22O13,>  <ZINC_id>  (454),>  <DrugBank_id>  (454),437658-41-8
+SANC00559,"Epimesquitol-(4[beta][to]5)-3,3',4',7,8-pentahydroxyflavonone",C30H22O13,>  <ZINC_id>  (455),>  <DrugBank_id>  (455),437658-43-0
+SANC00560,Genipin,C11H14O5,>  <ZINC_id>  (456),>  <DrugBank_id>  (456),6902-77-8
+SANC00561,10-Acetyl genipin,C13H16O6,>  <ZINC_id>  (457),>  <DrugBank_id>  (457),62218-51-3
+SANC00562,Resveratrol 3-O-[beta]-D-glucopyranoside,C20H22O8,>  <ZINC_id>  (458),>  <DrugBank_id>  (458),27208-80-6
+SANC00563,(-)-Nyasol,C17H16O2,CHEMBL451713,6915833,96895-25-9
+SANC00564,"(-)-(E)-1,3-bis(4-hydroxyphenyl)-1,4-pentadiene",C17H16O2,>  <ZINC_id>  (460),>  <DrugBank_id>  (460),175520-27-1
+SANC00565,"5,7-dimethoxy-3-(4-hydroxybenzyl)-4-chromanone",C18H18O5,>  <ZINC_id>  (461),>  <DrugBank_id>  (461),916225-81-5
+SANC00566,"3,5-dihydroxy-7,8-dimethoxy-3-(3',4'-dimethoxybenzyl)-4-chromanone",C20H22O8,>  <ZINC_id>  (462),>  <DrugBank_id>  (462),1000888-65-2
+SANC00567,"3,5-dihydroxy-7-methoxy-3-(3',4'-dimethoxybenzyl)-4-chromanone",C19H20O7,>  <ZINC_id>  (463),>  <DrugBank_id>  (463),1000888-66-3
+SANC00568,"3,5-dihydroxy-7,8-dimethoxy-3-(3'-hydroxy-4'-methoxybenzyl)-4-chromanone",C19H20O8,>  <ZINC_id>  (464),>  <DrugBank_id>  (464),1000888-67-4
+SANC00569,"3,5,6-trihydroxy-7-methoxy-3-(3'-hydroxy-4'-methoxybenzyl)-4-chromanone",C18H18O8,>  <ZINC_id>  (465),>  <DrugBank_id>  (465),1000888-68-5
+SANC00570,"3,5,7-trihydroxy-3-(3'-hydroxy-4'methoxybenzyl)-4-chromanone",C17H16O7,>  <ZINC_id>  (466),>  <DrugBank_id>  (466),1000888-69-6
+SANC00571,15-deoxoeucosterol,C29H46O4,>  <ZINC_id>  (467),>  <DrugBank_id>  (467),81241-53-4
+SANC00572,"5,7-dihydroxy-3-(3-hydroxy-4-methoxybenzyl)chroman-4-one",C18H18O7,>  <ZINC_id>  (468),>  <DrugBank_id>  (468),142546-12-1
+SANC00573,(+)-Nyasol,C17H16O2,>  <ZINC_id>  (469),6440617,230292-85-0
+SANC00574,Zebrinin A,C18H18O7,>  <ZINC_id>  (470),>  <DrugBank_id>  (470),849727-91-9
+SANC00575,Zebrinin B,C19H20O7,>  <ZINC_id>  (471),>  <DrugBank_id>  (471),849727-92-0
+SANC00576,"Phenol, 5-[(2Z)-1-ethenyl-3-(4-hydroxyphenyl)-2-propenyl]-2,3-dimethoxy- (9CI)",C19H20O4,>  <ZINC_id>  (472),>  <DrugBank_id>  (472),849727-94-2
+SANC00577,"7,8-Dihydroflabellatene A",C20H32O4,>  <ZINC_id>  (473),>  <DrugBank_id>  (473),745819-66-3
+SANC00578,"7,8-Dihydroflabellatene B",C20H32O5,>  <ZINC_id>  (474),>  <DrugBank_id>  (474),745819-67-4
+SANC00579,Nidificene,C15H23Br2Cl,>  <ZINC_id>  (475),>  <DrugBank_id>  (475),54928-01-7
+SANC00580,Prepacifenol epoxide,C15H21Br2ClO3,>  <ZINC_id>  (476),>  <DrugBank_id>  (476),55304-01-3
+SANC00581,Eleuthoside A,C36H48N2O11,>  <ZINC_id>  (477),11104406,180692-76-6
+SANC00582,Eleuthoside B,C36H48N2O11,>  <ZINC_id>  (478),>  <DrugBank_id>  (478),180692-77-7
+SANC00583,Sarcodictyin A,C28H36N2O6,>  <ZINC_id>  (479),>  <DrugBank_id>  (479),113540-81-1
+SANC00584,Scutiaquinone A,C32H30O6,>  <ZINC_id>  (480),>  <DrugBank_id>  (480),925462-24-4
+SANC00585,Scutiaquinone B,C32H30O6,>  <ZINC_id>  (481),>  <DrugBank_id>  (481),925462-26-6
+SANC00586,3-epi-Sodwanone K,C30H50O5,CHEMBL494455,16099429,917964-32-0
+SANC00587,3-epi-Sodwanone K 3-acetate,C32H52O6,CHEMBL494658,16099424,917910-01-1
+SANC00588,"10,11-Dihydrosodwanone B",C30H42O5,CHEMBL491334,16099430,917910-02-2
+SANC00589,12R-Hydroxyyardenone,C30H48O6,CHEMBL494050,16099432,917910-03-3
+SANC00590,Sodwanone T,C30H48O4,CHEMBL491172,16099425,917964-33-1
+SANC00591,Sodwanone U,C30H42O5,>  <ZINC_id>  (487),>  <DrugBank_id>  (487),917964-34-2
+SANC00592,Sodwanone V,C30H50O5,CHEMBL522637,16099431,917964-35-3
+SANC00593,Sodwanone W,C30H50O4,>  <ZINC_id>  (489),>  <DrugBank_id>  (489),917964-36-4
+SANC00594,Sodwanone B,C30H44O5,>  <ZINC_id>  (490),>  <DrugBank_id>  (490),150050-13-8
+SANC00595,Yardenone,C30H48O5,>  <ZINC_id>  (491),>  <DrugBank_id>  (491),205750-25-0
+SANC00596,O2-Natafuranamine,C35H48N2O6,>  <ZINC_id>  (492),>  <DrugBank_id>  (492),1254950-49-6
+SANC00597,O10-Natafuranamine,C33H46N2O4,>  <ZINC_id>  (493),>  <DrugBank_id>  (493),1254950-50-9
+SANC00598,Cyclonataminol,C28H48N2O2,>  <ZINC_id>  (494),>  <DrugBank_id>  (494),1254950-51-0
+SANC00599,Buxaminol A,C28H48N2O,CHEMBL1651046,53324855,58672-76-7
+SANC00600,Buxafuranamide,C35H48N2O5,>  <ZINC_id>  (496),183658,123871-27-2
+SANC00601,Buxalongifolamidine,C35H50N2O5,>  <ZINC_id>  (497),>  <DrugBank_id>  (497),149472-47-9
+SANC00602,Buxamine A,C28H48N2,>  <ZINC_id>  (498),495920,36127-40-9
+SANC00603,Cyclobuxophylline K,C26H41NO,CHEMBL1651048,50908834,10088-21-8
+SANC00604,Buxaminol C,C27H46N2O,CHEMBL1651038,10811757,191288-32-1
+SANC00605,Methyl syringate,C10H12O5,CHEMBL1236122,70164,884-35-5
+SANC00606,p-Coumaroylputrescine,C13H18N2O2,CHEMBL373847,6439562,34136-53-3
+SANC00607,31-Demethylbuxaminol A,C27H46N2O,>  <ZINC_id>  (503),>  <DrugBank_id>  (503),1254703-02-0
+SANC00608,Tegerrardin A,C15H13NO3,>  <ZINC_id>  (504),>  <DrugBank_id>  (504),28333-06-4
+SANC00609,Tegerrardin B,C19H19NO3,>  <ZINC_id>  (505),>  <DrugBank_id>  (505),934822-84-1
+SANC00610,Rhapontigenin,C15H14O4,CHEMBL113029,5320954,500-65-2
+SANC00611,(E)-resveratrol,C14H12O3,CHEMBL165,445154,501-36-0
+SANC00612,"(E)-5,7-dihydroxy-3-(4-hydroxybenzylidene)chroman-4-one",C16H12O5,>  <ZINC_id>  (508),>  <DrugBank_id>  (508),34818-83-2
+SANC00613,5-hydroxy-7-methoxy-3-(4-methoxybenzyl)chroman-4-one,C18H18O5,>  <ZINC_id>  (509),>  <DrugBank_id>  (509),246244-13-3
+SANC00614,"5,7-dimethoxy-3-(4-methoxybenzyl)chroman-4-one",C19H20O5,>  <ZINC_id>  (510),>  <DrugBank_id>  (510),246244-10-0
+SANC00615,5-hydroxy-7-methoxy-3-(3-hydroxy-4-methoxybenzyl)chroman-4-one,C18H18O6,>  <ZINC_id>  (511),>  <DrugBank_id>  (511),246244-11-1
+SANC00616,"3[beta],16[beta],17[alpha]-trihydroxycholest-5-en-22-one 16-0-{0-(2-E-cinnamoyl-[beta]-D-xylopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranoside}",C48H68O14,>  <ZINC_id>  (512),>  <DrugBank_id>  (512),183729-11-5
+SANC00617,"3[beta],16[beta],17[alpha]-trihydroxycholest-5-en-22-one 3-O-[beta]-D-glucopyranoside 16-O-{O-(2-O-4-methoxybenzoyl-[beta]-D-xylopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyrano-side}",C53H78O20,>  <ZINC_id>  (513),>  <DrugBank_id>  (513),183729-12-6
+SANC00618,"3[beta],16[beta],17[alpha]-trihydroxycholest-5-en-22-one 3-O-[beta]-D-glucopyranoside 16-O-{O-(2-E-cinnamoyl-[beta]-D-xyopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranoside}",C54H78O19,>  <ZINC_id>  (514),>  <DrugBank_id>  (514),183729-13-7
+SANC00619,Halistanol disulfate B,C26H44O8S2,CHEMBL462739,177306,176666-83-4
+SANC00620,10-Hydroxyaloin B 6'-O-acetate,C23H24O11,>  <ZINC_id>  (516),>  <DrugBank_id>  (516),201018-79-3
+SANC00621,Senecionine,C18H25NO5,>  <ZINC_id>  (517),>  <DrugBank_id>  (517),130-01-8
+SANC00622,Seneciphylline,C18H23NO5,>  <ZINC_id>  (518),>  <DrugBank_id>  (518),480-81-9
+SANC00623,Spartioidine,C18H23NO5,>  <ZINC_id>  (519),>  <DrugBank_id>  (519),520-59-2
+SANC00624,Rosmarinine,C18H27NO6,>  <ZINC_id>  (520),>  <DrugBank_id>  (520),520-65-0
+SANC00625,Acetylseneciphylline,C20H25NO6,>  <ZINC_id>  (521),>  <DrugBank_id>  (521),90341-45-0
+SANC00626,Tecleanatalensine A,C18H19NO5,>  <ZINC_id>  (522),>  <DrugBank_id>  (522),651737-86-9
+SANC00627,Tecleanatalensine B,C18H19NO4,>  <ZINC_id>  (523),>  <DrugBank_id>  (523),851770-81-5
+SANC00628,Dictamnine,C12H9NO2,>  <ZINC_id>  (524),>  <DrugBank_id>  (524),484-29-7
+SANC00629,Flindersiamine,C14H11NO5,>  <ZINC_id>  (525),>  <DrugBank_id>  (525),522-06-5
+SANC00630,"Acetophenone, 4'-hydroxy- (6CI,8CI)",C8H8O2,>  <ZINC_id>  (526),>  <DrugBank_id>  (526),99-93-4
+SANC00631,"1-Tridecene-3,5,7,9,11-pentayne",C13H6,>  <ZINC_id>  (527),>  <DrugBank_id>  (527),2060-59-5
+SANC00632,"1,6-Cyclodecadiene, 1-methyl-5-methylene-8-(1-methylethyl)-, (1E,6E,8S)",C15H24,>  <ZINC_id>  (528),>  <DrugBank_id>  (528),23986-74-5
+SANC00633,"Bicyclo[8.1.0]undeca-2,6-diene, 3,7,11,11-tetramethyl",C15H24,>  <ZINC_id>  (529),>  <DrugBank_id>  (529),67650-90-2
+SANC00634,"5,6-dihydrobicolorine",C15H13NO2,>  <ZINC_id>  (530),>  <DrugBank_id>  (530),1805-78-3
+SANC00635,Augustine,C17H19NO4,>  <ZINC_id>  (531),>  <DrugBank_id>  (531),79659-60-2
+SANC00636,Montabuphine,C17H19NO4,>  <ZINC_id>  (532),>  <DrugBank_id>  (532),168611-77-6
+SANC00637,Galanthamine,C17H21NO3,>  <ZINC_id>  (533),>  <DrugBank_id>  (533),357-70-0
+SANC00638,Zephyranthine,C16H19NO4,>  <ZINC_id>  (534),>  <DrugBank_id>  (534),2030-55-9
+SANC00639,Haemanthidine,C17H19NO5,>  <ZINC_id>  (535),>  <DrugBank_id>  (535),466-73-9
+SANC00640,Haemanthamine,C17H19NO4,>  <ZINC_id>  (536),>  <DrugBank_id>  (536),466-75-1
+SANC00641,Typhaphthalide,C15H12O3,>  <ZINC_id>  (537),5322183,502612-12-6
+SANC00642,Typharin,C17H14O3,>  <ZINC_id>  (538),5322184,502612-13-7
+SANC00643,Afzelechin,C15H14O5,CHEMBL159303,443639,2545-00-8
+SANC00644,Obliquine,C26H28N2O5,>  <ZINC_id>  (540),443685,489433-06-9
+SANC00645,Trisphaeridine,C14H9NO2,CHEMBL511443,443684,224-11-3
+SANC00646,3-Epimacronine,C18H19NO5,CHEMBL1976572,375117,17322-73-5
+SANC00647,Narcissidine,C18H23NO5,>  <ZINC_id>  (543),443686,27857-07-4
+SANC00648,Salutarisolide,C15H20O3,>  <ZINC_id>  (544),636559,242140-82-5
+SANC00649,Isopolygodial,C15H22O2,>  <ZINC_id>  (545),145814,5956-39-8
+SANC00650,Polygodial,C15H22O2,CHEMBL254550,72503,6754-20-7
+SANC00651,Warburganal,C15H22O3,CHEMBL452492,72502,62994-47-2
+SANC00652,Mukaadial,C15H22O4,CHEMBL455627,159088,87420-14-2
+SANC00653,Ambelline,C18H21NO5,>  <ZINC_id>  (549),441585,3660-62-6
+SANC00654,Sternbergine,C18H21NO5,>  <ZINC_id>  (550),178814,96253-76-8
+SANC00655,Hippadine,C16H9NO3,CHEMBL1922244,100605,52886-06-3
+SANC00656,N-Demethylbelladine,C18H23NO3,>  <ZINC_id>  (552),2250212,40172-00-7
+SANC00657,Urospermal A,C15H18O5,>  <ZINC_id>  (553),5385073,28400-14-8
+SANC00658,"Cyclodeca[b]furan-6-carboxaldehyde, 2,3,3a,4,5,8,9,11a-octahydro-4-hydroxy-10-(hydroxymethyl)-3-methyl-2-oxo-, (3S,3aR,4S,6E,10Z,11aR)-",C15H20O5,>  <ZINC_id>  (554),>  <DrugBank_id>  (554),84807-49-8
+SANC00659,"Cyclodeca[b]furan-2(3H)-one, 6,10-bis[(acetyloxy)methyl]-3a,4,5,8,9,11a-hexahydro-3-methylene-, [3aS-(3aR*,6Z,10Z,11aS*)]- (9CI)",C19H24O6,>  <ZINC_id>  (555),>  <DrugBank_id>  (555),84807-50-1
+SANC00660,"Cyclodeca[b]furan-2(3H)-one, 6-[(acetyloxy)methyl]-3a,4,5,8,9,11a-hexahydro-10-(hydroxymethyl)-3-methylene-, [3aS-(3aR*,6Z,10Z,11aS*)]- (9CI)",C17H22O5,>  <ZINC_id>  (556),>  <DrugBank_id>  (556),84807-51-2
+SANC00661,"Cyclodeca[b]furan-6-carboxaldehyde, 10-[(acetyloxy)methyl]-2,3,3a,4,5,8,9,11a-octahydro-3-methylene-2-oxo-, [3aS-(3aR*,6Z,10Z,11aS*)]- (9CI)",C17H20O5,>  <ZINC_id>  (557),>  <DrugBank_id>  (557),84807-52-3
+SANC00662,"Cyclodeca[b]furan-6-carboxaldehyde, 2,3,3a,4,5,8,9,11a-octahydro-10-(hydroxymethyl)-3-methylene-2-oxo-, [3aS-(3aR*,6E,10Z,11aS*)]- (9CI)",C15H18O4,>  <ZINC_id>  (558),>  <DrugBank_id>  (558),84807-53-4
+SANC00663,"ent-3[beta],18-Dihydroxy-beyer-15-ene-2-one",C20H30O3,>  <ZINC_id>  (559),>  <DrugBank_id>  (559),140670-96-8
+SANC00664,"(22S)-1[beta]-[([beta]-D-glucopyranosyl)oxy]-3[beta],22-dihydroxycholest-5-en-16[beta]-yl [beta]-D-glucopyranoside",C39H66O14,>  <ZINC_id>  (560),>  <DrugBank_id>  (560),168778-13-0
+SANC00665,(25R)-3[beta]-hydroxyspirost-5-en-1[beta]-yl O-[alpha]-L-rhamnopyranosyl-(1[to]2)-[alpha]-L-arabinopyranoside,C38H60O12,>  <ZINC_id>  (561),>  <DrugBank_id>  (561),88668-51-3
+SANC00666,"(22S)-16[beta]-[([beta]-D-glucopyranosyl)oxy]-3[beta],22-dihydroxy-5[alpha]-cholestan-1[beta]-yl [alpha]-L-rhamnopyranoside",C39H68O13,>  <ZINC_id>  (562),>  <DrugBank_id>  (562),142182-46-5
+SANC00667,"(22S)-16[beta]-[(6-O-acetyl-[beta]-D-glucopyranosyl)oxy]-3[beta],22-dihydroxy-5[alpha]-cholestan-1[beta]-yl [alpha]-L-rhamnopyranoside",C41H70O14,>  <ZINC_id>  (563),>  <DrugBank_id>  (563),142182-47-6
+SANC00668,"(22S)-16[beta]-[([alpha]-L-rhamnopyranosyl)oxy]-3[beta],22-dihydroxycholest-24-en-1[beta]-yl [alpha]-L-rhamnopyranoside",C39H66O12,>  <ZINC_id>  (564),>  <DrugBank_id>  (564),790300-67-3
+SANC00669,"(22S)-16[beta]-[([alpha]-L-rhamnopyranosyl)oxy]-3[beta],22-dihydroxycholesta-5,24-dien-1[beta]-yl [alpha]-L-rhamnopyranoside",C39H64O12,>  <ZINC_id>  (565),>  <DrugBank_id>  (565),790300-68-4
+SANC00670,Saundersioside F,C47H66O15,>  <ZINC_id>  (566),>  <DrugBank_id>  (566),174867-65-3
+SANC00671,Saundersioside G,C46H66O15,>  <ZINC_id>  (567),>  <DrugBank_id>  (567),174867-66-4
+SANC00672,Saundersioside H,C47H68O15,>  <ZINC_id>  (568),>  <DrugBank_id>  (568),174867-67-5
+SANC00673,Combretastatin,C18H22O6,CHEMBL151766,335929,82855-09-2
+SANC00674,Combretastatin A-3,C17H18O5,>  <ZINC_id>  (570),>  <DrugBank_id>  (570),111394-45-7
+SANC00675,Combretastatin B-2,C17H20O5,>  <ZINC_id>  (571),>  <DrugBank_id>  (571),111394-46-8
+SANC00676,Combretastatin A-2,C17H16O5,>  <ZINC_id>  (572),>  <DrugBank_id>  (572),111394-44-6
+SANC00677,"Phenol, 4-[2-(3,4,5-trimethoxyphenyl)ethyl]-",C17H20O4,>  <ZINC_id>  (573),>  <DrugBank_id>  (573),39499-95-1
+SANC00678,"Phenol, 5-[2-(3,5-dimethoxyphenyl)ethyl]-2-methoxy-",C17H20O4,>  <ZINC_id>  (574),>  <DrugBank_id>  (574),71135-71-2
+SANC00679,Combretastatin B-4,C16H18O4,>  <ZINC_id>  (575),>  <DrugBank_id>  (575),116518-75-3
+SANC00680,Combretastatin B-3,C17H20O5,>  <ZINC_id>  (576),>  <DrugBank_id>  (576),116518-76-4
+SANC00681,Combretastatin A-4,C18H20O5,>  <ZINC_id>  (577),>  <DrugBank_id>  (577),117048-59-6
+SANC00682,Combretastatin A-5,C18H20O5,>  <ZINC_id>  (578),>  <DrugBank_id>  (578),117048-60-9
+SANC00683,Combretastatin A-6,C18H20O5,>  <ZINC_id>  (579),>  <DrugBank_id>  (579),117048-61-0
+SANC00684,Ornithosaponin A,C38H58O15,>  <ZINC_id>  (580),>  <DrugBank_id>  (580),882661-04-3
+SANC00685,Ornithosaponin B,C44H68O19,>  <ZINC_id>  (581),>  <DrugBank_id>  (581),882661-06-5
+SANC00686,Ornithosaponin C,C49H76O23,>  <ZINC_id>  (582),>  <DrugBank_id>  (582),882661-08-7
+SANC00687,Ornithosaponin D,C55H82O26,>  <ZINC_id>  (583),>  <DrugBank_id>  (583),882661-10-1
+SANC00688,5-hydroxy-3-(4-hydroxybenzyl)-7-methoxy-4-chromanone,C17H16O5,>  <ZINC_id>  (584),>  <DrugBank_id>  (584),120185-47-9
+SANC00689,5-hydroxy-3-4-hydroxybenzyl)-7-methoxy-4-chromone,C17H14O5,>  <ZINC_id>  (585),>  <DrugBank_id>  (585),866408-73-3
+SANC00690,Stachenol,C20H32O,>  <ZINC_id>  (586),>  <DrugBank_id>  (586),28958-14-7
+SANC00691,"ent-2-hydroxy-norbeyer-1,4,15-trien-3-one",C19H24O2,>  <ZINC_id>  (587),>  <DrugBank_id>  (587),193969-13-0
+SANC00692,3[beta]-[(O-[beta]-D-Glucopyranosyl-(1[to]6)-[beta]-D-glucopyranosyl)oxy)]-17[alpha]-hydroxy-16[beta]-[(O-[beta]-D-xylopyranosyl-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest-5-en-22-one,C51H82O23,>  <ZINC_id>  (588),>  <DrugBank_id>  (588),474125-91-2
+SANC00693,"3[beta]-[(O-[beta]-D-Glucopyranosyl-(1[to]4)-O-[beta]-D-glucopyranosyl-(1[to]6)-[beta]-D-glucopyranosyl)oxy)]-17[alpha]-hydroxy-16[beta]-[(O-(2-O-3,4-dimethoxybenzoyl-[beta]-D-xylopyranosyl)-(1[to]3)-2-O-acetyl-[alpha]-L-arabinopyranosyl)oxy]cholest-5-...",C66H100O31,>  <ZINC_id>  (589),>  <DrugBank_id>  (589),474125-95-6
+SANC00694,"(22S)-Cholest-5-ene-3[beta],11[beta],16[beta],22-tetrol 16-O-[alpha]-L-rhamnopyranoside",C33H56O8,>  <ZINC_id>  (590),>  <DrugBank_id>  (590),145476-90-0
+SANC00695,"(22S)-Cholesta-5,24-diene-3[beta],11[beta],16[beta],22-tetrol 16-O-[alpha]-L-rhamnopyranoside",C33H54O8,>  <ZINC_id>  (591),>  <DrugBank_id>  (591),145476-93-3
+SANC00696,Agrandol,C21H22O5,CHEMBL491588,15895373,253786-74-2
+SANC00697,"(-)-(1S*,4S*,10R*)-1,4-Dihydroxycembra-2E,7E,11Z-trien-20,10-olide (4)",C20H30O4,>  <ZINC_id>  (593),>  <DrugBank_id>  (593),1346224-13-2
+SANC00698,"(-)-(1S*,4S*,7S*,10R*)-1,4,7-Trihydroxycembra-2E,8(19),11Z-trien-20,10-olide",C20H30O5,>  <ZINC_id>  (594),>  <DrugBank_id>  (594),1346224-17-6
+SANC00699,"(+)-(1S*,4R*,8S*,10R*)-1,4,8-Trihydroxycembra-2E,6E,11Z-trien-20,10-olide",C20H30O5,>  <ZINC_id>  (595),>  <DrugBank_id>  (595),1346224-19-8
+SANC00700,[alpha]-Glutinol,C30H50O,CHEMBL452242,9932254,545-24-4
+SANC00701,"(+)-(1R*,10R*)-Cembra-2E,4E,7E,11Z-tetraen-20,10-olide",C20H28O2,>  <ZINC_id>  (597),>  <DrugBank_id>  (597),1242413-72-4
+SANC00702,"(+)-(1R*,4S*,10R*)-4-Hydroxycembra-2E,7E,11Z-trien-20,10-olide",C20H30O3,>  <ZINC_id>  (598),>  <DrugBank_id>  (598),1242413-73-5
+SANC00703,"24-Ethylcholesta-4,22-dien-3-one",C29H46O,>  <ZINC_id>  (599),>  <DrugBank_id>  (599),521079-80-1
+SANC00704,Cedrecoumarin A,C14H12O4,>  <ZINC_id>  (600),>  <DrugBank_id>  (600),181637-89-8
+SANC00705,(3Z)-Bromofucin,C15H20Br2O2,>  <ZINC_id>  (601),>  <DrugBank_id>  (601),861958-67-0
+SANC00706,Hemiasterlin,C30H46N4O4,>  <ZINC_id>  (602),>  <DrugBank_id>  (602),157207-90-4
+SANC00707,Geodiamolide TA,C30H44IN3O6,>  <ZINC_id>  (603),>  <DrugBank_id>  (603),157207-91-5
+SANC00708,Combretastatin A-1,C18H20O6,>  <ZINC_id>  (604),>  <DrugBank_id>  (604),109971-63-3
+SANC00709,Combretastatin D-1,C18H16O5,>  <ZINC_id>  (605),>  <DrugBank_id>  (605),117709-78-1
+SANC00710,Combretastatin D-2,C18H16O4,>  <ZINC_id>  (606),>  <DrugBank_id>  (606),126191-23-9
+SANC00711,Aloeresin A,C28H28O11,>  <ZINC_id>  (607),57370126,74545-79-2
+SANC00712,Drimenin,C15H22O2,CHEMBL457165,442202,2326-89-8
+SANC00713,"5, 10-Dihydro-6, 7-dimethyl-4H-benzo [5, 6] cyclohepta [1, 2-b]-furan",C15H16O,>  <ZINC_id>  (609),>  <DrugBank_id>  (609),56881-47-1
+SANC00714,Ouabain,C29H44O12,CHEMBL222863,439501,630-60-4
+SANC00715,Acovenoside A,C30H46O9,CHEMBL2069119,70684541,663-95-6
+SANC00716,"2,5-Cyclohexadiene-1,4-dione, 2-methyl-5-[(2E,6E)-3,7,11-trimethyl-9-oxo-2,6-dodecadien-1-yl]-",C22H30O3,>  <ZINC_id>  (612),>  <DrugBank_id>  (612),369368-10-5
+SANC00717,"6,10-Dodecadien-4-one, 12-(2,5-dihydroxy-4-methylphenyl)-2,6,10-trimethyl-, (6E,10E)-",C22H32O3,>  <ZINC_id>  (613),>  <DrugBank_id>  (613),369368-16-1
+SANC00718,"4,8-dibromo-1, 1, 7-trichloro-3, 7-dimethyl-2,5-octadiene",C10H13Br2Cl3,>  <ZINC_id>  (614),>  <DrugBank_id>  (614),>  <references>  (614)
+SANC00719,Flavoglaucin,C19H28O3,CHEMBL1813664,119037,523-73-9
+SANC00720,Neoechinuline A,C19H21N3O2,>  <ZINC_id>  (616),>  <DrugBank_id>  (616),51551-29-2
+SANC00721,Physcion,C16H12O5,CHEMBL42624,10639,521-61-9
+SANC00722,"1,2-Dioxin-3-acetic acid, 6-(4,6-decadienyl)-3,6-dihydro-6-methoxy-, methyl ester, [3[alpha],6[alpha],6(4E,6E)]-(+)- (9CI)",C18H28O5,>  <ZINC_id>  (618),>  <DrugBank_id>  (618),154702-56-4
+SANC00723,"1,2-Dioxin-3-acetic acid, 6-[3-(3,6-dihydro-6-propyl-1,2-dioxin-3-yl)propyl]-3,6-dihydro-6-methoxy-, methyl ester",C18H28O7,>  <ZINC_id>  (619),>  <DrugBank_id>  (619),154702-58-6
+SANC00724,"2,5-Cyclohexadiene-1,4-dione, 2-methyl-5-[(2E,7Z)-3,7,11-trimethyl-9-oxo-2,7-dodecadien-1-yl]-",C22H30O3,>  <ZINC_id>  (620),>  <DrugBank_id>  (620),369368-13-8
+SANC00725,"5,10-Dodecadien-4-one, 12-(2,5-dihydroxy-4-methylphenyl)-2,6,10-trimethyl-, (5Z,10E)-",C22H32O3,>  <ZINC_id>  (621),>  <DrugBank_id>  (621),369368-17-2
+SANC00726,"6-Nonen-4-one, 9-(6-hydroxy-2,7-dimethyl-2H-1-benzopyran-2-yl)-2,6-dimethyl-, (6E)-",C22H30O3,>  <ZINC_id>  (622),>  <DrugBank_id>  (622),369380-52-9
+SANC00727,"5,10-Dodecadien-4-one, 12-[2-(acetyloxy)-5-hydroxy-4-methylphenyl]-2,6,10-trimethyl-, (5Z,10E)-",C24H34O4,>  <ZINC_id>  (623),>  <DrugBank_id>  (623),369368-20-7
+SANC00728,"1,4-Benzenediol, 2-[(2E,6E)-9-hydroxy-3,7,11-trimethyl-2,6-dodecadien-1-yl]-5-methyl-",C22H34O3,>  <ZINC_id>  (624),>  <DrugBank_id>  (624),369380-53-0
+SANC00729,"4,8-dibromo-1, 1-dichloro-3,7-dimethyl-2,6-octadiene",C10H14Br2Cl2,>  <ZINC_id>  (625),>  <DrugBank_id>  (625),>  <references>  (625)
+SANC00730,"4,6-dibromo-1, 1-dichloro-3,7-dimethyl-2,7-octadiene",C10H14Br2Cl2,>  <ZINC_id>  (626),>  <DrugBank_id>  (626),>  <references>  (626)
+SANC00731,"3,4,6,7-tetrachloro-3,7-dimethyl-1-octene",C10H16Cl4,>  <ZINC_id>  (627),>  <DrugBank_id>  (627),>  <references>  (627)
+SANC00732,"5-bromo-5-bromomethyl-1-chlorovinyl-2,4-dichloro-methylcyclohexane",C10H13Br2Cl3,>  <ZINC_id>  (628),>  <DrugBank_id>  (628),>  <references>  (628)
+SANC00733,Valdivone A,C25H34O5,>  <ZINC_id>  (629),>  <DrugBank_id>  (629),152130-61-5
+SANC00734,Valdivone B,C28H34O5,>  <ZINC_id>  (630),>  <DrugBank_id>  (630),152110-08-2
+SANC00735,Nakafuran 9,C15H20O,>  <ZINC_id>  (631),>  <DrugBank_id>  (631),76844-26-3
+SANC00736,22-Deoxyvariabilin,C25H34O3,>  <ZINC_id>  (632),>  <DrugBank_id>  (632),133084-62-5
+SANC00737,22-Deoxy-23-hydroxymethylvariabilin,C25H34O4,>  <ZINC_id>  (633),>  <DrugBank_id>  (633),211946-79-1
+SANC00738,Furospinosulin 1,C25H38O,CHEMBL3236717,15930585,35890-95-0
+SANC00739,Isofuranodiene,C15H20O,CHEMBL324514,636458,57566-47-9
+SANC00740,(+)-8-Hydroxycalamenene,C15H22O,>  <ZINC_id>  (636),442519,88642-92-6
+SANC00741,Aspidinol,C12H16O4,CHEMBL214690,122841,519-40-4
+SANC00742,Desaspidinol,C11H14O4,>  <ZINC_id>  (638),597630,437-72-9
+SANC00743,Betulinic acid,C30H48O3,>  <ZINC_id>  (639),64971,472-15-1
+SANC00744,Ursolic acid,C30H48O3,CHEMBL56048,64945,77-52-1
+SANC00745,Agapanthagenin,C27H44O5,>  <ZINC_id>  (641),15558507,546-37-2
+SANC00746,Yuccagenin,C27H42O4,>  <ZINC_id>  (642),3083608,511-97-7
+SANC00747,7-Dehydroagapanthagenin,C27H42O5,>  <ZINC_id>  (643),>  <DrugBank_id>  (643),52801-10-2
+SANC00748,8(14)-Dehydroagapanthagenin,C27H42O5,>  <ZINC_id>  (644),>  <DrugBank_id>  (644),52801-11-3
+SANC00749,9(11)-Dehydroagapanthagenin,C27H42O5,>  <ZINC_id>  (645),>  <DrugBank_id>  (645),58701-59-0
+SANC00750,Toddaliopsin A,C16H15NO4,>  <ZINC_id>  (646),>  <DrugBank_id>  (646),33130-09-5
+SANC00751,[beta]-sitostenone,C29H48O,CHEMBL66926,5484202,1058-61-3
+SANC00752,Toddaliopsin B,C19H19NO6,>  <ZINC_id>  (648),>  <DrugBank_id>  (648),865103-32-8
+SANC00753,Toddaliopsin C,C18H17NO6,>  <ZINC_id>  (649),>  <DrugBank_id>  (649),865103-33-9
+SANC00754,Toddaliopsin D,C18H19NO5,>  <ZINC_id>  (650),>  <DrugBank_id>  (650),865103-34-0
+SANC00755,Scopoletin,C10H8O4,CHEMBL71851,5280460,92-61-5
+SANC00756,Esculetin,C9H6O4,CHEMBL244743,5281416,305-01-1
+SANC00757,Scoparone,C11H10O4,CHEMBL325864,8417,120-08-1
+SANC00758,Isoscopoletin,C10H8O4,CHEMBL390320,69894,776-86-3
+SANC00759,Globiferine,C18H27NO7,>  <ZINC_id>  (655),>  <DrugBank_id>  (655),90706-03-9
+SANC00760,Grantaline,C18H25NO6,>  <ZINC_id>  (656),119025712,83482-61-5
+SANC00761,Grantianine,C18H23NO7,>  <ZINC_id>  (657),119026130,633-10-3
+SANC00762,Trichodesmine,C18H27NO6,CHEMBL1573073,119040,548-90-3
+SANC00763,Pseudodistamine,C15H29NO,>  <ZINC_id>  (659),>  <DrugBank_id>  (659),356522-64-0
+SANC00764,"(3E,5E)-tetradeca-3,5,-diene-2-amine",C14H27N,>  <ZINC_id>  (660),>  <DrugBank_id>  (660),356073-87-5
+SANC00765,"(3E,5E,10Z,13Z)-hexadeca-3,5,10,13-tetraene-2-amine",C16H27N,>  <ZINC_id>  (661),>  <DrugBank_id>  (661),356073-88-6
+SANC00766,8-hydroxy-2-methyl-b-carbolinium,C12H11N2O+,>  <ZINC_id>  (662),>  <DrugBank_id>  (662),356073-89-7
+SANC00767,Jaconine,C18H26ClNO6,>  <ZINC_id>  (663),119200,480-75-1
+SANC00768,Marchantin C,C28H24O4,CHEMBL1243029,5319272,88418-47-7
+SANC00769,Jacoline,C18H27NO7,>  <ZINC_id>  (665),78358487,480-76-2
+SANC00770,Riccardin C,C28H24O4,CHEMBL411317,10070992,84575-08-6
+SANC00771,Integerrimine,C18H25NO5,CHEMBL488203,5281733,480-79-5
+SANC00772,Marchantin H,C28H24O5,CHEMBL462745,44584302,99481-36-4
+SANC00773,(-)-Cuparene,C15H22,>  <ZINC_id>  (669),>  <DrugBank_id>  (669),56324-31-3
+SANC00774,Senkirkine,C19H27NO6,CHEMBL469650,5281752,2318-18-5
+SANC00775,(-)-2-Hydroxycuparene,C15H22O,>  <ZINC_id>  (671),>  <DrugBank_id>  (671),38412-84-9
+SANC00776,p-Hydroxybenzaldehyde,C7H6O2,CHEMBL14193,126,123-08-0
+SANC00777,Jacobine,C18H25NO6,>  <ZINC_id>  (673),442741,6870-67-3
+SANC00778,Senecionine N-oxide,C18H25NO6,CHEMBL471683,5380876,13268-67-2
+SANC00779,Retrorsine N-oxide,C18H25NO7,>  <ZINC_id>  (675),76972338,15503-86-3
+SANC00780,Usaramine,C18H25NO6,CHEMBL520570,5281756,15503-87-4
+SANC00781,Otosenine,C19H27NO7,>  <ZINC_id>  (677),91746991,16958-29-5
+SANC00782,Florosenine,C21H29NO8,>  <ZINC_id>  (678),6441404,16958-30-8
+SANC00783,Floridanine,C21H31NO9,>  <ZINC_id>  (679),101297605,16958-31-9
+SANC00784,Ridelliine,C18H23NO6,>  <ZINC_id>  (680),5281744,23246-96-0
+SANC00785,Jacobine N-oxide,C18H25NO7,>  <ZINC_id>  (681),>  <DrugBank_id>  (681),38710-25-7
+SANC00786,Seneciphylline N-oxide,C18H23NO6,>  <ZINC_id>  (682),6442619,38710-26-8
+SANC00787,Onetine,C19H29NO8,>  <ZINC_id>  (683),102059844,41451-67-6
+SANC00788,Doronine,C21H30ClNO8,>  <ZINC_id>  (684),5281726,60367-00-2
+SANC00789,Senecivernine,C18H25NO5,CHEMBL3349185,442764,72755-25-0
+SANC00790,Riddelline N-oxide,C18H23NO7,>  <ZINC_id>  (686),6440301,75056-11-0
+SANC00791,Integerrimine N-oxide,C18H25NO6,>  <ZINC_id>  (687),6437374,85955-28-8
+SANC00792,Senecivernine N-oxide,C18H25NO6,>  <ZINC_id>  (688),>  <DrugBank_id>  (688),101687-28-9
+SANC00793,Desacetyldoronine,C19H28ClNO7,>  <ZINC_id>  (689),91746997,120481-77-8
+SANC00794,Spartioidine N-oxide,C18H23NO6,>  <ZINC_id>  (690),>  <DrugBank_id>  (690),121123-61-3
+SANC00795,Acetylseneciphylline N-oxide,C20H25NO7,>  <ZINC_id>  (691),>  <DrugBank_id>  (691),123844-00-8
+SANC00796,"1,2-Dihydrosenkirkine",C19H29NO6,>  <ZINC_id>  (692),>  <DrugBank_id>  (692),135574-55-9
+SANC00797,Eruciflorine,C18H25NO6,>  <ZINC_id>  (693),14825842,135626-66-3
+SANC00798,Rosmarinine N-oxide,C18H27NO7,>  <ZINC_id>  (694),>  <DrugBank_id>  (694),149415-56-5
+SANC00799,Acetylspartioidine,C20H25NO6,>  <ZINC_id>  (695),91753680,173142-98-8
+SANC00800,Eruciflorine N-oxide,C18H25NO7,>  <ZINC_id>  (696),>  <DrugBank_id>  (696),1039626-50-0
+SANC00801,Jaconine N-oxide,C18H26ClNO7,>  <ZINC_id>  (697),>  <DrugBank_id>  (697),1148039-75-1
+SANC00802,Coniine,C8H17N,CHEMBL2287063,441072,458-88-8
+SANC00803,Conhydrine,C8H17NO,>  <ZINC_id>  (699),10314,495-20-5
+SANC00804,Coniceine,C8H15N,>  <ZINC_id>  (700),442632,1604-01-9
+SANC00805,Methylconiine,C9H19N,>  <ZINC_id>  (701),169683,35305-13-6
+SANC00806,N-Methylpseudoconhydrine,C9H19NO,>  <ZINC_id>  (702),11051917,78962-69-3
+SANC00807,Turraflorin A,C31H38O8,>  <ZINC_id>  (703),12150033,154974-37-5
+SANC00808,Turraflorin B,C29H36O7,>  <ZINC_id>  (704),>  <DrugBank_id>  (704),154974-38-6
+SANC00809,Turraflorin D,C31H38O10,>  <ZINC_id>  (705),>  <DrugBank_id>  (705),760996-56-3
+SANC00810,Turraflorin E,C31H38O10,>  <ZINC_id>  (706),>  <DrugBank_id>  (706),760996-57-4
+SANC00811,Turraflorin F,C29H36O8,>  <ZINC_id>  (707),>  <DrugBank_id>  (707),760996-58-5
+SANC00812,Turraflorin G,C29H36O7,>  <ZINC_id>  (708),>  <DrugBank_id>  (708),760996-59-6
+SANC00813,Turraflorin H,C31H40O9,>  <ZINC_id>  (709),>  <DrugBank_id>  (709),760996-60-9
+SANC00814,Turraflorin I,C35H46O11,>  <ZINC_id>  (710),>  <DrugBank_id>  (710),760996-61-0
+SANC00815,Calpurmenine,C15H24N2O3,>  <ZINC_id>  (711),15939844,72047-67-7
+SANC00816,13-(2'-pyrrolecarboxyl)calpurmenine,C20H27N3O4,>  <ZINC_id>  (712),>  <DrugBank_id>  (712),72047-68-8
+SANC00817,"10,13-Dihydroxylupanine",C15H24N2O3,>  <ZINC_id>  (713),>  <DrugBank_id>  (713),61166-47-0
+SANC00818,"3[beta],16[beta]-dihydroxy-5[beta]-bufa-20,22-dienolide",C24H34O4,>  <ZINC_id>  (714),>  <DrugBank_id>  (714),946568-37-2
+SANC00819,"16[beta]-hydroxy-5[beta]-bufa-20,22-dienolide-3[beta]-O-[beta]-d-galactoside",C30H44O9,>  <ZINC_id>  (715),>  <DrugBank_id>  (715),946568-38-3
+SANC00820,Maytansine,C34H46ClN3O10,CHEMBL292702,5281828,35846-53-8
+SANC00821,forskolin,C22H34O7,SCHEMBL4928,47936,66575-29-9
+SANC00822,Cryptotanshinone,C19H20O3,SCHEMBL5940386,160254,35825-57-1
+SANC00823,Pomolic acid,C30H48O4,SCHEMBL1049001,382831,13849-91-7
+SANC00824,apigenin,C15H10O5,SCHEMBL222227,5280443,520-36-5
+SANC00825,Boldine,C19H21NO4,SCHEMBL177550,10154,476-70-0
+SANC00830,"8-hydroxy-5,6-dimethoxy-2-methyl-3-(2-oxo-propyl)-1,4-naphthoquinone",C16H16O6,>  <ZINC_id>  (722),13846918,107948-89-0
+SANC00831,Bostrycoidin,C15H11NO5,CHEMBL1999208,72631,4589-33-7
+SANC00832,Ergosterol,C28H44O,CHEMBL1232562,444679,57-87-4
+SANC00834,Alpha linolenic acid,C18H30O2,SCHEMBL15282,5280934,463-40-1
+SANC00835,Spinasaponin a,C42H66O14,>  <ZINC_id>  (726),441951,25406-56-8
+SANC00836,Myricitrin,C21H20O12,CHEMBL522983,5281673,17912-87-7
+SANC00837,Desglucouzarin,C29O9H44,>  <ZINC_id>  (728),321971,6877-82-3
+SANC00838,Isoquercitrin,C21H20O12,SCHEMBL181306,5280804,482-35-9
+SANC00839,Tellimagrandin II,C41H30O26,SCHEMBL618555,151590,81571-72-4
+SANC00840,kaempferol-3-O-beta-d-glucopyranoside,C28H24O15,CHEMBL503183,5491813,56317-05-6
+SANC00841,Trifolin,C21H20O11,SCHEMBL572365,5282149,23627-87-4
+SANC00842,Quercituron,C21H18O13,SCHEMBL578422,5274585,22688-79-5
+SANC00843,Kaempferol 3-glucuronide,C21H18O12,SCHEMBL1280014,5318759,22688-78-4
+SANC00844,Pentagalloylglucose,C41H32O26,SCHEMBL640108,65238,14937-32-7
+SANC00845,Arbutin,C12H16O7,SCHEMBL36351,440936,497-76-7
+SANC00846,Afzelin,C21H20O10,SCHEMBL1689477,5316673,482-39-3
+SANC00847,Hyperoside,C21H20O12,SCHEMBL1250514,5281643,482-36-0
+SANC00848,Astragalin,C21H20O11,SCHEMBL23897,5282102,480-10-4
+SANC00849,Gallic acid,C7H6O5,SCHEMBL15012,370,149-91-7
+SANC00850,Quercetin 3-O-(6''-galloyl)-beta-D-galactopyranoside,C28H24O16,>  <ZINC_id>  (741),5491814,53171-28-1
+SANC00851,Lutein,C40H56O2,CHEMBL173929,5281243,127-40-2
+SANC00852,Methyl caffeate,C10H10O4,CHEMBL17001,689075,67667-67-8
+SANC00853,Rosmarinic acid,C18H16O8,SCHEMBL2028694,5281792,20283-92-5
+SANC00855,Erysubin B,C20H16O6,>  <ZINC_id>  (745),10760434,221150-19-2
+SANC00856,Erythrinin C,C20H18O6,>  <ZINC_id>  (746),44257283,63807-85-2
+SANC00857,Daidzin,C21H20O9,CHEMBL486422,107971,552-66-9
+SANC00858,Genistin,C21H20O10,CHEMBL486625,5281377,529-59-9
+SANC00859,Daidzein,C15H10O4,SCHEMBL19814,5281708,486-66-8
+SANC00860,Surinamensin,C22H28O6,CHEMBL2313009,5281868,68143-82-8
+SANC00861,Malabaricone c,C21H26O5,SCHEMBL7784918,100313,63335-25-1
+SANC00862,Malabaricone b,C21H26O4,CHEMBL489354,163001,63335-24-0
+SANC00863,Licarin b,C20H20O4,SCHEMBL12604783,6441061,51020-87-2
+SANC00864,Isoelemicin,C12H16O3,SCHEMBL8350155,5318557,487-12-7
+SANC00865,Myristicin,C11H12O3,CHEMBL481044,4276,607-91-0
+SANC00866,Isoorientin,C21H20O11,CHEMBL239559,114776,4261-42-1
+SANC00867,Tribuloside,C30H26O13,>  <ZINC_id>  (757),>  <DrugBank_id>  (757),20316-62-5
+SANC00869,Solamargine,C45H73NO15,CHEMBL443114,73611,3671-38-3
+SANC00870,Cycloartenol,C30H50O,>  <ZINC_id>  (759),>  <DrugBank_id>  (759),469-38-5
+SANC00871,Ivalin,C15H20O3,CHEMBL1974789,257273,5938-03-04
+SANC00872,Geigerin,C15H20O4,>  <ZINC_id>  (761),442244,436-45-3
+SANC00873,Jolkinolide b,C20H26O4,CHEMBL404387,161954,37905-08-1
+SANC00874,Dunnione,C15H14O3,CHEMBL3398290,262097,33404-57-8
+SANC00875,1-hydroxy-2-methylanthraquinone,C15H10O3,SCHEMBL1426900,160817,6268-09-03
+SANC00876,Cascarillone,C20H30O2,>  <ZINC_id>  (765),101600184,59742-40-4
+SANC00877,Maprounic acid,C30H48O3,CHEMBL258249,161527,26549-17-7
+SANC00878,Cyperotundone,C15H22O,>  <ZINC_id>  (767),91752785,3466-15-7
+SANC00879,Cyperene,C15H24,>  <ZINC_id>  (768),12308843,2387-78-2
+SANC00880,Cadalene,C15H18,>  <ZINC_id>  (769),10225,483-78-3
+SANC00881,Isoxanthohumol,C21H22O5,SCHEMBL904557,513197,70872-29-6
+SANC00882,Isoglabranin,C20H20O4,CHEMBL2165236,6546086,55051-77-9
+SANC00883,Glabranin,C20H20O4,CHEMBL253998,124049,41983-91-9
+SANC00884,Mosloflavone,C17H14O5,SCHEMBL971985,471722,740-33-0
+SANC00885,Kaempferide,C16H12O6,SCHEMBL426774,5281666,491-54-3
+SANC00886,Pheophytin a,C55H74N4O5,CHEMBL3349047,135398712,603-17-8
+SANC00887,"2-methyl-1-[2,4,6-trihydroxy-3-(3-methylbut-2-en-1-yl)phenyl]butan-1-one",C16H22O4,>  <ZINC_id>  (776),14282623,71539-60-1
+SANC00888,"1-[2,4,6-Trihydroxy-3-(3-methylbut-2-en-1-yl)phenyl]butan-1-one",C15H20O4,CHEMBL3945645,13411737,69916-08-1
+SANC00889,2-(2-methylpropanoyl)-4-prenylphloroglucinol,C15H20O4,CHEMBL3970720,13411738,35932-36-6
+SANC00891,Oleuropein,C25H32O13,CHEMBL1911053,32619-42-4,32619-42-4
+SANC00892,Esculin,C15H16O9,CHEMBL482581,531-75-9,531-75-9
+SANC00893,7-O-Methylaloeresin A,C29H30O11,>  <ZINC_id>  (781),329361-25-3,329361-25-3
+SANC00894,Anhydrolycorinone,C16H11NO3,CHEMBL481446,40360-71-2,40360-71-2
+SANC00895,Nonanoic acid,C9H18O2,CHEMBL108436,>  <DrugBank_id>  (783),112-05-0
+SANC00896,palmitic acid,C16H32O2,SCHEMBL6177,>  <DrugBank_id>  (784),57-10-3
+SANC00897,8-Heptadecenoic acid,C17H32O2,>  <ZINC_id>  (785),>  <DrugBank_id>  (785),7432-41-9
+SANC00898,Kaurenoic acid,C20H30O2,CHEMBL489140,>  <DrugBank_id>  (786),6730-83-2
+SANC00899,Aporphine,C17H17N,SCHEMBL59765,>  <DrugBank_id>  (787),478-57-9
+SANC00900,Pogostol,C15H26O,>  <ZINC_id>  (788),>  <DrugBank_id>  (788),21698-41-9
+SANC00901,Yomogi alcohol,C10H18O,SCHEMBL1064900,>  <DrugBank_id>  (789),26127-98-0
+SANC00902,Eucalyptol,C10H18O,SCHEMBL17836873,>  <DrugBank_id>  (790),470-82-6
+SANC00903,Piperitone,C10H16O,CHEMBL2252746,>  <DrugBank_id>  (791),89-81-6
+SANC00904,Uzarin,C35H54O14,SCHEMBL702464,>  <DrugBank_id>  (792),20231-81-6
+SANC00905,Xysmalorin,C35H52O14,>  <ZINC_id>  (793),>  <DrugBank_id>  (793),31387-88-9
+SANC00906,Uzarigenin,C23H34O4,SCHEMBL1152953,>  <DrugBank_id>  (794),466-09-1
+SANC00907,Xysmalogenin,C23H32O4,>  <ZINC_id>  (795),>  <DrugBank_id>  (795),508-92-9
+SANC00908,Leonurine,C14H21N3O5,CHEMBL1290284,>  <DrugBank_id>  (796),24697-74-3
+SANC00909,Caryophyllene oxide,C15H24O,SCHEMBL127077,>  <DrugBank_id>  (797),1139-30-6
+SANC00910,Myrcene,C10H16,CHEMBL455491,>  <DrugBank_id>  (798),123-35-3
+SANC00911,[gamma]-3-Carene,C10H16,CHEMBL506854,>  <DrugBank_id>  (799),13466-78-9
+SANC00912,Limonene,C10H16,CHEMBL15799,>  <DrugBank_id>  (800),138-86-3
+SANC00913,Nerolidol,C15H26O,CHEMBL3182436,>  <DrugBank_id>  (801),142-50-7
+SANC00914,Valerianol,C15H26O,SCHEMBL2844420,>  <DrugBank_id>  (802),20489-45-6
+SANC00915,Bicyclogermacren,C15H24,>  <ZINC_id>  (803),>  <DrugBank_id>  (803),24703-35-3
+SANC00916,[beta]-Eudesmol,C15H26O,SCHEMBL310604,>  <DrugBank_id>  (804),473-15-4
+SANC00917,[alpha]-Eudesmol,C15H26O,CHEMBL3120654,>  <DrugBank_id>  (805),473-16-5
+SANC00918,(+)-[delta]-Cadinene,C15H24,CHEMBL445759,>  <DrugBank_id>  (806),483-76-1
+SANC00919,Bisabolol,C15H26O,CHEMBL1171719,>  <DrugBank_id>  (807),515-69-5
+SANC00920,Viridiflorol,C15H26O,SCHEMBL17627696,>  <DrugBank_id>  (808),552-02-3
+SANC00921,[beta]-Phellandrene,C10H16,CHEMBL444254,>  <DrugBank_id>  (809),555-10-2
+SANC00922,Terpinen-4-ol,C10H18O,CHEMBL507795,>  <DrugBank_id>  (810),562-74-3
+SANC00923,Cedrelanol,C15H26O,CHEMBL2228955,>  <DrugBank_id>  (811),5937-11-1
+SANC00924,Spathulenol,C15H24O,SCHEMBL3847321,>  <DrugBank_id>  (812),6750-60-3
+SANC00925,Humulene,C15H24,CHEMBL251280,>  <DrugBank_id>  (813),6753-98-6
+SANC00926,[alpha]-Pinene,C10H16,CHEMBL442565,>  <DrugBank_id>  (814),80-56-8
+SANC00927,Umckalin,C11H10O5,>  <ZINC_id>  (815),>  <DrugBank_id>  (815),43053-62-9
+SANC00928,[alpha]-ionone,C13H20O,CHEMBL472877,>  <DrugBank_id>  (816),127-41-3
+SANC00929,Vomifoliol,C13H20O3,SCHEMBL1243896,>  <DrugBank_id>  (817),23526-45-6
+SANC00930,[alpha]-Damascone,C13H20O,SCHEMBL454166,>  <DrugBank_id>  (818),43052-87-5
+SANC00931,"11,12-Dihydro-7-hydroxyhedychenone",C20H28O3,>  <ZINC_id>  (819),>  <DrugBank_id>  (819),60149-07-7
+SANC00932,Hispanone,C20H28O2,SCHEMBL13446722,>  <DrugBank_id>  (820),82462-67-7
+SANC00933,Leonotin,C20H28O5,>  <ZINC_id>  (821),101306752,26549-00-8
+SANC00934,Leonotinin,C20H26O5,CHEMBL2036989,636934,55784-80-0
+SANC00935,Andalusol,C20H34O3,CHEMBL2180484,188448,62279-93-0
+SANC00936,Villenol,C20H34O2,>  <ZINC_id>  (824),21582485,66471-77-0
+SANC00937,"5,7,2'-Trihydroxyflavone",C15H10O5,SCHEMBL3708991,5322064,73046-40-9
+SANC00938,Alpinumisoflavone,C20H16O5,SCHEMBL571695,5490139,34086-50-5
+SANC00939,"6,8-diprenylgenistein",C25H26O5,SCHEMBL958215,480783,51225-28-6
+SANC00940,Burttinone,C26H30O6,>  <ZINC_id>  (828),>  <DrugBank_id>  (828),213819-43-3
+SANC00941,Abyssinone-V 4'-methyl ether,C26H30O5,>  <ZINC_id>  (829),>  <DrugBank_id>  (829),201480-12-8
+SANC00942,Epicatechin gallate,C22H18O10,SCHEMBL39047,107905,1257-08-5
+SANC00943,Gallocatechin gallate,C22H18O11,SCHEMBL10198783,5276890,5127-64-0
+SANC00944,"1,2,3,6-Tetragalloylglucose",C34H28O22,SCHEMBL2370043,73178,79886-50-3
+SANC00945,Genistein,C15H10O5,SCHEMBL19166,5280961,446-72-0
+SANC00946,Metolachlor,C15H22ClNO2,CHEMBL1884974,4169,51218-45-2
+SANC00947,3-Hydroxybenzoic acid,C7H6O3,SCHEMBL40078,7420,99-06-9
+SANC00948,4-hydroxybenzoic acid,C7H6O3,SCHEMBL4110,135,99-96-7
+SANC00949,vicenin-2,C27H30O15,CHEMBL1442950,442664,23666-13-9
+SANC00950,Orobol,C15H10O6,CHEMBL241609,5281801,480-23-9
+SANC00951,Butin,C15H12O5,CHEMBL451168,92775,492-14-8
+SANC00953,Ferulic acid,C10H10O4,SCHEMBL15673,445858,1135-24-6
+SANC00954,Taxifolin,C15H12O7,SCHEMBL39786,439533,480-18-2
+SANC00955,Indole-3-acetic acid,C15H12O5,SCHEMBL1045054,73202,548-82-3
+SANC00956,Tyrosol,C8H10O2,>  <ZINC_id>  (843),>  <DrugBank_id>  (843),501-94-0
+SANC00957,Vismione B,C21H22O5,SCHEMBL5024985,10247551,70322-87-1
+SANC00958,Deacetylvismione A,C21H24O5,SCHEMBL16227008,6440479,73211-35-5
+SANC00959,Deacetylvismione H,C20H22O5,CHEMBL467619,13940837,1415764-45-2
+SANC00960,Prieurianin,C38H50O16,CHEMBL1989748,329486,57672-91-0
+SANC00961,"5-Methoxy-6,7-(methylenedioxy)coumarin",C11H8O5,CHEMBL596222,11310556,22357-13-7
+SANC00962,cumambrin A,C17H22O5,CHEMBL190755,174867,20482-33-1
+SANC00963,8-isobutyloxycumambrin-B,C7H14O6,CHEMBL501109,151108,642-38-6
+SANC00964,Aloeresin E,C34H38O15,>  <ZINC_id>  (851),102247458,182754-64-9
+SANC00965,Aloeresin F,C28H28O10,>  <ZINC_id>  (852),11813365,182754-88-7
+SANC00966,Euryopsonol,C15H20O3,>  <ZINC_id>  (853),101289748,15401-89-5
+SANC00967,2-Piperidone,C5H9NO,CHEMBL12193,12665,27154-43-4
+SANC00968,Thermopsine,C15H20N2O,SCHEMBL14476112,638234,486-90-8
+SANC00969,N-Acetylhystrine,C12H18N2O,>  <ZINC_id>  (856),93270,52195-93-4
+SANC00970,Ammodendrine,C12H20N2O,CHEMBL464777,442625,494-15-5
+SANC00971,Smipine,C10H16N2O,>  <ZINC_id>  (858),94549,52196-11-9
+SANC00972,N'-Methylammodendrine,C13H22N2O,CHEMBL464465,171125,52196-10-8
+SANC00973,Grandiflorenic acid,C20H28O2,>  <ZINC_id>  (860),12310342,22338-67-6
+SANC00974,Kaempferol 3-methyl ether,C16H12O6,SCHEMBL4637442,5280862,1592-70-7
+SANC00975,Buddleoflavonol,C16H12O5,SCHEMBL107712,5280442,480-44-4
+SANC00976,Asiatic acid,C30H48O5,SCHEMBL3285999,119034,464-92-6
+SANC00977,30-hydroxy-11[alpha]-methoxy-18[beta]-olean-12-en-3-one,C31H50O3,>  <ZINC_id>  (864),>  <DrugBank_id>  (864),1456776-39-8
+SANC00978,"1,7-Dimethoxy-2-hydroxyxanthone",C15H12O5,>  <ZINC_id>  (865),>  <DrugBank_id>  (865),132757-14-3
+SANC00979,"1,4-Dihydroxy-7-methoxy-xanthone",C14H10O5,>  <ZINC_id>  (866),>  <DrugBank_id>  (866),106738-08-3
+SANC00980,3-O-Methylquercetin,C16H12O7,SCHEMBL380558,5280681,1486-70-0
+SANC00981,Betulafolientriol oxide,C30H52O4,>  <ZINC_id>  (868),12314832,19942-05-3
+SANC00982,Salvigenin,C18H16O6,SCHEMBL1427018,161271,19103-54-9
+SANC00983,Oleonolic acid,C30H48O3,SCHEMBL71070,10494,508-02-1
+SANC00984,Caffeic acid,C9H8O4,SCHEMBL23358,689043,331-39-5
+SANC00985,7[beta]-Methoxyrosmanol,C21H28O5,CHEMBL1081338,46883406,24703-38-6
+SANC00986,"Dibenzo-1,4-dioxin-1,3,6,8-tetraol",C12H8O6,SCHEMBL20138599,14309078,121449-71-6
+SANC00987,Scopolamine,C17H21NO4,CHEMBL3084722,3000322,51-34-3
+SANC00988,Atropine,C17H23NO3,CHEMBL517712,174174,51-55-8
+SANC00992,Luteolin,C15H10O6,SCHEMBL20426,5280445,491-70-3
+SANC00993,Anolignan B,C18H18O2,CHEMBL456870,72388,158081-98-2
+SANC00994,Tanachin,C15H20O4,>  <ZINC_id>  (878),9992972,60362-95-0
+SANC00995,Hardwickiic acid,C20H28O3,CHEMBL461615,15559629,1782-65-6
+SANC00996,Procyanidin B1,C30H26O12,CHEMBL504937,11250133,20315-25-7
+SANC00997,(-)-Epigallocatechin gallate,C22H18O11,SCHEMBL35258,65064,989-51-5
+SANC00998,Cirsimaritin,C17H14O6,SCHEMBL1663486,188323,6601-62-3
+SANC00999,Madurensine,C18H25NO6,>  <ZINC_id>  (883),5459074,26126-78-3
+SANC01000,Doronenine,C18H25NO5,>  <ZINC_id>  (884),6440559,74217-57-5
+SANC01001,Harpagoside,C24H30O11,CHEMBL516702,5281542,19210-12-9
+SANC01002,Harpagide,C15H24O10,SCHEMBL1425414,93045,6926-08-5
+SANC01003,Lupenone,C30H48O,SCHEMBL1224027,92158,1617-70-5
+SANC01004,6-Deoxyisojacareubin,C18H14O5,CHEMBL3327040,5464641,26486-92-0
+SANC01005,Isojacareubin,C18H14O6,>  <ZINC_id>  (889),9996463,50597-93-8
+SANC01006,Euphol,C30H50O,CHEMBL465181,441678,514-47-6
+SANC01007,Stigmasterol,C29H48O,CHEMBL400247,5280794,83-48-7
+SANC01008,Avicularin,C20H18O11,CHEMBL471282,5490064,572-30-5
+SANC01009,Methyl gallate,C8H8O5,SCHEMBL39513,7428,99-24-1
+SANC01010,[beta]-ionone,C13H20O,CHEMBL559945,638014,79-77-6
+SANC01011,"2-Hydroxy-1,4-naphthalenedione",C10H6O3,CHEMBL240963,6755,83-72-7
+SANC01012,"5,7-Dihydroxychromone",C9H6O4,SCHEMBL1860859,5281343,31721-94-5
+SANC01014,Calomelanone,C17H18O5,CHEMBL3264622,3084606,35241-54-4
+SANC01015,"2',6'-Dihydroxy-4'-methoxydihydrochalone",C16H16O4,SCHEMBL4742840,169676,35241-55-5
+SANC01016,Asebogenin,C16H16O5,SCHEMBL4740064,442255,520-42-3
+SANC01017,"(2R,3R)-3,5,7-trihydroxy-3-O-acetylflavanone",C17H14O6,CHEMBL1094265,148556,52117-69-8
+SANC01018,Toddaculin,C16H18O4,SCHEMBL15941538,5321960,4335-12-0
+SANC01019,Aculeatin,C16H18O5,>  <ZINC_id>  (902),5316354,523-51-3
+SANC01020,"5,7-Dimethoxy-4-methylcoumarin",C12H12O4,CHEMBL1324939,390799,6093-80-7
+SANC01021,O-Methylcedrelopsin,C16H18O4,SCHEMBL16352043,155937,72916-61-1
+SANC01022,Toddanone,C16H18O5,>  <ZINC_id>  (905),15071017,77715-99-2
+SANC01023,Succinic acid,C4H6O4,CHEMBL576,1110,110-15-6
+SANC01024,Lactic acid,C3H6O3,CHEMBL1200559,612,50-21-5
+SANC01025,Pyrogallol,C6H6O3,SCHEMBL3532,1057,87-66-1
+SANC01026,"2-methyl-6-(3-methyl-2-butenyl)benzo-1,4-quinone",C12H14O2,>  <ZINC_id>  (909),6480938,131221-81-3
+SANC01027,Phytol,C20H40O,CHEMBL1644111,5280435,150-86-7
+SANC01028,Pterochromene L1,C12H14O2,>  <ZINC_id>  (911),14761705,67349-41-1
+SANC01029,Rubellin,C31H40O13,>  <ZINC_id>  (912),102150680,110237-76-8
+SANC01030,"2',5,6-Trimethoxyflavone",C18H16O5,>  <ZINC_id>  (913),14484690,16266-97-0
+SANC01031,Zapotin,C19H18O6,SCHEMBL3307703,629965,14813-19-5
+SANC01032,Amentoflavone,C30H18O10,SCHEMBL312563,5281600,1617-53-4
+SANC01033,Yuankanin,C27H30O14,CHEMBL3121247,157000,77099-20-8
+SANC01034,Mesembrinol,C17H25NO3,>  <ZINC_id>  (917),442112,23544-42-5
+SANC01035,Mesembrine,C17H23NO3,CHEMBL2008762,394162,24880-43-1
+SANC01036,Mesembrenone,C17H21NO3,SCHEMBL226088,216272,468-54-2
+SANC01037,[beta]-amyrin,C30H50O,SCHEMBL377754,73145,559-70-6
+SANC01038,"8[alpha],13-Epoxylabd-14-ene",C20H34O,>  <ZINC_id>  (921),6453839,596-84-9
+SANC01039,"4(15),5,10(14)-germacratrien-1-ol",C15H24O,CHEMBL3262201,643709,81968-62-9
+SANC01040,Methyl cinnamate,C10H10O2,SCHEMBL101530,637520,103-26-4
+SANC01041,Limonin,C26H30O8,CHEMBL517449,179651,1180-71-8
+SANC01042,Syringaresinol,C22H26O8,SCHEMBL120485,100067,487-35-4
+SANC01043,Hesperetin,C16H14O6,CHEMBL399121,72281,520-33-2
+SANC01044,P-hydroxycinnamic acid,C9H8O3,SCHEMBL39106,637542,7400-08-0
+SANC01045,Skimmianine,C14H13NO4,SCHEMBL893654,6760,83-95-4
+SANC01046,Phytol acetate,C22H42O2,SCHEMBL4990812,637195,10236-16-5
+SANC01047,Alpha kosin,C25H32O8,SCHEMBL4742767,160529,568-50-3
+SANC01048,1-triacontanol,C30H62O,CHEMBL1079147,68972,593-50-0
+SANC01049,Aloeresin C,C34H38O16,>  <ZINC_id>  (932),11972360,98449-41-3
+SANC01050,Hypoxoside,C29H34O14,>  <ZINC_id>  (933),6438448,83643-94-1
+SANC01051,"2-hydroxy-4,5,6-trimethoxy-acetophenone",C12H16O6,SCHEMBL678486,6431120,3162-28-5
+SANC01052,"2-hydroxy-3,4,5,6-tetramethoxy-acetophenone",C11H14O5,SCHEMBL735664,9899375,22248-14-2
+SANC01053,n-Tetradecanoic acid,C14H28O2,SCHEMBL6374,11005,544-63-8
+SANC01054,Channaine,C32H38N2O6,>  <ZINC_id>  (937),51136501,1355-47-1
+SANC01055,(S)-(+)-Carvone,C10H14O,CHEMBL501949,16724,2244-16-8
+SANC01056,(R)-Carvone,C10H14O,CHEMBL2229268,439570,6485-40-1
+SANC01057,Helihumulone,C26H32O5,>  <ZINC_id>  (940),>  <DrugBank_id>  (940),72247-83-7
+SANC01058,Lanosol ethyl ether,C9H10Br2O3,CHEMBL463140,42645057,54502-93-1
+SANC01059,Oleamide,C18H35NO,SCHEMBL36321,5283387,301-02-0
+SANC01060,Isoeugenitol,C11H10O4,SCHEMBL18517012,5318562,479-06-1
+SANC01061,Luteolin-5-O-glucoside,C21H20O11,SCHEMBL242602,5317471,20344-46-1
+SANC01062,Artemisinin,C15H22O5,CHEMBL269671,68827,63968-64-9
+SANC01063,Geraniol,C10H18O,CHEMBL25719,637566,106-24-1
+SANC01064,Nerol,C10H18O,CHEMBL452683,643820,106-25-2
+SANC01065,Beta-pinene,C10H16,CHEMBL501351,14896,127-91-3
+SANC01066,Alpha-cadinol,C15H26O,SCHEMBL4276031,10398656,481-34-5
+SANC01067,Martynoside,C31H40O15,SCHEMBL2158040,5319292,67884-12-2
+SANC01068,Genistein 8-c-glucoside,C21H20O10,SCHEMBL15241300,5281757,66026-80-0
+SANC01072,Exocarpic acid,C18H26O2,>  <ZINC_id>  (952),53635328,13089-73-1
+SANC01073,Ximenynic acid,C18H30O2,CHEMBL1967321,5312688,557-58-4
+SANC01074,erythrinasinate B,C38H66O4,>  <ZINC_id>  (954),5743442,101959-37-9
+SANC01075,Centratherin,C20H22O7,CHEMBL382151,44409502,71939-83-8
+SANC01076,Isocentratherin,C20H22O7,CHEMBL2205110,21634989,80377-52-2
+SANC01077,Marmesin,C14H14O4,SCHEMBL12062107,334704,13849-08-6
+SANC01078,Simiarenol,C30H50O,SCHEMBL2337338,12442794,1615-94-7
+SANC01079,Peucedanol,C14H16O5,>  <ZINC_id>  (959),5374451,46992-81-8
+SANC01080,Hopenol b,C30H50O,CHEMBL254343,10093995,58801-23-3
+SANC01081,Alpha-amyrin acetate,C32H52O2,SCHEMBL3486683,92842,863-76-3
+SANC01082,Pellitorine,C14H25NO,CHEMBL271242,5318516,18836-52-7
+SANC01083,Nothofagin,C21H24O10,CHEMBL4082869,21722188,11023-94-2
+SANC01084,Syringin,C17H24O9,SCHEMBL409032,5316860,118-34-3
+SANC01085,Rutin,C27H30O16,>  <ZINC_id>  (965),5280805,153-18-4
+SANC01086,Vitexin,C21H20O10,CHEMBL487417,5280441,3681-93-4
+SANC01087,Isovitexin,C21H20O10,CHEMBL465360,162350,38953-85-4
+SANC01088,Aspalathin,C21H24O11,SCHEMBL1933939,11282394,6027-43-6
+SANC01089,Mearnsitrin,C22H22O12,CHEMBL3109438,6918652,30484-88-9
+SANC01090,Chlorogenic acid,C16H18O9,>  <ZINC_id>  (970),1794427,327-97-9
+SANC01091,"5,7-Dihydroxy-3,6,8,3',4',5'-hexamethoxyflavone",C21H22O10,CHEMBL77385,5386963,96887-18-2
+SANC01092,Araneosol,C19H18O8,>  <ZINC_id>  (972),5491522,50461-86-4
+SANC01093,Diphysin,C30H22O10,>  <ZINC_id>  (973),133556276,152246-61-2
+SANC01094,Neolitsine,C19H17NO4,CHEMBL404684,10064778,2466-42-4
+SANC01095,"6,8-dihydroxy-5,7-dimethoxycoumarin",C11H10O6,SCHEMBL17047860,3025904,167105-92-2
+SANC01097,Lauric acid,C12H24O2,CHEMBL108766,3893,143-07-7
+SANC01098,Linoleic acid,C18H32O2,SCHEMBL7067,5280450,60-33-3
+SANC01099,Kaempferol 3-o-arabinoside,C20H18O10,SCHEMBL1279116,5481882,99882-10-7
+SANC01100,4-methoxycinnamyl alcohol,C10H12O2,SCHEMBL1278753,5314180,17581-85-0
+SANC01101,Nornantenine,C19H19NO4,CHEMBL1254951,3084228,15401-66-8
+SANC01102,Anonaine,C17H15NO2,SCHEMBL15800856,160597,1862-41-5
+SANC01103,Asimilobine,C17H17NO2,CHEMBL469423,160875,6871-21-2
+SANC01104,Piperitenone,C10H14O,SCHEMBL220677,381152,491-09-8
+SANC01105,Squalene,C30H50,CHEMBL458402,638072,111-02-4
+SANC01106,Betulonic acid,C30H46O3,SCHEMBL210119,122844,4481-62-3
+SANC01107,Spinasterol,C29H48O,SCHEMBL232490,5281331,481-18-5
+SANC01108,Betulone,C30H48O2,SCHEMBL13910773,10411004,7020-34-0
+SANC01109,Rosmanol,C20H26O5,CHEMBL507166,13966122,80225-53-2
+SANC01110,Taraxerol,C30H50O,SCHEMBL569463,92097,127-22-0
+SANC01111,Sawamilletin,C31H52O,>  <ZINC_id>  (990),12305297,14021-23-9
+SANC01112,N-coumaroyl serotonin,C19H18N2O3,SCHEMBL471921,5458879,201301-83-9
+SANC01113,Tutin,C15H18O6,CHEMBL297057,75729,2571-22-4
+SANC01114,Hyenanchin,C15H18O7,>  <ZINC_id>  (993),442276,3484-46-6
+SANC01115,Lupeol acetate,C32H52O2,CHEMBL453802,92157,1617-68-1
+SANC01116,"Cycloart-23-ene-3,25-diol",C30H50O2,CHEMBL1641872,5470009,54482-57-4
+SANC01117,Isoafrormosin,C17H14O5,SCHEMBL4293075,5319771,37816-20-9
+SANC01118,"7,3'-dihydroxy-5'-methoxyisoflavone",C16H12O5,SCHEMBL571450,66728338,947611-61-2
+SANC01119,(+)-epicatechin-3-o-gallate,C22H18O10,SCHEMBL4639313,65056,863-03-6
+SANC01120,Ladanein,C17H14O6,>  <ZINC_id>  (999),3084066,10176-71-3
+SANC01122,Acetovanillone,C9H10O3,CHEMBL346919,2214,498-02-2
+SANC01123,(E)-tetratriacontyl-3-(4-hydroxy-3-methoxyphenyl)-2-propenate,C44H78O4,>  <ZINC_id>  (1001),>  <DrugBank_id>  (1001),239471-53-5
+SANC01124,Diosgenin,C27H42O3,CHEMBL412437,99474,512-04-9
+SANC01125,Serratagenic acid,C30H46O5,SCHEMBL2168814,21594175,6488-64-8
+SANC01126,Zaluzanin d,C17H20O4,CHEMBL371402,12445012,16838-85-0
+SANC01127,Pedalitin,C16H12O7,SCHEMBL6240689,31161,22384-63-0
+SANC01128,3-O-[beta-D-(6'-nonadecanoate)glucopyranosyl]-beta-sitosterol,C54H96O7,>  <ZINC_id>  (1006),>  <DrugBank_id>  (1006),956699-41-5
+SANC01129,3-O-[beta-D-glucopyranosyl]-beta-sitosterol,C35H60O6,>  <ZINC_id>  (1007),>  <DrugBank_id>  (1007),474-58-8
+SANC01130,dehydrocostus lactone,C15H18O2,>  <ZINC_id>  (1008),>  <DrugBank_id>  (1008),477-43-0
+SANC01131,Nepetin,C16H12O7,>  <ZINC_id>  (1009),>  <DrugBank_id>  (1009),520-11-6
+SANC01132,Oleanolic acid,C30H48O3,>  <ZINC_id>  (1010),>  <DrugBank_id>  (1010),>  <references>  (1010)
+SANC01133,4-hydroxyhygric acid,C6H11NO3,>  <ZINC_id>  (1011),>  <DrugBank_id>  (1011),67463-44-9
+SANC01134,7-ethoxyrosmanol,C22H30O5,>  <ZINC_id>  (1012),>  <DrugBank_id>  (1012),111200-01-2

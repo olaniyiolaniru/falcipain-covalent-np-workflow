@@ -1,0 +1,139 @@
+{
+  "receptor": "FP-2, standardized neutral catalytic dyad, the receptor and grid used for the reported screen, scored by Glide XP over every prepared state as the recognition screen does",
+  "labelled_compounds": 1264,
+  "scored_compounds": 1135,
+  "unscored_compounds": 129,
+  "unscored_actives": 1,
+  "unscored_decoys": 128,
+  "scored_by_stage": {
+    "XP": 1135
+  },
+  "ranking_rule": "each compound is ranked by its minimum Glide XP DockingScore across its prepared states, as the recognition screen ranks it",
+  "unscored_treatment": "metrics are reported both over the scored compounds alone and over the whole labelled set with the unscored compounds ranked last",
+  "bootstrap_replicates": 2000,
+  "bootstrap_scheme": "actives and decoys resampled separately with replacement",
+  "bedroc_alpha": 20.0,
+  "score_field": "Glide docking score, more negative ranks earlier",
+  "scores_file": "scores_FP2_xp.csv",
+  "labels_file": "bench_FP2_xp1k_labels.csv",
+  "all_actives": {
+    "n": 1135,
+    "actives": 263,
+    "prevalence": 0.23171806167400882,
+    "roc_auc": 0.54830467087592,
+    "pr_auc": 0.3002159620446823,
+    "ef1": 2.353957829243,
+    "ef5": 1.8170902541524914,
+    "bedroc20": 0.40256376857417253,
+    "roc_ci": [
+      0.5053938326298532,
+      0.5900905222032302
+    ],
+    "pr_ci": [
+      0.2617646776200984,
+      0.34706693758645285
+    ],
+    "ef1_ci": [
+      0.7846526097476667,
+      3.5309367438645007
+    ],
+    "ef5_ci": [
+      1.287105596691348,
+      2.347074911613635
+    ],
+    "bedroc20_ci": [
+      0.3159988156018341,
+      0.48991358306139465
+    ]
+  },
+  "covalent_only": {
+    "n": 985,
+    "actives": 113,
+    "prevalence": 0.11472081218274112,
+    "roc_auc": 0.6414102460014613,
+    "pr_auc": 0.22139148906485065,
+    "ef1": 4.3584070796460175,
+    "ef5": 2.8463066642586234,
+    "bedroc20": 0.3276151307505901,
+    "roc_ci": [
+      0.5860294714622067,
+      0.698171226759763
+    ],
+    "pr_ci": [
+      0.17230139404422445,
+      0.2936645115590944
+    ],
+    "ef1_ci": [
+      0.8716814159292036,
+      6.101769911504424
+    ],
+    "ef5_ci": [
+      1.9568358316778038,
+      4.269459996387935
+    ],
+    "bedroc20_ci": [
+      0.23804361823472128,
+      0.43016336412355083
+    ]
+  },
+  "all_actives_unscored_ranked_last": {
+    "n": 1264,
+    "actives": 264,
+    "prevalence": 0.2088607594936709,
+    "roc_auc": 0.604310606060606,
+    "pr_auc": 0.2999590620604115,
+    "ef1": 2.578088578088578,
+    "ef5": 1.975949975949976,
+    "bedroc20": 0.3961506242225034,
+    "roc_ci": [
+      0.5639053030303031,
+      0.6427840909090909
+    ],
+    "pr_ci": [
+      0.259833053442121,
+      0.3468530059809386
+    ],
+    "ef1_ci": [
+      1.104895104895105,
+      3.682983682983683
+    ],
+    "ef5_ci": [
+      1.443963443963444,
+      2.583934583934584
+    ],
+    "bedroc20_ci": [
+      0.3153051648719453,
+      0.47838377577339924
+    ]
+  },
+  "covalent_only_unscored_ranked_last": {
+    "n": 1113,
+    "actives": 113,
+    "prevalence": 0.10152740341419586,
+    "roc_auc": 0.6873097345132744,
+    "pr_auc": 0.22139148906485065,
+    "ef1": 4.477071600965407,
+    "ef5": 3.1659292035398234,
+    "bedroc20": 0.3275245923177349,
+    "roc_ci": [
+      0.6382035398230088,
+      0.7392743362831858
+    ],
+    "pr_ci": [
+      0.1706372137818601,
+      0.29541007688207693
+    ],
+    "ef1_ci": [
+      0.8954143201930813,
+      7.1633145615446505
+    ],
+    "ef5_ci": [
+      2.1106194690265485,
+      4.39712389380531
+    ],
+    "bedroc20_ci": [
+      0.2364060368876563,
+      0.4232566780416082
+    ]
+  }
+}

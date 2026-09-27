@@ -1,0 +1,16 @@
+{
+  "source_sdf": "data\\SANCDB_1012_records.sdf",
+  "source_sha256": "9e3cf3ea45e160973eda435bb305b35d3d0c8ae09f2a6cbc37935739e406258c",
+  "records": 1012,
+  "parse_failures": 17,
+  "parsed": 995,
+  "without_queried_motif": 723,
+  "motif_bearing_records": 272,
+  "duplicate_motif_hits": 5,
+  "unique_motif_bearing": 267,
+  "failed_selection_rule": 82,
+  "retained_parents": 185,
+  "distinct_sites_in_retained": 247,
+  "smarts_matches_in_retained": 310,
+  "beta_rule": "topological substitution filter on the two-dimensional structure"
+}

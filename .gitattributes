@@ -1,0 +1,3 @@
+# Byte-for-byte checkout on every platform, so SHA256SUMS.txt verifies
+# anywhere. Line-ending conversion would change the bytes and break it.
+* -text

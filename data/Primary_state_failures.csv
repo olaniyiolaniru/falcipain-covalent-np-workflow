@@ -1,0 +1,19 @@
+target,parent_id,prepared_state_id,prepared_record,formal_charge,epik_state_penalty,source_job,outcome,reason
+FP2,SANC00110,SANC00110_minRM1.pdb-2,7,0,2.5036,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC00116,SANC00116_minRM1.pdb-2,12,0,2.0466,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC00117,SANC00117_minRM1.pdb-2,14,0,2.0466,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC00246,SANC00246_minRM1.pdb-1,43,0,-0.0,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC00454,SANC00454_minRM1.pdb-1,121,0,-0.0,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC00455,SANC00455_minRM1.pdb-1,122,0,-0.0,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC00618,SANC00618_minRM1.pdb-1,166,0,-0.0,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC00648,SANC00648_minRM1.pdb-1,177,0,-0.0,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC00650,SANC00650_minRM1.pdb-1,178,0,-0.0,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC00651,SANC00651_minRM1.pdb-1,179,0,-0.0,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC00652,SANC00652_minRM1.pdb-1,180,0,-0.0,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC01074,SANC01074_minRM1.pdb-1,263,0,0.0007,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP2,SANC01123,SANC01123_minRM1.pdb-1,272,0,0.0007,FP2_standard_xp_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP3,SANC00110,SANC00110_minRM1.pdb-2,7,0,2.5036,XP_FP3_apo_185_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP3,SANC00116,SANC00116_minRM1.pdb-2,12,0,2.0466,XP_FP3_apo_185_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP3,SANC00364,SANC00364_minRM1.pdb-1,75,-1,0.0002,XP_FP3_apo_185_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP3,SANC00455,SANC00455_minRM1.pdb-1,122,0,-0.0,XP_FP3_apo_185_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters
+FP3,SANC01123,SANC01123_minRM1.pdb-1,272,0,0.0007,XP_FP3_apo_185_pv.maegz,no pose returned,state produced no pose that passed Glide XP scoring/rejection filters

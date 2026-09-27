@@ -1,0 +1,55 @@
+{
+  "rules": [
+    "minimum_DockingScore",
+    "minimum_DockingScore_SPes4",
+    "minimum_DockingScore_XPn10",
+    "minimum_GlideScore",
+    "minimum_GlideScore_SPes4",
+    "minimum_GlideScore_XPn10"
+  ],
+  "contrast_sign_by_target_architecture": {
+    "FP2_aglycone_ester": {
+      "rules": 6,
+      "min": -0.36025031906363036,
+      "max": 1.8099029043279593,
+      "sign_consistent": false,
+      "magnitude_min": 0.2518974362598394
+    },
+    "FP2_glycosylated": {
+      "rules": 6,
+      "min": -1.6703878717846994,
+      "max": 0.5921362152969607,
+      "sign_consistent": false,
+      "magnitude_min": 0.22211212821530069
+    },
+    "FP3_aglycone_ester": {
+      "rules": 6,
+      "min": -0.2973762604099397,
+      "max": 0.7194247150170803,
+      "sign_consistent": false,
+      "magnitude_min": 0.1786907578154997
+    },
+    "FP3_glycosylated": {
+      "rules": 6,
+      "min": -0.7663360449919097,
+      "max": -0.08134104977741963,
+      "sign_consistent": true,
+      "magnitude_min": 0.08134104977741963
+    }
+  },
+  "core_displacement_rmsd_A": {
+    "FP2_glycosylated_minimum_DockingScore": 5.643,
+    "FP2_glycosylated_minimum_GlideScore": 5.643,
+    "FP2_aglycone_ester_minimum_DockingScore": 5.331,
+    "FP2_aglycone_ester_minimum_GlideScore": 10.478,
+    "FP3_glycosylated_minimum_DockingScore": 8.653,
+    "FP3_glycosylated_minimum_GlideScore": 8.653,
+    "FP3_aglycone_ester_minimum_DockingScore": 9.127,
+    "FP3_aglycone_ester_minimum_GlideScore": 1.458
+  },
+  "halogen_bond_contacts_screened": 5,
+  "halogen_bonds_found": 0,
+  "halogen_max_angle_deg": 129.09,
+  "halogen_min_distance_A": 3.354,
+  "interpretation": "Score differences accompany a change of binding mode: the mapped core relocates between the two members."
+}

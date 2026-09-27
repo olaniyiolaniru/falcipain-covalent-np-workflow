@@ -1,0 +1,5 @@
+target,architecture,OH_poses,Cl_poses,OH_clusters,Cl_clusters,min_pairwise_core_rmsd_A,median_pairwise_core_rmsd_A,max_pairwise_core_rmsd_A,closest_cluster_centroid_rmsd_A,shared_family_at_cutoff
+FP2,glycosylated,42,37,11,19,0.86,9.168,19.246,0.874,True
+FP2,aglycone_ester,63,49,8,17,1.188,8.618,21.044,2.21,True
+FP3,glycosylated,34,36,14,8,0.795,8.698,15.37,1.239,True
+FP3,aglycone_ester,48,57,13,7,0.101,8.597,16.43,0.19,True

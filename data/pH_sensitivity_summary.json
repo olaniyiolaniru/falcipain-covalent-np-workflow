@@ -1,0 +1,83 @@
+{
+  "protocol": "receptor prepared with the Protein Preparation Wizard at PROPKA pH 5.5 and ligands prepared with LigPrep and Epik at pH 5.5 +/- 2.0; the catalytic dyad is held at the standardized neutral assignment at both pH values",
+  "reference": "pH 7.0 protocol used for the reported screen",
+  "rank_agreement": {
+    "FP2": 0.4943,
+    "FP3": 0.5955
+  },
+  "matched_contrast": {
+    "FP2_glycosylated": {
+      "pH55": 2.2937,
+      "pH70": -1.6704,
+      "sign_preserved": false
+    },
+    "FP2_aglycone_ester": {
+      "pH55": 0.324,
+      "pH70": 0.2519,
+      "sign_preserved": true
+    },
+    "FP3_glycosylated": {
+      "pH55": 0.6177,
+      "pH70": -0.7663,
+      "sign_preserved": false
+    },
+    "FP3_aglycone_ester": {
+      "pH55": 4.1043,
+      "pH70": 0.4347,
+      "sign_preserved": true
+    }
+  },
+  "panel_members": {
+    "FP2": 22,
+    "FP3": 22
+  },
+  "rank_agreement_ci": {
+    "FP2": [
+      -0.0313,
+      0.8178
+    ],
+    "FP3": [
+      0.161,
+      0.8704
+    ]
+  },
+  "compounds_compared": {
+    "FP2": 18,
+    "FP3": 18
+  },
+  "leading_compound": {
+    "FP2": {
+      "pH70": "SANC01049",
+      "pH55": "SANC01067",
+      "unchanged": false
+    },
+    "FP3": {
+      "pH70": "SANC00370",
+      "pH55": "SANC00370",
+      "unchanged": true
+    }
+  },
+  "top_k_overlap": {
+    "FP2": {
+      "top3": 2,
+      "top5": 3,
+      "top10": 7
+    },
+    "FP3": {
+      "top3": 1,
+      "top5": 3,
+      "top10": 8
+    }
+  },
+  "absolute_score_change": {
+    "FP2": {
+      "median": 0.996,
+      "maximum": 4.141
+    },
+    "FP3": {
+      "median": 1.007,
+      "maximum": 5.44
+    }
+  },
+  "matched_pair_note": "The matched 4-OH/4-Cl contrast keeps its sign in 2 of the 4 architecture and target combinations compared."
+}

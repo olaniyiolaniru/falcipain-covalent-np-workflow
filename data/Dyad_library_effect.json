@@ -1,0 +1,31 @@
+{
+  "experiment": "the same prepared ligand file docked into two FP-2 receptors whose heavy-atom coordinates are identical and whose catalytic dyad differs by the position of one proton, at the same grid centre and box",
+  "standardized_file": "FP2_standard_xp_pv.maegz",
+  "standardized_sha256": "4dc7e066e1aa58df1b670f2e35000d9bdbc28f4b5d51efbb32f1c36e8d01a576",
+  "alternative_file": "XP_FP2_185_pv.maegz",
+  "alternative_sha256": "c7119dc1e49151f5e85fcceefd8614932cb144605171d22db962dd91c27eb4e7",
+  "parents_compared": 175,
+  "parents_standardized_only": [],
+  "parents_alternative_only": [],
+  "median_absolute_change": 0.5047,
+  "mean_change": 0.3353,
+  "iqr_absolute_change": [
+    0.2933,
+    0.9496
+  ],
+  "max_absolute_change": 6.3989,
+  "largest_mover": "SANC00962",
+  "rank_agreement_spearman": 0.755,
+  "rank_agreement_ci": [
+    0.665,
+    0.8279
+  ],
+  "parents_changing_selected_state": 9,
+  "reference_effect": 0.766,
+  "parents_moving_more_than_reference": 57,
+  "fraction_moving_more_than_reference": 0.3257,
+  "top10_overlap": 7,
+  "top20_overlap": 12,
+  "leading_compound_standardized": "SANC01049",
+  "leading_compound_alternative": "SANC00370"
+}

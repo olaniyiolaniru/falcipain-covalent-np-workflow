@@ -1,0 +1,51 @@
+{
+  "descriptor_records": 18,
+  "substituents_primary": [
+    "CN",
+    "Cl",
+    "H",
+    "NO2",
+    "OH",
+    "OMe"
+  ],
+  "substituents_checked": [
+    "CN",
+    "Cl",
+    "H",
+    "NO2",
+    "OH",
+    "OMe"
+  ],
+  "omega_range_eV": [
+    2.220203894869447,
+    3.6890462267175206
+  ],
+  "omega_NO2_over_OH": 1.6605302606476477,
+  "fplus_beta_NO2_over_OH": 0.15388970074649527,
+  "local_philicity_eV": {
+    "CN": 0.4445316364157285,
+    "Cl": 0.5305263888528465,
+    "H": 0.46369589153968366,
+    "NO2": 0.09441089441519149,
+    "OH": 0.3694585849410571,
+    "OMe": 0.4949544816012394
+  },
+  "charge_normalisation_max_error": 1.2945200467129325e-13,
+  "nitro_fragment_response": {
+    "primary_ESP": {
+      "ester_alkene": 0.15646517896199014,
+      "aryl": 0.23422704389252202,
+      "para_substituent": 0.609307777145492
+    },
+    "check": {
+      "ESP_ester_alkene": 0.1564969165338142,
+      "ESP_aryl": 0.23450977104621698,
+      "ESP_para_substituent": 0.6089933124199649,
+      "Mulliken_ester_alkene": 0.1532433570164593,
+      "Mulliken_aryl": 0.2298961701673688,
+      "Mulliken_para_substituent": 0.616860472816251
+    }
+  },
+  "max_same_scheme_difference": 0.0013897746790750565,
+  "hardness_convention": "full gap, eta = eLUMO - eHOMO"
+}

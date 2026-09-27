@@ -1,0 +1,61 @@
+{
+  "cutoff_A": 2.0,
+  "core_smarts": "[$([OX2H1]),$([Cl])]c1ccc(cc1)C=CC(=O)O",
+  "poses_analysed": 366,
+  "compounds": 8,
+  "summaries": [
+    {
+      "target": "FP2",
+      "architecture": "glycosylated",
+      "OH_poses": 42,
+      "Cl_poses": 37,
+      "OH_clusters": 11,
+      "Cl_clusters": 19,
+      "min_pairwise_core_rmsd_A": 0.86,
+      "median_pairwise_core_rmsd_A": 9.168,
+      "max_pairwise_core_rmsd_A": 19.246,
+      "closest_cluster_centroid_rmsd_A": 0.874,
+      "shared_family_at_cutoff": true
+    },
+    {
+      "target": "FP2",
+      "architecture": "aglycone_ester",
+      "OH_poses": 63,
+      "Cl_poses": 49,
+      "OH_clusters": 8,
+      "Cl_clusters": 17,
+      "min_pairwise_core_rmsd_A": 1.188,
+      "median_pairwise_core_rmsd_A": 8.618,
+      "max_pairwise_core_rmsd_A": 21.044,
+      "closest_cluster_centroid_rmsd_A": 2.21,
+      "shared_family_at_cutoff": true
+    },
+    {
+      "target": "FP3",
+      "architecture": "glycosylated",
+      "OH_poses": 34,
+      "Cl_poses": 36,
+      "OH_clusters": 14,
+      "Cl_clusters": 8,
+      "min_pairwise_core_rmsd_A": 0.795,
+      "median_pairwise_core_rmsd_A": 8.698,
+      "max_pairwise_core_rmsd_A": 15.37,
+      "closest_cluster_centroid_rmsd_A": 1.239,
+      "shared_family_at_cutoff": true
+    },
+    {
+      "target": "FP3",
+      "architecture": "aglycone_ester",
+      "OH_poses": 48,
+      "Cl_poses": 57,
+      "OH_clusters": 13,
+      "Cl_clusters": 7,
+      "min_pairwise_core_rmsd_A": 0.101,
+      "median_pairwise_core_rmsd_A": 8.597,
+      "max_pairwise_core_rmsd_A": 16.43,
+      "closest_cluster_centroid_rmsd_A": 0.19,
+      "shared_family_at_cutoff": true
+    }
+  ],
+  "method": "average-linkage clustering on atom-mapped cinnamoyl-core RMSD; no ligand superposition"
+}

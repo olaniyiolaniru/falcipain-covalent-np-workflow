@@ -1,0 +1,9 @@
+{
+  "poses": 24,
+  "para_probes": 20,
+  "core_comparisons": 8,
+  "core_smarts": "[$([OX2H1]),$([Cl])]c1ccc(cc1)C=CC(=O)O",
+  "contact_cutoff_A": 4.0,
+  "polar_cutoff_A": 3.5,
+  "note": "Contacts are geometric distance criteria in the pose-viewer receptor frame; they are not interaction energies."
+}

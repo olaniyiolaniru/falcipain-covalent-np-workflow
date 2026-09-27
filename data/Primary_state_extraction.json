@@ -1,0 +1,22 @@
+{
+  "prepared_states": 274,
+  "prepared_parents": 185,
+  "returned_state_records": {
+    "FP2": 261,
+    "FP3": 269
+  },
+  "parents_with_pose": {
+    "FP2": 175,
+    "FP3": 182
+  },
+  "states_without_pose": {
+    "FP2": 13,
+    "FP3": 5
+  },
+  "source_sha256": {
+    "FP2_standard_xp_pv.maegz": "4dc7e066e1aa58df1b670f2e35000d9bdbc28f4b5d51efbb32f1c36e8d01a576",
+    "XP_FP3_apo_185_pv.maegz": "ff6cb1889dd4ae1ea02b817ae55dfa1a2712befe92c087ba9507ac147a12efc0",
+    "lp185.maegz": "631f5854e72aeac387be7e53560c577d7c93da39c6b96402d1521f8178ab9451"
+  },
+  "catalytic_dyad_convention": "neutral cysteine thiol (S-gamma H present) and neutral catalytic histidine (HIE, N-epsilon-2 H) at both targets"
+}

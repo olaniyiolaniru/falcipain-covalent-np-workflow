@@ -1,0 +1,6 @@
+target,pose_record,title,DockingScore,acceptor,acceptor_atom,acceptor_element,Cl_acceptor_distance_A,C_Cl_acceptor_angle_deg,vdW_sum_A,meets_distance,meets_angle,halogen_bond
+FP2,2,AnalogueA,-7.95608278000059,A:ASP234,OD2,O,3.749,125.84,3.27,False,False,False
+FP2,6,OPT1,-4.31763248660165,A:LYS160,NZ,N,3.354,129.09,3.3,False,False,False
+FP2,12,OPT1,-1.37203568760631,A:LYS160,NZ,N,3.389,120.76,3.3,False,False,False
+FP3,2,AnalogueA,-7.29864451092638,A:TYR90,O,O,3.803,82.73,3.27,False,False,False
+FP3,5,OPT1,-5.47008942164027,A:TRP215,O,O,3.444,94.9,3.27,False,False,False

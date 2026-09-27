@@ -1,6 +1,5 @@
+outputs/
 __pycache__/
 *.pyc
-*.maegz
-*.mae
-*.log
+.pytest_cache/
 .DS_Store

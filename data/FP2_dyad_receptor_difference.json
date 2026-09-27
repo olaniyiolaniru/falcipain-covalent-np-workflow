@@ -1,0 +1,47 @@
+{
+  "label_a": "FP-2 alternative dyad (ion pair)",
+  "label_b": "FP-2 standardized dyad (neutral)",
+  "file_a": "matched_alternative/FP2_matched_verified_pv.maegz",
+  "file_b": "matched_standard/FP2_matched_verified_pv.maegz",
+  "atoms_a": 3666,
+  "atoms_b": 3666,
+  "heavy_atoms_a": 1877,
+  "heavy_atoms_b": 1877,
+  "formal_charge_a": -11,
+  "formal_charge_b": -11,
+  "residues_a": 240,
+  "residues_b": 240,
+  "differing_residues": 2,
+  "differences": [
+    {
+      "residue": "A:42",
+      "a": {
+        "resname": "CYS",
+        "heavy": 6,
+        "atoms": 10,
+        "formal_charge": -1
+      },
+      "b": {
+        "resname": "CYS",
+        "heavy": 6,
+        "atoms": 11,
+        "formal_charge": 0
+      }
+    },
+    {
+      "residue": "A:174",
+      "a": {
+        "resname": "HIP",
+        "heavy": 10,
+        "atoms": 18,
+        "formal_charge": 1
+      },
+      "b": {
+        "resname": "HIE",
+        "heavy": 10,
+        "atoms": 17,
+        "formal_charge": 0
+      }
+    }
+  ]
+}

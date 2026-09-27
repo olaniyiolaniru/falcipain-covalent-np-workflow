@@ -1,72 +1,115 @@
-# Reactivity-weighted covalent natural-product screening workflow
-**Authors:** Olaniyi Victor Olaniru, Clement Odunayo Ajiboye. **Corresponding author:** co.ajiboye@ui.edu.ng
+# Falcipain covalent natural-product workflow
 
-A reproducible, reactivity-weighted *in silico* workflow for discovering **covalent
-natural-product inhibitors**, demonstrated against the *Plasmodium falciparum*
-haemoglobinases **falcipain-2 and falcipain-3**. The pipeline combines a covalent-warhead
-filtering cascade, dual recognition and covalent docking, Prime MM-GBSA rescoring, a
-multi-descriptor DFT treatment of warhead reactivity, ADMET prediction, and a covalent
-counter-screen against human cathepsins K and L.
+Analysis code and data for **"Structure-Based Prioritization and Electronic
+Tuning of Cinnamate-Bearing Natural Products at Falcipain-2 and Falcipain-3"**
+(*ACS Omega*), release **1.2.0**.
 
-This repository holds the **open-source, tool-agnostic components** (the RDKit filtering
-cascade and the analysis/collation scripts). The docking, MM-GBSA and DFT steps use the
-commercial Schrödinger suite (Glide, CovDock, Prime) and Jaguar; the helper scripts that
-drive and parse those jobs are provided under `src/schrodinger_helpers/` for users with a
-licence.
+## What is here
 
-## What the workflow does
+| Path | Contents |
+| --- | --- |
+| `run_all.py` | One documented sequence that regenerates every open analysis and figure from `data/` into `outputs/` |
+| `src/` | Open analysis scripts (RDKit, pandas, numpy, scipy, matplotlib only) |
+| `src/native/` | Stages that require a licensed Schrodinger installation; these produced the tables in `data/` |
+| `jobs/` | The docking-job drivers, so the screening, benchmark and pH stages can be repeated exactly |
+| `data/` | Inputs and the extracted records every reported number is computed from |
+| `outputs/` | Written by `run_all.py`; diff it against `data/` to confirm a reproduction |
+| `figures/` | The article figures, the Supporting Information figure and the table-of-contents graphic |
+| `tests/` | Checks of the scientific outputs and of release provenance |
+| `MANIFEST.csv` | Article section, reported result, input file, output record, script and checksum |
 
-```
-library (SMILES/SDF)
-   └─ michael_filter.py        SMARTS-based Michael-acceptor / warhead classifier (tier 1 / tier 2)
-        └─ triage_beta.py      β-carbon accessibility filter (accessible vs sterically buried)
-             └─ [Glide XP]     dual FP-2 / FP-3 recognition docking
-                  └─ [CovDock] covalent docking at the catalytic cysteine (Michael addition)
-                       └─ [Prime MM-GBSA] relative rescoring
-                            └─ [Jaguar DFT] ω, condensed Fukui f⁺, methanethiolate ΔE  (rank + tune)
-                                 └─ [Glide/CovDock] human cathepsin K/L counter-screen
-```
+Nothing in `data/` is modified by the analyses. All generated output goes to
+`outputs/`.
 
-The two RDKit stages (`michael_filter.py`, `triage_beta.py`) reproduce the reduction of
-the South African Natural Compounds Database from 1,012 entries to the 185-compound
-β-accessible working set. The DFT reactivity engine and its use for prospective warhead
-tuning are the methodological core of the accompanying paper.
-
-## Installation
+## Reproduce the analyses
 
 ```bash
 python -m pip install -r requirements.txt
+python run_all.py            # regenerate every open analysis and figure
+python run_all.py --list     # show the sequence without running it
+python -m pytest tests -q    # check the outputs against the published values
 ```
 
-Open-source dependencies only (RDKit, NumPy, pandas, openpyxl, matplotlib). Python ≥ 3.9.
+## The catalytic-dyad convention
 
-## Usage
+Both falcipain receptors used for the reported screen and the reported matched
+comparison carry one catalytic-dyad assignment: a neutral cysteine thiol with an
+explicit S-gamma hydrogen, and a neutral HIE histidine.
+`data/Receptor_preparation_record.csv` states that assignment for every docking
+stage in the study, including the alternative ion-pair receptor used for the
+sensitivity experiment and the covalent-stage receptors, which carry their own
+convention because covalent docking assigns the reacting cysteine itself.
 
-```bash
-# 1. Isolate Michael-acceptor warheads (tier 1/2), annotate PAINS, keep everything
-python src/michael_filter.py -i library.sdf -o hits.csv --sdf-out hits.sdf
+The sensitivity experiment is released as a script. `src/native/dyad_sensitivity.py`
+takes the two pose-viewer files and reports the contrast under each receptor, the
+residue-level difference between them, and the resulting shift.
+`src/native/dyad_library_effect.py` runs the same comparison across every parent
+the screen docked, which is how the size of the term is established rather than
+illustrated. `src/native/receptor_diff.py` performs the residue-level comparison
+on any two prepared receptors, so the same control can be run on a different pair.
 
-# 2. Keep only β-accessible warheads (β-carbon bears ≥1 H)
-python src/triage_beta.py hits.csv        # writes hits_accessible.csv
+## Stages
 
-# 3. (Schrödinger) dock, covalently dock, MM-GBSA, DFT (see src/schrodinger_helpers/)
-#    then collate:
-"$SCHRODINGER/run" python3 src/schrodinger_helpers/collate_covdock_results.py
-"$SCHRODINGER/run" python3 src/schrodinger_helpers/compute_reaction_energies.py --dft-dir <jaguar_out_dir>
-```
+| Stage | Script | Regenerates |
+| --- | --- | --- |
+| `provenance` | `src/library_provenance.py` | The disposition of all 1,012 source records, the duplicate-to-parent mapping, matched atom indices and the distinct-site count |
+| `descriptors` | `src/library_descriptors.py` | Open descriptors and heavy-atom counts for the 185 retained parents |
+| `recognition` | `src/receptor_normalised_ranking.py` | Within-target percentiles, z-scores and ordinal ranks, the six dual-target composites, their Spearman agreement, the Pareto front and the size diagnostics |
+| `benchmark_xp` | `src/enrichment_metrics.py` | **The benchmark behind the reported ROC-AUC.** Glide XP over every prepared state at falcipain-2, on the receptor and grid of the screen, each compound taking its minimum DockingScore, with bootstrap intervals and both treatments of the compounds that returned no pose |
+| `benchmark_xp_fp3` | `src/enrichment_metrics.py` | The same protocol-matched benchmark at falcipain-3 |
+| `precision` | `src/benchmark_precision_comparison.py` | Docking precision and decoy-pool size separated, each measured with the other held fixed |
+| `benchmark` | `src/enrichment_metrics.py` | Lower-precision sensitivity benchmark at falcipain-2: an HTVS-then-SP funnel over all 8,026 decoys, reported alongside the protocol-matched run |
+| `benchmark_fp3` | `src/enrichment_metrics.py` | The same lower-precision funnel at falcipain-3 |
+| `dyad` | `src/benchmark_dyad_comparison.py` | The two catalytic-dyad receptors restricted to the compounds both scored, with the interval on the difference from a bootstrap that resamples compounds jointly |
+| `quantum` | `src/quantum_analysis.py` | omega, f+beta, omega*f+beta and the fragment partitions, from the atomic charge table |
+| `matched` | `src/matched_analysis.py` | The Cl minus OH contrasts under every selection rule, the core displacements and the halogen-bond screen |
+| `properties` | `src/panel_properties.py`, `src/property_ranges.py`, `src/property_concordance.py` | The panel property profile, the matched-set ranges and the two-platform concordance |
+| `dyad` | `src/native/dyad_sensitivity.py`, `src/native/dyad_library_effect.py` | The catalytic-dyad term on the matched pair and across all 175 screened parents |
+| `figures` | `src/build_figures.py` | Figures 1 to 4, Figure S1 and the table-of-contents graphic |
 
-`data/` contains the processed datasets for the falcipain demonstration (warhead hits,
-185-compound working set, Hammett DFT series, uniform-mode covalent-docking ranking,
-covalent selectivity, and the matched-pair scores). The complete 18-sheet workbook is
-distributed with the paper as `Supplementary_Dataset.xlsx`.
+`src/build_figures.py` is the single source of truth for the panel letters used
+in the article captions: the captions are written against what this script draws.
 
-## Citation
+## Stages that need a licensed Schrodinger installation
 
-If you use this workflow, please cite the accompanying paper (details on acceptance) and
-this repository. A `CITATION.cff` is provided; an archival release is deposited on Zenodo
-(DOI assigned at release).
+The scripts in `src/native/` produced the tables in `data/`. They are released so
+that the extraction from the native output files can be audited, and so that the
+same extraction can be run against a fresh calculation. They require Schrodinger
+2021-2 and are invoked through `$SCHRODINGER/run.exe python3`.
+
+The docking-job drivers in `jobs/` carry the exact Glide and Protein Preparation
+Wizard settings used for the screen, the retrospective benchmarks and the pH 5.5
+panel.
+
+## Data and provenance
+
+Every released file is listed in `MANIFEST.csv` with the article section it
+supports, the input it was produced from, the script that produced it and its
+SHA-256. `SHA256SUMS.txt` carries the checksum of every file in the tree.
+
+The benchmark is reported at two docking precisions. The protocol-matched runs,
+`Benchmark_summary_FP2_XP.json` and `Benchmark_summary_FP3_XP.json`, score every
+prepared state with Glide XP exactly as the recognition screen does, and they are
+the runs behind the article's reported enrichment. The files without the `_XP`
+suffix are the lower-precision HTVS-then-SP sensitivity benchmark over the full
+decoy pool, kept so the protocol-matched result can be read against seven times
+the decoys.
+
+The benchmark files in `data/` are of two kinds. The inputs are the label tables
+`Benchmark_labels_FP2.csv` and `Benchmark_labels_FP3.csv`, which list every
+labelled compound including those that returned no pose, and the raw funnel
+output for each receptor, `Benchmark_scores_FP2_standard.csv`,
+`Benchmark_scores_FP2_ion_pair.csv` and `Benchmark_scores_FP3_standard.csv`. The
+reference outputs those inputs produce are `Benchmark_summary*.json`,
+`Benchmark_curves*.csv`, `Benchmark_scores.csv`, `Benchmark_scores_FP3.csv` and
+`Benchmark_dyad_comparison.*`, kept so a reproduction can be checked against them.
+
+- Repository: https://github.com/olaniyiolaniru/falcipain-covalent-np-workflow
+- Archived release: https://doi.org/10.5281/zenodo.22132513
+- Preprint: https://doi.org/10.26434/chemrxiv.15008280
 
 ## Licence
 
-MIT (see `LICENSE`). The Schrödinger-dependent helper scripts require a valid Schrödinger
-licence to run; the scripts themselves are released under the same terms.
+Code is released under the MIT licence (see `LICENSE`). The SANCDB source
+records are redistributed under the terms of the South African Natural Compounds
+Database; cite the SANCDB papers if you use them.

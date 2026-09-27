@@ -1,0 +1,20 @@
+{
+  "compound": "SANC01001",
+  "protocol": "CovDock enrichment mode, Michael addition at the catalytic cysteine, identical settings to the covalent panel",
+  "stage_reported": "enrichment only",
+  "not_carried_further": "this compound was not carried through Prime REAL_MIN optimisation or post-reaction scoring, so it is not part of the covalent stage table",
+  "targets_attempted": [
+    "FP2",
+    "FP3",
+    "CatK",
+    "CatL"
+  ],
+  "targets_returning_a_product_pose": [
+    "FP3",
+    "CatK",
+    "CatL"
+  ],
+  "targets_returning_nothing": [
+    "FP2"
+  ]
+}

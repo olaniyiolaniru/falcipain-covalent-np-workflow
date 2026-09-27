@@ -1,0 +1,1 @@
+decoy subsample: 1000 of 8026 drawn with python random.Random(20260925).sample, sorted by position in bench_FP2_labels.csv; all 264 actives retained

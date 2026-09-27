@@ -1,0 +1,11 @@
+compound,name,mean_percentile,worse_percentile,heavy_atoms,qikprop_records,qikprop_source,mol_MW,QPlogPo_w,QPlogS,QPPCaco,QPPMDCK,QPlogBB,PercentHumanOralAbsorption,QPlogHERG,QPlogKhsa,RuleOfFive,RuleOfThree,n_stars,QPlogPo_w_min,QPlogPo_w_max,QPlogS_min,QPlogS_max,QPPCaco_min,QPPCaco_max,QPPMDCK_min,QPPMDCK_max,QPlogBB_min,QPlogBB_max,PercentHumanOralAbsorption_min,PercentHumanOralAbsorption_max,QPlogHERG_min,QPlogHERG_max,QPlogKhsa_min,QPlogKhsa_max,n_stars_min,n_stars_max
+SANC00370,Acteoside,99.15,98.86,44,1,shortlist QikProp run,624.594,-1.538,-2.992,1.123,0.321,-5.571,0.0,-6.755,-1.409,3.0,2.0,9.0,,,,,,,,,,,,,,,,,,
+SANC01049,Aloeresin C,98.62,97.8,50,1,shortlist QikProp run,702.665,-1.582,-2.794,1.459,0.426,-4.938,0.0,-5.958,-1.34,3.0,2.0,9.0,,,,,,,,,,,,,,,,,,
+SANC00964,Aloeresin E,98.31,97.71,49,1,shortlist QikProp run,686.665,-0.922,-3.03,4.395,1.402,-4.339,0.0,-6.197,-1.242,3.0,2.0,9.0,,,,,,,,,,,,,,,,,,
+SANC01067,Martynoside,96.4,94.51,46,1,shortlist QikProp run,652.648,-0.114,-3.73,8.959,3.027,-4.569,4.446,-6.753,-1.198,3.0,2.0,9.0,,,,,,,,,,,,,,,,,,
+SANC00853,Rosmarinic acid,96.35,96.0,26,1,shortlist QikProp run,360.32,1.139,-3.432,1.499,0.558,-3.64,36.764,-4.148,-0.543,0.0,1.0,2.0,,,,,,,,,,,,,,,,,,
+SANC00711,Aloeresin A,95.77,94.29,39,1,shortlist QikProp run,540.523,0.344,-3.891,6.4,2.104,-3.681,17.47,-5.805,-0.537,2.0,2.0,4.0,,,,,,,,,,,,,,,,,,
+SANC00548,Sutherlandioside D,95.26,93.96,45,1,shortlist QikProp run,634.849,2.703,-5.649,40.936,15.639,-3.052,45.707,-5.429,0.121,2.0,0.0,3.0,,,,,,,,,,,,,,,,,,
+SANC01001,Harpagoside,94.08,92.0,35,1,gap_prep.CSV,494.494,-0.236,-3.047,34.553,13.021,-2.987,27.182,-6.374,-1.011,2.0,0.0,0.0,,,,,,,,,,,,,,,,,,
+SANC00412,"4H-1-Benzopyran-4-one, 7-hydroxy-8-[6-O-[(2E)-3-(4-hydroxyphenyl)-1-oxo-2-propen-1-yl]-[beta]-D-glucopyranosyl]-5-methyl-2-(2-oxopropyl)-",93.31,91.76,39,1,shortlist QikProp run,540.523,0.766,-4.788,9.056,3.062,-3.87,22.64,-6.698,-0.497,2.0,2.0,4.0,,,,,,,,,,,,,,,,,,
+SANC00867,Tribuloside,92.77,90.11,43,2,shortlist QikProp run,594.528,,,,,,,,,3.0,2.0,,0.692,1.007,-4.95,-2.984,2.047,6.562,0.614,2.162,-4.765,-3.344,0.0,6.743,-7.378,-5.363,-0.422,-0.344,4.0,5.0

@@ -1,0 +1,5 @@
+target,target_name,compound,reaction,reactive_residue,covdock_mode,status,enrichment_pose_record,enrichment_DockingScore,enrichment_GlideScore,enrichment_minimisation_converged,enrichment_S_Cbeta_A,Cbeta_atom_index,SG_atom_index,records_returned
+FP2,falcipain-2,SANC01001,Michael Addition,42,enrichment,no product pose returned,,,,,,,,
+FP3,falcipain-3,SANC01001,Michael Addition,51,enrichment,completed,1,-4.7069,-4.7069,1,2.2793,7,3826,3
+CatK,cathepsin K,SANC01001,Michael Addition,25,enrichment,completed,1,-4.2984,-4.2984,1,2.3341,7,3306,3
+CatL,cathepsin L,SANC01001,Michael Addition,25,enrichment,completed,1,-5.0079,-5.0079,1,2.2331,7,3282,3

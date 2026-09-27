@@ -1,0 +1,11 @@
+{
+  "contacts_screened": 5,
+  "chlorinated_poses": 5,
+  "angle_criterion_deg": 155.0,
+  "distance_criterion": "element-specific vdW sum",
+  "contacts_meeting_distance": 0,
+  "contacts_meeting_angle": 0,
+  "halogen_bonds_found": 0,
+  "max_angle_deg": 129.09,
+  "min_distance_A": 3.354
+}

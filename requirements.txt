@@ -1,5 +1,10 @@
-rdkit>=2023.3
-numpy>=1.23
-pandas>=1.5
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+rdkit>=2023.3.1
 openpyxl>=3.1
-matplotlib>=3.6
+python-docx>=1.1
+Pillow>=10.0
+pymupdf>=1.23
+pytest>=7.4

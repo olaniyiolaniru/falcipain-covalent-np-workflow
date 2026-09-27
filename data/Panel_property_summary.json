@@ -1,0 +1,33 @@
+{
+  "panel_rule": "parents in the top decile at both receptors (worse within-target percentile >= 90)",
+  "panel_size": 10,
+  "panel_members": [
+    "SANC00370",
+    "SANC01049",
+    "SANC00964",
+    "SANC01067",
+    "SANC00853",
+    "SANC00711",
+    "SANC00548",
+    "SANC01001",
+    "SANC00412",
+    "SANC00867"
+  ],
+  "members_with_qikprop": 10,
+  "members_without_qikprop": [],
+  "endpoints": [
+    "mol_MW",
+    "QPlogPo/w",
+    "QPlogS",
+    "QPPCaco",
+    "QPPMDCK",
+    "QPlogBB",
+    "PercentHumanOralAbsorption",
+    "QPlogHERG",
+    "QPlogKhsa",
+    "RuleOfFive",
+    "RuleOfThree",
+    "#stars"
+  ],
+  "reporting_rule": "range over every prepared-state record for the molecule"
+}

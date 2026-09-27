@@ -1,0 +1,22 @@
+[
+  {
+    "compound": "Parent_SANC00867",
+    "label": "Tribuloside | glycosylated, 4-OH",
+    "SMILES": "O=C(/C=C/c1ccc(O)cc1)OC[C@H]1O[C@@H](Oc2c(-c3ccc(O)cc3)oc3cc(O)cc(O)c3c2=O)[C@H](O)[C@@H](O)[C@@H]1O"
+  },
+  {
+    "compound": "AnalogueA",
+    "label": "Analogue A | glycosylated, 4-Cl",
+    "SMILES": "O=C(/C=C/c1ccc(Cl)cc1)OC[C@H]1O[C@@H](Oc2c(-c3ccc(O)cc3)oc3cc(O)cc(O)c3c2=O)[C@H](O)[C@@H](O)[C@@H]1O"
+  },
+  {
+    "compound": "AnalogueB",
+    "label": "Analogue B | aglycone ester, 4-OH",
+    "SMILES": "O=C(/C=C/c1ccc(O)cc1)Oc1c(-c2ccc(O)cc2)oc2cc(O)cc(O)c2c1=O"
+  },
+  {
+    "compound": "OPT1",
+    "label": "OPT1 | aglycone ester, 4-Cl",
+    "SMILES": "O=C(/C=C/c1ccc(Cl)cc1)Oc1c(-c2ccc(O)cc2)oc2cc(O)cc(O)c2c1=O"
+  }
+]

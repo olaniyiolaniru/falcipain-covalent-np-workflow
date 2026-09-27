@@ -1,22 +1,23 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite both the paper and the software."
-title: "Reactivity-weighted covalent natural-product screening workflow"
-doi: "10.5281/zenodo.22132514"
-abstract: "Reproducible in silico workflow for prioritizing covalent natural-product inhibitors: Michael-acceptor filtering, dual covalent docking, MM-GBSA, and a multi-descriptor DFT reactivity analysis, demonstrated against falcipain-2 and falcipain-3."
-authors:
-  - family-names: "Olaniru"
-    given-names: "Olaniyi Victor"
-    affiliation: "Department of Chemical Sciences, Lead City University, Ibadan, Nigeria"
-  - family-names: "Ajiboye"
-    given-names: "Clement Odunayo"
-    affiliation: "Department of Chemistry, University of Ibadan, Ibadan, Nigeria"
-version: "1.1.1"
+message: "If you use this software or data, please cite the article and this release."
+title: "Falcipain covalent natural-product workflow"
+version: "1.2.0"
 license: MIT
-date-released: "2026-09-01"
-keywords:
-  - covalent inhibitors
-  - natural products
-  - falcipain
-  - density functional theory
-  - molecular docking
-  - RDKit
+repository-code: "https://github.com/olaniyiolaniru/falcipain-covalent-np-workflow"
+authors:
+  - family-names: Olaniru
+    given-names: Olaniyi Victor
+    affiliation: "Department of Chemical Sciences, Lead City University, Ibadan, Nigeria"
+  - family-names: Ajiboye
+    given-names: Clement Odunayo
+    affiliation: "Department of Chemistry, University of Ibadan, Ibadan, Nigeria"
+preferred-citation:
+  type: article
+  title: "Structure-Based Prioritization and Electronic Tuning of Cinnamate-Bearing Natural Products at Falcipain-2 and Falcipain-3"
+  authors:
+    - family-names: Olaniru
+      given-names: Olaniyi Victor
+    - family-names: Ajiboye
+      given-names: Clement Odunayo
+  doi: "10.26434/chemrxiv.15008280"
+  notes: "Preprint. Journal details will be added when an article record exists."

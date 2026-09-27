@@ -1,0 +1,160 @@
+{
+  "FP2": {
+    "returned_state_records": 261,
+    "parents_with_pose": 175,
+    "states_without_pose": 13,
+    "changed_state_if_GlideScore_minimised": 20,
+    "rank_rho_DockingScore_vs_minimum_GlideScore": 0.967729511867443,
+    "parents_with_ties": 0,
+    "score_mean": -4.102503838506697,
+    "score_sd": 1.5937085742157409
+  },
+  "FP3": {
+    "returned_state_records": 269,
+    "parents_with_pose": 182,
+    "states_without_pose": 5,
+    "changed_state_if_GlideScore_minimised": 23,
+    "rank_rho_DockingScore_vs_minimum_GlideScore": 0.9477989631055476,
+    "parents_with_ties": 0,
+    "score_mean": -4.71244290514065,
+    "score_sd": 1.3846541335803089
+  },
+  "paired_parents": 174,
+  "composite_agreement_spearman": {
+    "raw_mean_vs_raw_worse": 0.9342,
+    "raw_mean_vs_mean_percentile": 0.9834,
+    "raw_mean_vs_worse_percentile": 0.94,
+    "raw_mean_vs_mean_z": 0.9987,
+    "raw_mean_vs_rank_sum": 0.983,
+    "raw_worse_vs_mean_percentile": 0.9343,
+    "raw_worse_vs_worse_percentile": 0.9753,
+    "raw_worse_vs_mean_z": 0.9293,
+    "raw_worse_vs_rank_sum": 0.9319,
+    "mean_percentile_vs_worse_percentile": 0.9386,
+    "mean_percentile_vs_mean_z": 0.983,
+    "mean_percentile_vs_rank_sum": 0.9999,
+    "worse_percentile_vs_mean_z": 0.9418,
+    "worse_percentile_vs_rank_sum": 0.9376,
+    "mean_z_vs_rank_sum": 0.9829
+  },
+  "top10_by_composite": {
+    "raw_mean": [
+      "SANC01049",
+      "SANC00370",
+      "SANC00964",
+      "SANC01067",
+      "SANC00853",
+      "SANC00711",
+      "SANC00548",
+      "SANC01001",
+      "SANC00412",
+      "SANC00867"
+    ],
+    "raw_worse": [
+      "SANC00370",
+      "SANC00964",
+      "SANC01049",
+      "SANC01067",
+      "SANC00548",
+      "SANC00853",
+      "SANC00412",
+      "SANC00867",
+      "SANC00711",
+      "SANC00519"
+    ],
+    "mean_percentile": [
+      "SANC00370",
+      "SANC01049",
+      "SANC00964",
+      "SANC01067",
+      "SANC00853",
+      "SANC00711",
+      "SANC00548",
+      "SANC01001",
+      "SANC00412",
+      "SANC00867"
+    ],
+    "worse_percentile": [
+      "SANC00370",
+      "SANC01049",
+      "SANC00964",
+      "SANC00853",
+      "SANC01067",
+      "SANC00711",
+      "SANC00548",
+      "SANC01001",
+      "SANC00412",
+      "SANC00867"
+    ],
+    "mean_z": [
+      "SANC00370",
+      "SANC01049",
+      "SANC00964",
+      "SANC01067",
+      "SANC00853",
+      "SANC00711",
+      "SANC00548",
+      "SANC01001",
+      "SANC00412",
+      "SANC00867"
+    ],
+    "rank_sum": [
+      "SANC00370",
+      "SANC01049",
+      "SANC00964",
+      "SANC01067",
+      "SANC00853",
+      "SANC00711",
+      "SANC00548",
+      "SANC01001",
+      "SANC00412",
+      "SANC00867"
+    ],
+    "size_scaled": [
+      "SANC01055",
+      "SANC01026",
+      "SANC01056",
+      "SANC00437",
+      "SANC00560",
+      "SANC00852",
+      "SANC00984",
+      "SANC00658",
+      "SANC00239",
+      "SANC00662"
+    ]
+  },
+  "top10_overlap": {
+    "mean_percentile_vs_mean_z": 10,
+    "mean_percentile_vs_rank_sum": 10,
+    "mean_percentile_vs_raw_mean": 10,
+    "mean_percentile_vs_raw_worse": 9,
+    "mean_percentile_vs_size_scaled": 0,
+    "mean_percentile_vs_worse_percentile": 10,
+    "mean_z_vs_rank_sum": 10,
+    "mean_z_vs_raw_mean": 10,
+    "mean_z_vs_raw_worse": 9,
+    "mean_z_vs_size_scaled": 0,
+    "mean_z_vs_worse_percentile": 10,
+    "rank_sum_vs_raw_mean": 10,
+    "rank_sum_vs_raw_worse": 9,
+    "rank_sum_vs_size_scaled": 0,
+    "rank_sum_vs_worse_percentile": 10,
+    "raw_mean_vs_raw_worse": 9,
+    "raw_mean_vs_size_scaled": 0,
+    "raw_mean_vs_worse_percentile": 10,
+    "raw_worse_vs_size_scaled": 0,
+    "raw_worse_vs_worse_percentile": 9,
+    "size_scaled_vs_worse_percentile": 0
+  },
+  "score_size_rho": {
+    "FP2": -0.13225630747260003,
+    "FP3": -0.09863947987579144,
+    "raw_mean": -0.0982835289421661
+  },
+  "pareto_front": [
+    "SANC00370",
+    "SANC01049"
+  ],
+  "tie_rule": "minimum score per parent; ties within 1e-9 resolved by the lower prepared-record index",
+  "normalisation": "percentile, z-score and ordinal rank computed within each target over the parents that returned a pose at that target"
+}

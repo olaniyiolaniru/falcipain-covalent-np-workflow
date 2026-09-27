@@ -1,4 +1,4 @@
-# Falcipain covalent natural-product workflow
+# Structure-Based Prioritization and Electronic Tuning of Cinnamate-Bearing Natural Products at Falcipain-2 and Falcipain-3
 
 Analysis code and data for **"Structure-Based Prioritization and Electronic
 Tuning of Cinnamate-Bearing Natural Products at Falcipain-2 and Falcipain-3"**
